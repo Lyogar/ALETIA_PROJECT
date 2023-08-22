@@ -1,0 +1,190 @@
+Movie,Release,id_genre,id_distributor,Gross
+Spider-Man,2002-05-03,gen1,dist4,403706375.0
+The Lord of the Rings: The Two Towers,2001-12-19,gen1,dist8,341630076.6666667
+Star Wars Ep. II: Attack of the Clones,2002-05-16,gen1,dist5,308555078.75
+Harry Potter and the Chamber of Secrets,2002-11-15,gen1,dist2,262110931.5
+My Big Fat Greek Wedding,2002-04-19,gen7,dist31,241438208.0
+Signs,2002-09-27,gen3,dist148,227967964.5
+Austin Powers in Goldmember,2002-07-25,gen4,dist8,213244522.33333334
+Men in Black 2,2002-07-03,gen2,dist4,190418803.0
+Ice Age,2002-03-15,gen1,dist5,176387405.0
+Chicago,2002-12-27,gen8,dist12,170687518.0
+Catch Me if You Can,2002-12-25,gen3,dist11,164611075.5
+Die Another Day,2002-11-22,gen2,dist9,160942139.0
+Scooby-Doo,2002-06-14,gen1,dist2,153294164.0
+Lilo & Stitch,2002-06-21,gen1,dist1,145782932.5
+xXx,2002-08-09,gen2,dist4,142049588.0
+The Santa Clause 2,2002-11-01,gen1,dist1,139231090.5
+Minority Report,2002-06-21,gen2,dist5,132056855.33333333
+The Ring,2002-10-18,gen6,dist11,129111078.5
+Sweet Home Alabama,2002-09-27,gen4,dist1,127218745.0
+Mr. Deeds,2002-06-28,gen4,dist4,126293452.0
+The Bourne Identity,2002-06-14,gen5,dist3,121597442.0
+The Sum of All Fears,2002-05-31,gen2,dist6,118761797.33333333
+8 Mile,2002-11-08,gen3,dist3,116737488.0
+Road to Perdition,2002-07-12,gen3,dist11,104254638.0
+Panic Room,2002-03-29,gen5,dist4,95852850.5
+Maid in Manhattan,2002-12-13,gen7,dist4,93972060.5
+Two Weeks Notice,2002-12-20,gen7,dist2,93354884.5
+Space Station,2002-04-19,gen10,dist47,93307506.5
+Red Dragon,2002-10-04,gen5,dist3,93052659.0
+The Scorpion King,1994-06-15,gen1,dist1,90891384.66666667
+Spy Kids 2: The Island of Lost Dreams,2002-08-07,gen1,dist27,85846362.5
+Blade 2,2002-03-22,gen2,dist8,82012603.5
+Snow Dogs,2002-01-18,gen1,dist1,81161626.0
+We Were Soldiers,2002-03-01,gen3,dist6,78121877.33333333
+Gangs of New York,2002-12-20,gen3,dist12,77771250.0
+Barbershop,2002-09-13,gen4,dist9,75781873.5
+The Rookie,2002-03-29,gen3,dist1,75600072.0
+Spirit: Stallion of the Cimarron,2002-05-24,gen1,dist11,73247713.5
+John Q.,2002-02-15,gen5,dist8,71391716.5
+The Divine Secrets of the Ya-Ya Sisterhood,2002-06-07,gen4,dist2,69592780.0
+Insomnia,2002-05-24,gen5,dist2,67309347.5
+Changing Lanes,2002-04-12,gen5,dist6,66804398.0
+About Schmidt,2002-12-13,gen3,dist8,65010752.0
+Stuart Little 2,2002-07-19,gen1,dist4,64956806.0
+Jackass: The Movie,2002-10-25,gen10,dist6,64268812.0
+The Time Machine,2002-03-08,gen1,dist11,56734044.0
+Drumline,2002-12-13,gen4,dist5,56398673.0
+The Count of Monte Cristo,2002-01-25,gen1,dist1,54232076.0
+Unfaithful,2002-05-08,gen5,dist5,52764120.0
+Like Mike,2002-07-03,gen1,dist5,51432591.5
+The Tuxedo,2002-09-27,gen2,dist11,50560665.333333336
+Peter Pan: Return to Neverland,2002-02-15,gen1,dist1,48430258.0
+Big Fat Liar,2002-02-08,gen1,dist3,48085911.0
+Star Trek: Nemesis,2002-12-13,gen1,dist6,43254409.0
+Reign of Fire,2002-07-12,gen2,dist1,43061982.0
+The Hours,2002-12-27,gen3,dist6,41675994.0
+High Crimes,2002-04-05,gen5,dist5,41543562.0
+A Walk to Remember,2002-01-25,gen3,dist2,41254080.5
+Orange County,2002-01-11,gen4,dist6,41067867.0
+Windtalkers,2002-06-14,gen2,dist9,40914068.0
+About a Boy,2002-05-17,gen7,dist3,41094139.0
+The Master of Disguise,2002-08-02,gen1,dist4,40376162.0
+Resident Evil,2002-03-15,gen6,dist4,40119709.0
+Blue Crush,2002-08-16,gen3,dist3,40254533.5
+The Wild Thornberrys Movie,2002-12-20,gen1,dist6,40108697.0
+Collateral Damage,2002-02-08,gen2,dist2,40067615.333333336
+Enough,2002-05-24,gen5,dist4,39592478.5
+Undercover Brother,2002-05-31,gen4,dist3,38516932.666666664
+Treasure Planet,2002-11-27,gen1,dist1,38148668.5
+Showtime,2002-03-15,gen4,dist2,38038063.0
+40 Days and 40 Nights,2002-03-01,gen7,dist12,37945302.0
+Crossroads,2002-02-15,gen3,dist6,37189985.5
+Clockstoppers,2002-03-29,gen1,dist6,36986986.0
+The Mothman Prophecies,2002-01-25,gen6,dist4,35487533.0
+K-19: The Widowmaker,2002-07-19,gen2,dist6,35168966.0
+The Hot Chick,2002-12-13,gen4,dist1,35081572.0
+I Spy,2002-11-01,gen2,dist4,33561137.0
+Friday After Next,2002-11-22,gen4,dist8,33253609.0
+The Pianist,2002-12-27,gen3,dist13,32545949.5
+Analyze That,2002-12-06,gen4,dist2,32126438.0
+Murder by Numbers,2002-04-19,gen5,dist2,31910309.0
+One Hour Photo,2002-08-21,gen5,dist15,31597131.0
+Queen of the Damned,2002-02-22,gen6,dist2,30322302.0
+The Banger Sisters,2002-09-20,gen4,dist5,306989.0
+Halloween: Resurrection,2002-07-12,gen6,dist27,30307047.0
+Bad Company,2002-06-07,gen2,dist1,30159112.666666668
+Ghost Ship,2002-10-25,gen6,dist2,30113491.0
+Dragonfly,2002-02-22,gen5,dist3,30193602.5
+The New Guy,2002-05-10,gen4,dist4,29366169.5
+Swimfan,2002-09-06,gen5,dist5,28564995.0
+The Crocodile Hunter: Collision Course,2002-07-12,gen1,dist9,28426232.333333332
+Brown Sugar,2002-10-11,gen7,dist5,27363301.5
+Blood Work,2002-08-09,gen5,dist2,26211371.666666668
+Frida,2002-10-25,gen3,dist12,25885000.0
+Jonah: A VeggieTales Movie,2002-10-04,gen1,dist48,25576290.0
+All About the Benjamins,2002-03-08,gen4,dist8,25627393.666666668
+The Transporter,2002-10-11,gen2,dist5,25296447.0
+The Sweetest Thing,2002-04-12,gen7,dist4,24574218.0
+Eight Crazy Nights,2002-11-27,gen8,dist4,23596900.0
+Adaptation,2002-12-06,gen4,dist4,22498520.0
+City by the Sea,2002-09-06,gen3,dist2,22441457.5
+Bowling for Columbine,2002-10-11,gen10,dist9,21576018.0
+National Lampoon’s Van Wilder,2002-04-05,gen4,dist48,21305259.0
+Antwone Fisher,2002-12-19,gen3,dist15,21078145.0
+Martin Lawrence Live: RunTelDat,2002-08-02,,dist6,19184820.0
+Tuck Everlasting,2002-10-11,gen3,dist1,19161999.0
+Hart's War,2002-02-15,gen3,dist9,19077228.0
+Rollerball,2002-02-08,gen2,dist9,18990712.666666668
+Super Troopers,2002-02-15,gen4,dist15,18492362.0
+The Four Feathers,2002-09-20,gen3,dist6,18306166.0
+Punch-Drunk Love,2002-10-11,gen4,dist4,17817623.5
+Empire,2002-12-06,gen3,dist3,17552509.0
+Eight Legged Freaks,2002-07-17,gen4,dist2,17303905.666666668
+The Country Bears,2002-07-26,gen1,dist1,16989910.5
+Serving Sara,2002-08-23,gen7,dist6,16930185.0
+White Oleander,2002-10-11,gen3,dist2,16357770.0
+Kung Pow: Enter the Fist,2002-01-25,gen4,dist5,16035024.666666666
+Confessions of a Dangerous Mind,2002-12-31,gen3,dist12,16007718.0
+Far From Heaven,2002-08-02,gen4,,15901849.0
+Half Past Dead,2002-11-15,gen2,dist4,15499085.666666666
+Solaris,2002-11-27,gen3,dist5,14971710.0
+"Life, or Something Like It",2002-04-26,gen7,dist5,14448589.0
+Ballistic: Ecks vs. Sever,2002-09-20,gen2,dist2,14299215.666666666
+The Emperor's Club,2002-11-22,gen3,dist3,14089850.5
+The Good Girl,2002-08-07,gen3,dist15,14018296.0
+Stealing Harvard,2002-09-13,gen4,dist4,14004969.0
+Monsoon Wedding,2002-02-22,gen4,dist52,13876974.0
+Hey Arnold! The Movie,2002-06-28,gen1,dist6,13706925.5
+Juwanna Mann,2002-06-21,gen4,dist2,13621275.0
+FearDotCom,2002-08-30,gen6,dist2,13233136.0
+Jason X,2002-04-26,gen6,dist8,13121555.0
+Frailty,2002-04-12,gen5,dist7,13110448.0
+25th Hour,2002-12-19,gen3,dist1,13084595.0
+The Quiet American,2002-11-22,gen3,dist12,12988224.0
+Undisputed,2002-08-23,gen3,dist12,12642647.333333334
+Knockaround Guys,2002-10-11,gen3,dist8,11687908.5
+The Powerpuff Girls,2002-07-03,gen1,dist2,11411836.5
+Abandon,2002-10-18,gen5,dist6,10723525.0
+Narc,2002-12-20,gen5,dist6,10465659.0
+Santa vs. The Snowman,2002-11-06,gen1,dist47,10259134.0
+Sorority Boys,2002-03-22,gen4,dist1,10199399.0
+Possession,2002-08-16,gen3,dist13,10108690.0
+S1m0ne,2002-08-23,gen4,dist8,9684794.5
+The Importance of Being Earnest,2002-05-22,gen4,dist12,8381535.0
+Death to Smoochy,2002-03-29,gen9,dist2,8355815.0
+Big Trouble,2002-04-05,gen9,dist1,7262288.0
+Kissing Jessica Stein,2002-03-13,gen7,dist15,7025722.0
+Trapped,2002-09-20,gen5,dist4,4684218.666666667
+Moonlight Mile,2002-09-27,gen3,dist1,6830957.0
+Femme Fatale,2002-11-06,gen5,dist2,6630252.0
+The Rules of Attraction,2002-10-11,gen9,dist7,6529190.5
+Rabbit-Proof Fence,2002-11-29,gen3,dist12,6199600.0
+Impostor,2002-01-04,gen5,dist12,6114237.0
+Deuces Wild,2002-05-03,gen3,dist9,6044618.0
+Real Women Have Curves,2002-10-18,gen4,dist39,5853194.0
+El crimen de padre Amaro,2002-11-15,gen3,,5719000.0
+The Truth About Charlie,2002-10-25,gen5,dist3,5303000.0
+Formula 51,2002-10-18,gen2,dist159,5204007.0
+Birthday Girl,2002-02-01,gen5,dist12,5031236.0
+Hollywood Ending,2002-05-03,gen7,dist11,4845068.0
+Extreme Ops,1999-03-23,gen10,dist47,4838065.0
+Slackers,2002-02-01,gen4,dist4,4814244.0
+Igby Goes Down,2002-09-13,gen4,dist9,4777465.0
+Italian for Beginners,2002-01-18,gen7,dist12,4447186.0
+The Adventures of Pluto Nash,2001-06-15,gen4,dist394,4415591.0
+Enigma,2002-04-19,gen5,dist12,4298329.0
+Men with Brooms,2002-03-08,gen4,dist48,4239767.0
+Lovely and Amazing,2002-06-28,gen3,dist7,4210379.0
+ESPN's Ultimate X - The Movie,2002-05-10,gen10,dist1,4197175.0
+Mostly Martha (Drei Sterne),2002-08-16,gen4,dist40,4160475.0
+Spider-Man/Men in Black II Double-Bill,2002-09-06,gen1,dist4,4052137.0
+Secretary,2002-09-20,gen3,dist7,4046737.0
+The Fast Runner,2002-05-10,gen3,dist333,3786801.0
+Pinocchio,2002-12-25,gen1,dist12,3678765.0
+Thirteen Conversations About One Thing,2002-05-24,gen3,,3287435.0
+The Cat's Meow,2002-04-12,gen3,dist7,3176936.0
+American Adobo,2002-01-25,gen3,dist378,3094699.0
+Sunshine State,2002-06-21,gen3,,3064356.0
+Paid in Full,2002-10-25,gen3,dist1214,3042188.0
+Tadpole,2002-07-19,gen4,dist12,2891288.0
+Comedian,2002-10-11,gen10,dist12,2744253.0
+Sex and Lucia,2002-07-12,gen3,dist276,2628241.0
+Full Frontal,2002-08-02,gen4,dist12,2512846.0
+Last Orders,2002-02-15,gen3,,2326407.0
+State Property,2002-01-18,gen2,dist7,2099719.0
+Auto Focus,2002-10-18,gen3,,2062066.0
+Harrison's Flowers,2002-03-15,gen3,dist3,1843570.0
+The Dangerous Lives of Altar Boys,2002-06-14,gen3,dist113,1779284.0
+Pokemon 4Ever,2002-10-11,gen1,dist12,1732301.0

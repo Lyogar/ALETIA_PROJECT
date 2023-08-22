@@ -1,0 +1,191 @@
+Movie,Release,id_genre,id_distributor,Gross
+Star Wars Ep. III: Revenge of the Sith,2005-05-19,gen1,dist5,380270577.0
+Harry Potter and the Goblet of Fire,2005-11-18,gen1,dist2,290107394.0
+War of the Worlds,2005-06-29,gen2,dist6,234280354.0
+King Kong,2005-12-14,gen1,dist3,218080025.0
+Wedding Crashers,2005-07-15,gen4,dist8,209237144.5
+Charlie and the Chocolate Factory,2005-07-15,gen1,dist2,206459076.0
+Batman Begins,2005-06-15,gen2,dist2,205343774.0
+Madagascar,2005-05-27,gen1,dist11,193595521.0
+Mr. and Mrs. Smith,2005-06-10,gen2,dist5,186336279.0
+Hitch,2005-02-11,gen7,dist4,178639906.0
+The Longest Yard,2005-05-27,gen4,dist6,158119460.0
+Fantastic Four,2005-07-08,gen2,dist5,154696080.0
+Chicken Little,2005-11-04,gen1,dist1,135386665.0
+Robots,2005-03-11,gen1,dist5,128200012.0
+Walk the Line,2005-11-18,gen3,dist5,119519402.0
+The Pacifier,2005-03-04,gen4,dist1,113046874.0
+Fun With Dick And Jane,2005-12-21,gen4,dist4,110441368.5
+The 40 Year-old Virgin,2005-08-19,gen4,dist3,109449237.0
+Flightplan,2005-09-23,gen5,dist1,89707143.5
+Saw II,2005-10-28,gen6,dist7,87032529.0
+Brokeback Mountain,2005-12-09,gen3,dist13,83043761.0
+Monster-in-Law,2005-05-13,gen4,dist8,82931301.0
+Are We There Yet?,2005-01-21,gen7,dist4,82674398.0
+Cheaper by the Dozen 2,2005-12-21,gen1,dist5,82571173.0
+The Dukes of Hazzard,2005-08-05,gen4,dist2,80270227.0
+Constantine,2005-02-18,gen2,dist2,75976178.0
+The Ring Two,2005-03-18,gen6,dist11,76086488.0
+The Exorcism of Emily Rose,2005-09-09,gen6,dist4,75072454.0
+Four Brothers,2005-05-06,gen3,dist31,74494381.0
+Sin City,2005-04-01,gen5,dist27,74103820.0
+The Interpreter,2005-04-22,gen5,dist3,72708161.0
+Guess Who,2005-03-25,gen4,dist4,68915888.0
+Sahara,2005-04-08,gen1,dist6,68671925.0
+Coach Carter,2005-01-14,gen3,dist6,67264877.0
+Herbie: Fully Loaded,2005-06-22,gen1,dist1,66017249.0
+The Amityville Horror,2005-04-15,gen6,dist74,65233369.0
+Sky High,2005-07-29,gen1,dist1,63943134.5
+Bewitched,2005-06-24,gen4,dist4,63313159.0
+Jarhead,2005-11-04,gen3,dist3,62652880.0
+Cinderella Man,2005-06-03,gen3,dist3,61649911.0
+The Family Stone,2005-12-16,gen4,dist5,60062868.0
+Red Eye,2005-08-19,gen5,dist11,57891803.0
+Memoirs of a Geisha,2005-12-16,gen3,dist4,57250680.5
+White Noise,2005-01-07,gen6,dist3,56240559.5
+Be Cool,2005-03-04,gen4,dist9,55948190.0
+Crash,2005-05-06,gen3,dist7,54957359.0
+"Yours, Mine and Ours",2005-11-23,gen4,dist6,53386389.5
+Corpse Bride,2005-09-16,gen1,dist2,53359111.0
+Kicking and Screaming,2005-05-13,gen4,dist3,52842724.0
+Hide and Seek,2005-01-28,gen6,dist5,51100486.0
+The Hitchhiker's Guide to the Galaxy,2005-04-29,gen1,dist1,51052264.0
+Syriana,2005-11-23,gen5,dist2,50824620.0
+Diary of a Mad Black Woman,2005-02-25,gen3,dist7,50519722.5
+Racing Stripes,2005-01-14,gen1,dist2,49772522.0
+Miss Congeniality 2: Armed and Fabulous,2005-03-24,gen4,dist2,48478006.0
+Just Like Heaven,2005-09-16,gen7,dist11,48318130.0
+The Skeleton Key,2005-08-12,gen6,dist3,47907715.0
+Kingdom of Heaven,2005-05-06,gen2,dist5,47398413.0
+Munich,2005-12-23,gen5,dist3,47391387.5
+Boogeyman,2005-02-04,gen6,dist4,46752382.0
+The Legend of Zorro,2005-10-28,gen1,dist4,46019679.5
+Must Love Dogs,2005-07-29,gen7,dist2,43894863.0
+The Transporter 2,2005-09-02,gen2,dist5,43095856.0
+Rumor Has It,2005-12-25,gen4,dist2,42998201.0
+Fever Pitch,2005-04-08,gen7,dist5,42071069.0
+The Sisterhood of the Traveling Pants,2005-06-01,gen3,dist2,39053061.0
+Pride & Prejudice,2005-02-11,gen8,dist12,38388875.0
+The Brothers Grimm,2005-08-26,gen1,dist27,37907952.5
+Beauty Shop,2005-03-30,gen4,dist9,36351350.0
+Derailed,2005-11-11,gen5,dist14,36022069.5
+The Island,2005-07-22,gen2,dist11,35818913.0
+The Ringer,2005-08-12,gen3,dist44,35428675.0
+Hostage,2005-03-11,gen2,dist12,34638191.0
+Magnificent Desolation,2005-09-23,gen10,dist47,34131825.0
+The Constant Gardener,2005-08-31,gen5,dist13,33579797.5
+Dreamer: Inspired by a True Story,2005-10-21,gen3,dist11,33022286.0
+In Her Shoes,2005-10-07,gen3,dist5,32880591.0
+The Bad News Bears,2005-07-22,gen4,dist6,32868349.0
+Because of Winn-Dixie,2005-02-18,gen4,dist5,32647042.0
+Just Friends,2005-11-23,gen7,dist8,32608293.5
+Stealth,2005-07-29,gen2,dist4,32116746.0
+House of Wax,2005-04-15,gen3,dist7,32064800.0
+The Wedding Date,2005-02-04,gen7,dist3,31726995.0
+"Good Night, and Good Luck",2005-10-07,gen3,dist64,31529610.5
+A History of Violence,2005-09-23,gen5,dist8,31499207.5
+Get Rich or Die Tryin',2005-11-09,gen3,dist6,30983601.0
+The Fog,2005-10-14,gen6,dist4,29530990.5
+Rent,2005-11-23,gen8,dist4,29077547.0
+Capote,2005-09-30,gen3,,28750530.0
+Doom,2005-10-21,gen6,dist3,11631245.0
+Zathura,2005-11-11,gen1,dist4,28045540.0
+XXX: State of the Union,2005-04-29,gen2,dist4,26873932.0
+Elizabethtown,2005-10-14,gen3,dist6,26850426.0
+Aeon Flux,2005-12-02,gen2,dist6,25874337.0
+Serenity,2005-09-30,gen2,dist3,25514517.0
+Dark Water,2005-07-08,gen6,dist1,25473093.0
+Danny the Dog,2005-05-13,gen2,dist68,24537621.0
+Elektra,2005-01-14,gen2,dist5,24409722.0
+Ice Princess,2005-03-18,gen4,dist1,24391912.5
+Lord of War,2005-09-16,gen3,dist7,24149632.0
+Match Point,2005-12-28,gen5,dist11,23120727.5
+2 For the Money,2005-10-07,gen3,dist3,22991379.0
+Prime,2005-10-28,gen7,dist3,22827153.0
+Deuce Bigalow: European Gigolo,2005-08-12,gen4,dist4,22400154.0
+Hustle & Flow,2005-07-22,gen3,dist40,22202809.0
+A Lot Like Love,2005-04-22,gen7,dist1,21840751.5
+George A. Romero's Land of the Dead,2005-06-24,gen6,dist3,20700082.0
+Assault On Precinct 13,2005-01-19,gen2,dist68,20040895.0
+Man of the House,2005-02-25,gen4,dist4,19699706.0
+Valiant,2005-08-19,gen1,dist1,19478106.0
+The Producers: The Movie Musical,2005-12-25,gen8,dist3,
+Cursed,2005-02-25,gen6,dist27,19296211.5
+Into the Blue,2005-09-30,gen1,dist4,18791730.5
+The Upside of Anger,2005-03-11,gen3,dist8,18761993.0
+North Country,2005-10-21,gen3,dist2,18330982.0
+Pooh's Heffalump Movie,2005-02-11,gen1,dist1,18098433.0
+Roll Bounce,2005-09-23,gen4,dist15,17380866.0
+Kung Fu Hustle,2005-04-08,gen2,,17104669.0
+The Devil’s Rejects,2005-07-22,gen6,dist7,17044981.0
+Son of the Mask,2005-02-18,gen1,dist8,17018422.0
+Rebound,2005-07-01,gen4,dist5,16809014.0
+Wild Safari 3D,2005-04-08,gen10,dist118,16621230.0
+The Perfect Man,2005-06-17,gen7,dist3,16535005.0
+Wolf Creek,2005-12-25,gen6,dist14,16187264.0
+Waiting...,2005-10-07,gen4,dist7,16124543.0
+The Gospel,2005-10-07,gen3,dist4,15778152.0
+The Greatest Game Ever Played,2005-09-30,gen3,dist1,15334341.0
+The Cave,2005-08-26,gen6,dist4,15007991.0
+Broken Flowers,2005-08-05,gen7,dist13,13744960.0
+The Honeymooners,2005-06-10,gen4,dist6,12834849.0
+The New World,2005-07-01,gen3,dist158,12712093.0
+The Matador,2005-12-30,gen9,dist14,12591976.5
+The Weather Man,2005-10-28,gen3,dist6,12482775.0
+Casanova,2005-12-25,gen3,dist1,11304403.0
+Lords of Dogtown,2005-06-03,gen3,dist4,11273517.0
+Mrs. Henderson Presents,2005-12-09,gen4,dist14,11036366.0
+Shopgirl,2005-10-21,gen3,dist1,10284523.0
+In the Mix,2005-11-23,gen4,dist7,10223896.0
+Domino,2005-10-14,gen2,dist8,10169202.0
+The Great Raid,2005-06-17,gen3,,10166502.0
+Cry Wolf,2005-09-16,gen5,dist68,10047674.0
+The Ice Harvest,2005-11-23,gen9,dist13,9016782.0
+Aliens of the Deep,2005-01-28,gen10,dist1,8968684.0
+An Unfinished Life,2005-09-09,gen3,dist12,8560983.5
+Sharks 3D,2005-01-28,gen10,dist1361,8500000.0
+The Man,2005-09-09,gen4,dist8,13587017.0
+Mad Hot Ballroom,2005-05-13,gen10,dist40,8117961.0
+Proof,2005-09-16,gen3,dist12,7535331.0
+The Squid and the Whale,2005-10-05,gen3,dist167,7372734.0
+Ladies in Lavender,2005-04-29,gen3,dist167,6759422.0
+Bride & Prejudice,2005-02-11,gen8,dist12,38388875.0
+Millions,2005-03-11,gen4,dist15,6584159.0
+The Aristocrats,2005-07-29,gen10,dist113,6377461.0
+The Jacket,2004-01-16,gen3,dist351,6302446.5
+Underclassman,2005-09-02,gen4,dist12,5654777.0
+Alone in the Dark,2005-01-28,gen6,dist7,5178569.0
+The Libertine,2005-11-23,gen3,dist14,4835065.0
+Ong-Bak,2005-02-11,gen2,dist33,4563167.0
+Mindhunters,2005-05-13,gen5,dist27,4476235.0
+"Kiss Kiss, Bang Bang",2005-10-21,gen4,dist2,4239796.5
+Enron: The Smartest Guys in the Room,2005-04-22,gen10,dist33,4071700.0
+King's Ransom,2005-04-22,gen4,dist8,4008527.0
+Me and You and Everyone We Know,2005-06-17,gen4,dist31,3885134.0
+Melinda and Melinda,2005-03-18,gen4,dist15,3826280.0
+High Tension,2005-06-10,gen6,dist7,3681066.0
+Stay,2005-10-21,gen5,dist5,3626883.0
+Rize,2005-06-24,gen10,dist7,3278611.0
+Grizzly Man,2005-08-12,gen10,dist7,3178403.0
+Supercross,2005-08-17,gen2,dist5,3102550.0
+The Wild Parrots of Telegraph Hill,2005-02-11,gen10,dist293,3058527.0
+G,2005-09-16,gen3,dist386,3020784.0
+Walk on Water,2005-02-25,gen3,dist381,2712736.0
+Junebug,2005-08-03,gen3,,2678010.0
+Layer Cake,2005-05-13,gen5,,2339957.0
+Oliver Twist,2005-09-23,gen3,dist24,2075620.5
+The Work and the Glory: American Zion,2005-10-21,gen3,,2025032.0
+A Sound of Thunder,2005-09-02,gen2,dist2,1900451.0
+Mrs. Palfrey at the Claremont,2005-11-25,gen3,dist356,1717595.0
+Everything is Illuminated,2005-09-16,gen3,dist64,1705595.0
+El Vacilón: The Movie,2005-10-21,gen4,dist67,1693256.0
+State Property 2,2005-04-13,gen2,dist7,1691706.0
+The White Countess,2005-12-21,gen3,,1669971.0
+Murderball,2005-07-08,gen10,dist113,1531154.0
+Paradise Now,2005-10-28,gen3,dist64,1452402.0
+2046,2005-08-05,gen3,,1442338.0
+Salaam Namaste,2005-09-09,gen4,dist44,1411065.0
+Paheli (Puzzle),2005-06-24,gen3,dist32,1409499.0
+Ushpizin,2005-10-19,gen3,dist54,1397999.0
+Dear Frankie,2005-03-04,gen3,dist12,1340891.0
+Thumbsucker,2005-09-16,gen4,,1328679.0

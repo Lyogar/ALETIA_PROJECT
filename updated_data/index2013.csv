@@ -1,0 +1,188 @@
+Movie,Release,id_genre,id_distributor,Gross
+The Hunger Games: Catching Fire,2013-11-22,gen1,dist7,424668047.0
+Iron Man 3,2013-05-03,gen2,dist1,409008563.5
+Frozen,2013-11-27,gen8,dist1,400845509.0
+Despicable Me 2,2013-07-03,gen1,dist3,368065385.0
+Man of Steel,2013-06-14,gen2,dist2,291045518.0
+Gravity,2013-10-04,gen5,dist2,274092705.0
+Monsters University,2013-06-21,gen1,dist1,268490546.5
+The Hobbit: The Desolation of Smaug,2013-12-13,gen1,dist2,258304188.5
+Fast and Furious 6,2013-05-24,gen2,dist3,238679850.0
+Oz the Great and Powerful,2013-03-08,gen1,dist1,234841410.5
+Star Trek Into Darkness,2013-05-16,gen1,dist6,228778661.0
+Thor: The Dark World,2013-11-08,gen2,dist1,206362140.0
+World War Z,2013-06-21,gen2,dist6,202475377.66666666
+The Croods,2013-03-22,gen1,dist5,187168425.0
+The Heat,2012-10-19,gen10,dist31,26626034.333333332
+We’re the Millers,2013-08-07,gen4,dist2,150394119.0
+American Hustle,2013-12-13,gen9,dist4,150108131.5
+The Great Gatsby,2013-11-15,gen3,dist151,73846409.5
+The Conjuring,2013-07-19,gen6,dist2,137400141.0
+Identity Thief,2013-02-08,gen4,dist3,134506920.0
+Grown Ups 2,2013-07-12,gen4,dist4,133668525.0
+The Wolverine,2013-07-26,gen2,dist5,132556852.0
+Anchorman 2: The Legend Continues,2013-12-18,gen4,dist6,126290772.0
+Lone Survivor,2013-12-25,gen2,dist3,125095601.0
+G.I. Joe: Retaliation,2013-03-27,gen2,dist6,122523060.0
+Cloudy with a Chance of Meatballs 2,2013-09-27,gen1,dist4,119793567.0
+Now You See Me,2013-05-31,gen5,dist7,117723989.0
+The Wolf of Wall Street,2013-12-25,gen9,dist6,116924938.5
+Lee Daniels' The Butler,2013-08-16,gen3,dist14,116632095.0
+The Hangover 3,2013-05-23,gen4,dist2,112200072.0
+Epic,2013-05-24,gen1,dist5,107518682.0
+Captain Phillips,2013-10-11,gen3,dist4,107112709.0
+Jackass Presents: Bad Grandpa,2013-10-25,gen4,dist6,102003019.0
+Pacific Rim,2013-07-12,gen2,dist2,101802906.0
+This is the End,2013-06-12,gen4,dist4,101470202.0
+Olympus Has Fallen,2013-03-22,gen5,dist45,98926290.66666667
+42,2013-04-12,gen3,dist2,95020213.0
+Elysium,2013-08-09,gen2,dist4,93050117.0
+Disney Planes,2013-08-09,gen1,dist1,90282580.0
+The Lone Ranger,2013-07-02,gen11,dist1,89302115.0
+Oblivion,2013-04-19,gen5,dist3,89078735.0
+Insidious Chapter 2,2013-09-13,gen6,dist45,83586447.0
+Saving Mr. Banks,2013-12-20,gen3,dist1,83300670.5
+Turbo,2013-07-17,gen1,dist5,83028129.0
+2 Guns,2013-08-02,gen2,dist3,75612460.0
+White House Down,2013-06-28,gen5,dist4,73103784.0
+Mama,2013-01-18,gen6,dist3,71628180.0
+Safe Haven,2013-02-14,gen3,dist25,71374120.0
+The Smurfs 2,2013-07-31,gen1,dist4,71017784.0
+The Best Man Holiday,2013-11-15,gen4,dist3,70525195.0
+Percy Jackson: Sea of Monsters,2013-08-07,gen1,dist5,68559554.0
+A Good Day to Die Hard,2013-02-14,gen2,dist5,67349198.0
+Warm Bodies,2013-02-01,gen7,dist7,66380662.0
+Jack the Giant Slayer,2013-03-01,gen1,dist2,65187603.0
+The Purge,2013-06-07,gen5,dist88,64473115.0
+Last Vegas,2013-11-01,gen4,dist43,63914167.0
+Ender's Game,2013-11-01,gen1,dist7,61737191.0
+Prisoners,2013-09-20,gen5,dist2,61002302.0
+After Earth,2013-05-31,gen2,dist4,60522097.0
+The Secret Life of Walter Mitty,2013-12-25,gen1,dist5,58236838.0
+Escape From Planet Earth,2013-02-15,gen1,dist14,57012977.0
+12 Years a Slave,2013-10-18,gen3,dist15,56671993.0
+Free Birds,2013-11-01,gen1,dist25,55750480.0
+Hansel & Gretel: Witch Hunters,2013-01-25,gen2,dist6,55703475.0
+Evil Dead,2013-04-05,gen6,dist4,54239856.0
+RED 2,2013-07-19,gen2,dist7,53262560.0
+Tyler Perry's A Madea Christmas,2013-12-13,gen4,dist7,52543354.0
+Tyler Perry’s Temptation,2013-03-29,gen3,dist7,51975354.0
+The Call,2013-05-31,gen3,dist62,51872378.0
+Pain & Gain,2013-04-26,gen2,dist6,49875291.0
+Gangster Squad,2013-01-11,gen2,dist2,46000903.0
+The Internship,2013-06-07,gen4,dist5,44672764.0
+Snitch,2013-02-22,gen5,dist7,42930462.0
+Riddick,2013-09-06,gen2,dist3,42025135.0
+A Haunted House,2013-01-11,gen4,dist29,40041683.0
+47 Ronin,2013-12-25,gen2,dist3,38362475.0
+August: Osage County,2013-12-25,gen9,dist14,37738810.0
+Philomena,2013-11-22,gen3,dist14,37709979.0
+The Family,2013-09-13,gen9,dist25,36918811.0
+Walking with Dinosaurs,2013-12-20,gen1,dist5,36076121.0
+Carrie,2013-10-18,gen6,dist4,35266619.0
+Texas Chainsaw 3D,2013-01-04,gen6,dist7,34341945.0
+R.I.P.D.,2013-07-19,gen2,dist3,33618855.0
+Blue Jasmine,2013-07-26,gen4,,33405176.0
+Kevin Hart: Let Me Explain,2013-07-03,,dist7,32244051.0
+Side Effects,2013-02-08,gen5,dist29,32172757.0
+Scary Movie V,2013-04-12,gen4,dist14,32015787.0
+The Mortal Instruments: City of Bones,2013-08-21,gen1,dist4,31165421.0
+Delivery Man,2013-11-22,gen4,dist1,30661961.5
+Grudge Match,2013-12-25,gen4,dist2,29812625.5
+One Direction: This is Us,2013-08-30,,dist4,28873374.0
+Kick-Ass 2,2013-08-16,gen2,dist3,28795985.0
+Dallas Buyers Club,2013-11-01,gen3,dist13,27298285.0
+Rush,2013-09-20,gen3,dist3,26947624.0
+The Host,2013-12-20,gen3,,26626034.333333332
+The World's End,2013-08-23,gen4,dist13,26004851.0
+21 and Over,2013-03-01,gen4,dist25,25682380.0
+Escape Plan,2013-10-18,gen5,dist7,25134719.333333332
+Don Jon,2013-09-27,gen7,dist25,24477704.0
+The Incredible Burt Wonderstone,2013-03-15,gen4,dist2,22537881.0
+The Big Wedding,2013-04-26,gen7,dist7,21819348.0
+Mud,2013-04-26,gen3,dist38,21590086.0
+Baggage Claim,2013-09-27,gen7,dist15,21569509.0
+The Way Way Back,2013-07-05,gen4,dist15,21504618.0
+The Book Thief,2013-11-08,gen3,dist5,21488481.0
+The Place Beyond the Pines,2013-03-29,gen3,dist13,21403519.0
+Homefront,2013-11-27,gen2,dist29,20158627.333333332
+Broken City,2013-01-18,gen5,dist5,19701164.0
+Beautiful Creatures,2013-02-14,gen3,dist2,19452138.0
+Runner Runner,2013-10-04,gen5,dist5,19316646.0
+You're Next,2013-08-23,gen6,dist7,18494006.0
+Quartet,2013-01-11,gen4,dist14,18388357.0
+Admission,2013-03-22,gen7,dist13,18007317.0
+Nebraska,2013-11-15,gen3,dist6,17654912.0
+Parker,2013-01-25,gen5,dist45,17616641.0
+Enough Said,2013-09-18,gen4,dist15,17550872.0
+Dark Skies,2013-02-22,gen6,dist14,17418667.0
+The Counselor,2013-10-25,gen5,dist5,16973715.0
+Jobs,2013-08-16,gen3,dist29,16131410.0
+Fruitvale Station,2013-07-12,gen3,dist14,16098998.0
+About Time,2013-11-01,gen7,dist3,15323421.0
+The Last Exorcism Part II,2013-03-01,gen6,dist43,15179302.5
+Spring Breakers,2013-03-15,gen5,dist34,14124285.0
+Inside Llewyn Davis,2013-12-06,gen3,dist43,13241764.0
+The Last Stand,2013-01-18,gen2,dist7,12050299.0
+Out of the Furnace,2013-12-04,gen3,dist25,11328842.5
+Dead Man Down,2013-11-08,gen4,dist33,10888110.5
+Getaway,2013-08-30,gen5,dist2,10498216.0
+Bullet to the Head,2013-02-01,gen2,dist2,9489829.0
+Peeples,2013-05-10,gen7,dist7,9177065.0
+Battle of the Year,2013-09-20,gen3,dist4,8888355.0
+Movie 43,2013-01-25,gen4,dist25,8840453.0
+Mandela: Long Walk to Freedom,2013-11-29,gen3,dist14,8323085.0
+Before Midnight,2013-05-24,gen3,,8110621.0
+Dhoom 3,2013-12-20,gen2,dist44,8031955.0
+Jerusalem,2013-09-13,gen10,,8020721.0
+Machete Kills,2013-10-11,gen2,dist29,8008161.0
+Promised Land,2012-12-28,gen3,dist13,7597898.0
+Paranoia,2013-08-16,gen5,dist25,7388654.0
+Black Nativity,2013-11-27,gen8,dist5,7018188.0
+The Spectacular Now,2013-08-02,gen3,dist34,6852971.0
+All is Lost,2013-10-18,gen5,dist38,6263670.0
+Justin Bieber’s Believe,2013-12-25,gen10,dist29,6206566.0
+The Bling Ring,2013-06-14,gen3,dist34,5845732.0
+Pulling Strings,2013-10-04,gen7,dist7,5842961.0
+Closed Circuit,2013-08-28,gen5,dist13,5750995.0
+Chennai Express,2013-08-08,gen7,dist35,5307344.5
+The Company You Keep,2013-04-05,gen5,,5132442.0
+20 Feet From Stardom,2013-06-14,gen10,dist112,4946250.0
+Much Ado About Nothing,2013-06-07,gen7,dist38,4328850.0
+Frances Ha,2013-05-17,gen4,dist31,4067398.0
+The To Do List,2013-07-26,gen4,dist43,3491669.0
+Metallica Through the Never,2013-09-27,,dist54,3419967.0
+Emperor,2013-03-08,gen3,dist38,3346264.0
+Stand Up Guys,2013-02-01,gen3,dist38,3310031.0
+The Fifth Estate,2013-10-18,gen3,dist1,3254172.0
+In a World...,2013-08-09,gen4,dist38,2963271.0
+La grande bellezza,2013-09-06,gen4,dist954,2883879.0
+Home Run,2013-04-19,gen3,dist381,2859955.0
+Filly Brown,2013-04-19,gen3,dist7,2850357.0
+Grace Unplugged,2013-10-04,gen3,dist38,2507159.0
+The Sapphires,2013-03-22,gen8,dist14,2450867.0
+The Gatekeepers,2013-02-01,gen10,,2408553.0
+I'm in Love with a Church Girl,2013-10-18,gen3,dist173,2387730.0
+No,2013-02-15,gen3,,2341226.0
+Trance,2013-04-05,gen5,dist15,2325668.0
+Renoir,2013-03-29,gen3,dist381,2291047.0
+The East,2012-10-19,gen10,dist31,26626034.333333332
+Oldboy,2013-11-27,gen2,dist45,2193658.0
+The Saratov Approach,2013-10-09,gen5,dist259,2142351.5
+2013 Oscar Shorts,2013-02-01,gen13,dist321,2142342.0
+Austenland,2013-08-16,gen7,,2137573.0
+Blackfish,2013-07-19,gen10,dist33,2073582.0
+The Iceman,2013-05-03,gen3,dist101,1930282.0
+Stoker,2013-03-01,gen3,dist15,1703125.0
+Unfinished Song,2013-06-21,gen4,dist14,1698952.0
+The Christmas Candle,2013-11-15,gen1,dist451,1632000.0
+Seethamma Vakitlo Sirimalle Chettu,2013-01-10,gen4,dist474,1582476.0
+Race 2,2013-01-25,gen2,dist35,1579468.0
+"Bless Me, Ultima",2013-02-22,gen3,dist312,1559556.0
+Kon-Tiki,2013-04-26,gen3,dist14,1517410.0
+Disconnect,2013-04-12,gen3,dist1361,1436862.0
+Girl Most Likely,2013-07-19,gen4,dist38,1378591.0
+Wadjda,2013-09-13,gen3,,1342455.0
+The Ultimate Life,2013-09-06,gen3,dist173,1327841.0
+The Kings of Summer,2013-05-31,gen4,dist43,1315500.0
+The Invisible Woman,2012-06-22,gen10,dist255,1233347.0

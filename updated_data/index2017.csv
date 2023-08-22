@@ -1,0 +1,193 @@
+Movie,Release,id_genre,id_distributor,Gross
+Star Wars Ep. VIII: The Last Jedi,2017-12-15,gen1,dist1,620181382.0
+Beauty and the Beast,2017-03-17,gen8,dist1,504014165.0
+Wonder Woman,2017-06-02,gen2,dist2,412563408.0
+Jumanji: Welcome to the Jungle,2017-12-20,gen1,dist4,404513292.0
+Guardians of the Galaxy Vol 2,2017-05-05,gen2,dist1,389813101.0
+Spider-Man: Homecoming,2017-07-07,gen2,dist4,334201140.0
+It,2017-09-08,gen6,dist2,328155311.0
+Thor: Ragnarok,2017-11-03,gen2,dist1,315058289.0
+Despicable Me 3,2017-06-30,gen1,dist3,264624300.0
+Justice League,2017-11-17,gen2,dist2,229024295.0
+Logan,2017-03-03,gen2,dist5,226277068.0
+The Fate of the Furious,2017-04-14,gen2,dist3,225927178.33333334
+Coco,2017-11-22,gen8,dist1,210460015.0
+Dunkirk,2017-07-21,gen2,dist2,188828995.66666666
+Get Out,2017-02-24,gen6,dist3,175939300.0
+The Lego Batman Movie,2017-02-10,gen1,dist2,175750384.0
+The Boss Baby,2017-03-31,gen1,dist5,175003033.0
+The Greatest Showman,2017-12-20,gen8,dist5,174340174.0
+Kong: Skull Island,2017-03-10,gen1,dist2,168052812.0
+Cars 3,2017-06-16,gen1,dist1,152901115.0
+War for the Planet of the Apes,2017-07-14,gen2,dist5,146880162.0
+Split,2017-01-20,gen6,dist3,138216475.0
+Wonder,2017-11-17,gen3,dist7,132422809.0
+Transformers: The Last Knight,2017-06-21,gen2,dist6,130168683.0
+Girls Trip,2017-07-21,gen4,dist3,115140050.0
+Fifty Shades Darker,2017-02-10,gen3,dist3,114507630.0
+Baby Driver,2017-06-28,gen5,dist4,107825862.0
+Pitch Perfect 3,2017-12-22,gen4,dist3,104897530.0
+Daddy’s Home 2,2017-11-10,gen4,dist6,104029443.0
+Murder on the Orient Express,2017-11-10,gen3,dist5,102826543.0
+Annabelle: Creation,2017-08-11,gen6,dist2,102092201.0
+Kingsman: The Golden Circle,2017-09-22,gen2,dist5,100234838.0
+Blade Runner 2049,2017-10-06,gen5,dist2,92054159.0
+John Wick: Chapter Two,2017-02-10,gen2,dist7,92029184.0
+The Emoji Movie,2017-07-28,gen1,dist4,86089513.0
+Power Rangers,2017-03-24,gen2,dist7,85364450.0
+Ferdinand,2017-12-15,gen1,dist5,84410380.0
+The Post,2017-12-22,gen3,dist5,81903458.0
+The Mummy,2017-06-09,gen1,dist3,80143381.66666667
+The Hitman’s Bodyguard,2017-08-18,gen2,dist7,75468583.0
+Alien: Covenant,2017-05-19,gen6,dist5,74262031.0
+Captain Underpants: The First Epic Movie,2017-06-02,gen1,dist5,73921000.0
+A Bad Moms Christmas,2017-11-01,gen4,dist552,72110659.0
+A Dog’s Purpose,2017-01-27,gen3,dist3,64415255.0
+The Shape of Water,2017-12-01,gen3,dist15,63859435.0
+The Lego Ninjago Movie,2017-09-22,gen1,dist2,59281555.0
+Baywatch,2017-05-25,gen4,dist6,58060186.0
+The Shack,2017-03-03,gen3,dist7,57386418.0
+Darkest Hour,2017-11-22,gen3,dist13,56455765.0
+Happy Death Day,2017-10-13,gen6,dist3,55683845.0
+"Three Billboards Outside Ebbing, Missouri",2017-11-10,gen9,dist15,54513740.0
+Atomic Blonde,2017-07-28,gen5,dist13,51649888.333333336
+American Made,2017-09-29,gen2,dist3,51342000.0
+The Dark Tower,2017-08-04,gen11,dist4,50701325.0
+Lady Bird,2017-11-03,gen3,dist34,48958273.0
+Tyler Perry’s Boo 2! A Madea Halloween,2017-10-20,gen4,dist7,47319572.0
+Snatched,2017-05-12,gen4,dist5,45843223.333333336
+The Great Wall,2017-02-17,gen2,dist3,45157105.0
+Smurfs: The Lost Village,2017-04-07,gen1,dist4,45020282.0
+Going in Style,2017-04-07,gen4,dist2,45018541.0
+All Eyez on Me,2017-06-16,gen3,dist7,44922302.0
+xXx: Return of Xander Cage,2017-01-20,gen2,dist6,44898413.0
+47 Meters Down,2017-06-16,gen5,,44307192.0
+The Big Sick,2017-06-23,gen7,dist7,42872797.0
+The Star,2017-10-27,gen3,dist33,40850409.5
+Ghost in the Shell,2017-03-31,gen2,dist6,40563557.0
+Valerian and the City of a Thousand Planets,2017-07-21,gen1,dist552,40952782.0
+King Arthur: Legend of the Sword,2017-05-12,gen1,dist2,39175066.0
+Jigsaw,2017-10-27,gen6,dist7,38052832.0
+American Assassin,2017-09-15,gen5,dist7,36249674.0
+The Foreigner,2017-07-21,gen3,dist538,12786053.0
+"Everything, Everything",2017-05-19,gen3,dist2,34121140.0
+Wind River,2017-08-04,gen5,dist14,33800859.0
+Geostorm,2017-10-20,gen5,dist2,33700160.0
+Monster Trucks,2017-01-13,gen1,dist6,33370166.0
+Fist Fight,2017-02-17,gen4,dist2,32187017.0
+How to Be a Latin Lover,2017-04-28,gen4,dist7,32149404.0
+Kidnap,2017-08-04,gen5,dist110,30802418.0
+Underworld: Blood Wars,2017-01-06,gen2,dist4,30353973.0
+The Mountain Between Us,2017-10-06,gen1,dist5,30348555.0
+Life,2017-03-24,gen5,dist4,30234022.0
+"I, Tonya",2017-12-08,gen9,dist51,30014536.5
+Hostiles,2017-12-22,gen11,,29819114.0
+Molly’s Game,2017-12-25,gen3,dist552,28780744.0
+The Nut Job 2: Nutty by Nature,2017-08-11,gen1,dist29,28370522.0
+Rings,2017-02-03,gen6,dist6,27793018.0
+Logan Lucky,2017-08-18,gen4,dist61,27780198.666666668
+Home Again,2017-09-08,gen7,dist29,27020284.0
+Resident Evil: The Final Chapter,2017-01-27,gen6,dist4,26844692.0
+The House,2017-06-28,gen5,dist218,25584504.0
+All the Money in the World,2017-12-25,gen5,dist4,25110016.0
+Gifted,2017-04-07,gen3,dist15,24801212.0
+Downsizing,2017-12-22,gen4,dist6,24449754.0
+The Bye Bye Man,2017-01-13,gen6,dist552,22395806.0
+Victoria and Abdul,2017-09-22,gen3,dist13,22245070.0
+Rough Night,2017-06-16,gen9,dist4,22105643.0
+My Little Pony: The Movie,2017-10-06,gen1,dist7,21885107.0
+Phantom Thread,2017-12-25,gen3,dist13,21198205.0
+The Disaster Artist,2017-12-01,gen4,dist34,21120616.0
+Sleepless,2017-01-13,gen5,dist29,20783704.0
+Diary of a Wimpy Kid: The Long Haul,2017-05-19,gen1,dist5,20738724.0
+The Circle,2017-04-28,gen5,dist552,20497844.0
+Baahubali 2: The Conclusion,2017-04-28,gen2,dist69,19786370.666666668
+CHiPS,2017-03-24,gen2,dist2,18600152.0
+Only the Brave,2017-10-20,gen3,dist4,18341361.666666668
+Call Me by Your Name,2017-11-24,gen3,,18080440.5
+mother!,2017-09-15,gen5,dist6,17800004.0
+Father Figures,2017-12-22,gen4,dist2,17501244.0
+The Zookeeper’s Wife,2017-03-31,gen3,dist13,17508423.0
+The Glass Castle,2017-08-11,gen3,dist7,17273059.0
+Flatliners,2017-09-29,gen6,dist4,16883115.0
+Detroit,2017-08-04,gen3,dist99,16790139.0
+The Case for Christ,2017-04-07,gen3,,14678714.0
+Wish Upon,2017-07-14,gen6,dist106,14301505.0
+It Comes at Night,2017-06-09,gen6,dist34,13985117.0
+Born in China,2017-04-21,gen10,dist1,13873211.0
+Megan Leavey,2017-06-09,gen3,dist61,13406304.0
+The Founder,2017-08-16,gen3,dist104,12786053.0
+Battle of the Sexes,2017-09-22,gen3,dist15,12638526.0
+Before I Fall,2017-03-03,gen3,dist29,12241072.0
+"Roman J. Israel, Esq.",2017-11-17,gen3,dist4,11962712.0
+Unforgettable,2017-04-21,gen5,dist2,11368012.0
+The Beguiled,2017-06-23,gen11,dist13,10643332.0
+The Belko Experiment,2017-03-17,gen6,dist189,10166820.0
+Marshall,2017-10-13,gen3,dist29,10051659.0
+Thank You for Your Service,2017-10-27,gen3,dist3,9479390.0
+Rock Dog,2017-02-24,gen1,dist7,9420546.0
+The Lost City of Z,2017-04-14,gen3,dist61,8574339.0
+The Promise,2017-03-31,gen2,dist10,8224288.0
+A Cure for Wellness,2017-02-17,gen5,dist5,8106986.0
+The Space Between Us,2017-02-03,gen3,dist552,7885294.0
+Let There Be Light,2017-10-27,gen3,dist187,7233471.0
+Gold,2017-12-01,gen1,dist4,7227038.0
+I Am Not Your Negro,2017-02-03,gen10,dist33,7123919.0
+Beatriz at Dinner,2017-06-09,gen3,dist38,7115854.0
+Birth of the Dragon,2017-08-25,gen2,dist189,6901965.0
+Loving Vincent,2017-09-22,gen3,,6735118.0
+The Snowman,2016-05-27,gen3,dist235,6685400.0
+Same Kind of Different as Me,2017-10-20,gen3,,6423605.0
+Lowriders,2017-05-12,gen3,dist189,6179955.0
+Maudie,2017-06-16,gen3,,6170998.0
+Just Getting Started,2017-12-08,gen4,dist106,6069605.0
+The Florida Project,2017-10-06,gen3,dist34,5904366.0
+All Saints,2017-08-25,gen3,dist4,5802208.0
+Suburbicon,2017-10-27,gen9,dist6,5775178.0
+The Man Who Invented Christmas,2017-11-22,gen1,dist61,5676110.0
+Paris Can Wait,2017-05-12,gen7,,5608745.0
+Tiger Zinda Hai,2017-12-22,gen2,dist44,
+The Book of Henry,2017-06-16,gen3,dist13,4288104.0
+Stronger,2017-09-22,gen3,dist38,4211129.0
+The Hero,2017-06-28,gen5,dist218,4077333.0
+Sleight,2017-04-28,gen2,dist173,3930990.0
+A United Kingdom,2017-02-10,gen3,dist15,3902185.0
+Friend Request,2017-09-22,gen5,,3759078.0
+A Monster Calls,2016-12-23,gen3,dist13,3740823.0
+Table 19,2017-03-03,gen4,dist15,3614896.0
+Their Finest,2017-04-07,gen7,dist552,3603484.0
+Phoenix Forgotten,2017-04-21,gen6,,3600146.0
+An Inconvenient Sequel,2017-07-28,gen10,dist40,3496795.0
+Til Death Do Us Part,2017-09-29,gen5,dist379,3424454.0
+Colossal,2017-04-07,gen3,dist51,3194575.0
+Ingrid Goes West,2017-08-11,gen9,dist51,3021133.0
+2017 Oscar Shorts,2017-02-10,gen13,dist223,2835355.0
+KEDi,2017-02-10,gen10,,2834262.0
+My Cousin Rachel,2017-06-09,gen3,dist15,2716368.0
+Mayweather vs. McGregor,2017-08-26,,dist85,2620183.0
+A Question of Faith,2017-09-29,gen3,,2587072.0
+Is Genesis History?,2017-02-23,gen10,dist85,2570355.0
+Hazlo Como Hombre,2017-09-01,gen4,dist7,2534252.0
+LBJ,2017-11-03,gen3,,2468683.0
+Tulip Fever,2017-09-01,gen3,dist14,2455635.0
+T2: Trainspotting,2017-03-17,gen3,dist4,2402004.0
+Raees,2017-01-25,gen2,dist94,2816211.5
+The Resurrection of Gavin Stone,2017-01-20,gen4,dist173,2303792.0
+The Killing of a Sacred Deer,2017-10-20,gen6,dist34,2291900.0
+Collide,2017-02-24,gen2,dist29,2280004.0
+Jeepers Creepers 3,2017-09-26,gen6,dist85,2235162.0
+The Lovers,2017-05-05,gen7,dist34,2194521.0
+Un Padre No Tan Padre,2017-01-27,gen4,dist7,2156047.0
+Brad’s Status,2017-09-15,gen4,dist99,2133158.0
+Good Time,2017-08-11,gen3,dist34,2026498.0
+Badrinath Ki Dulhania,2017-03-10,gen4,dist63,1993259.0
+Along With The Gods: The Two Worlds,2017-12-22,gen2,dist10,1908822.5
+A Quiet Passion,2017-04-14,gen3,dist62,1865396.0
+The Wall,2017-06-02,gen6,dist67,1803064.0
+Free Fire,2017-04-21,gen2,dist34,1799322.0
+The Last Word,2017-03-03,gen3,dist61,1779620.0
+Goodbye Christopher Robin,2017-10-13,gen3,dist15,1735251.0
+Jane,2017-10-20,gen10,dist203,1723379.0
+Menashe,2017-07-28,gen3,dist34,1702996.0
+Slamma Jamma,2017-03-24,gen3,dist461,1687000.0
+The Comedian,2017-02-03,gen4,,1658706.0

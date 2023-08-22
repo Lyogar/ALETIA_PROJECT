@@ -1,0 +1,191 @@
+Movie,Release,id_genre,id_distributor,Gross
+American Sniper,2014-12-25,gen3,dist2,350126372.0
+The Hunger Games: Mockingjay - Part 1,2014-11-21,gen5,dist7,337135885.0
+Guardians of the Galaxy,2014-08-01,gen2,dist1,333355770.6666667
+Captain America: The Winter Soldier,2014-04-04,gen2,dist1,259760034.0
+The Lego Movie,2014-02-07,gen1,dist2,257768700.66666666
+The Hobbit: The Battle of the Five Armies,2014-12-17,gen1,dist2,255119788.0
+Transformers: Age of Extinction,2014-06-27,gen2,dist6,245439076.0
+Maleficent,2014-05-30,gen1,dist1,241408853.0
+X-Men: Days of Future Past,2014-05-23,gen2,dist5,233921534.0
+Big Hero 6,2014-11-07,gen1,dist1,222527828.0
+Dawn of the Planet of the Apes,2014-07-11,gen1,dist5,208545589.0
+The Amazing Spider-Man 2,2014-05-02,gen2,dist4,202853933.0
+Godzilla,2014-05-16,gen2,dist2,200676069.0
+22 Jump Street,2014-06-13,gen4,dist4,191719337.0
+Teenage Mutant Ninja Turtles,2014-08-08,gen1,dist6,191204754.0
+Interstellar,2014-11-07,gen1,dist6,188018955.5
+How to Train Your Dragon 2,2014-06-13,gen1,dist5,177002924.0
+Gone Girl,2014-10-03,gen5,dist5,167767189.0
+Divergent,2014-03-21,gen1,dist7,150947895.0
+Neighbors,2014-05-09,gen4,dist3,150122100.0
+Ride Along,2014-01-17,gen4,dist3,134692988.33333334
+Rio 2,2014-04-11,gen1,dist5,131538435.0
+Into the Woods,2014-12-25,gen8,dist1,128002372.0
+Lucy,2014-07-25,gen2,dist3,126633720.0
+The Fault in Our Stars,2014-06-06,gen3,dist5,124872350.0
+Unbroken,2014-12-25,gen3,dist3,115637895.0
+Night at the Museum: Secret of the Tomb,2014-12-19,gen1,dist5,113746621.0
+Mr. Peabody & Sherman,2014-03-07,gen1,dist5,111506430.0
+300: Rise of an Empire,2014-03-07,gen2,dist2,106580051.0
+The Maze Runner,2014-09-19,gen2,dist5,102427862.0
+The Equalizer,2014-09-26,gen2,dist4,101530738.0
+Noah,2014-03-28,gen3,dist6,101200044.0
+Edge of Tomorrow,2014-06-06,gen2,dist2,100206256.0
+Non-Stop,2014-02-28,gen2,dist3,92026453.33333333
+Heaven is for Real,2014-04-16,gen3,dist4,91414675.0
+The Imitation Game,2014-11-28,gen3,dist14,91125413.0
+Dumb and Dumber To,2014-11-14,gen4,dist3,86208010.0
+Annie,2014-12-19,gen8,dist4,85911262.0
+Fury,2014-10-17,gen3,dist4,85817906.0
+Tammy,2014-07-02,gen4,dist2,84525432.0
+Annabelle,2014-10-03,gen6,dist2,84273813.0
+The Other Woman,2014-04-25,gen4,dist5,83911193.0
+Penguins of Madagascar,2014-11-26,gen1,dist5,83600911.0
+Let’s Be Cops,2014-08-13,gen4,dist5,82390774.0
+The Monuments Men,2014-02-07,gen3,dist4,78031620.0
+Hercules,2014-07-25,gen1,dist6,72688614.0
+The Purge: Anarchy,2014-07-18,gen5,dist3,71829383.33333333
+Think Like a Man Too,2014-06-20,gen7,dist4,65105434.5
+Exodus: Gods and Kings,2014-12-12,gen3,dist5,65014513.0
+The Nut Job,2014-01-17,gen1,dist29,64251539.5
+God’s Not Dead,2014-03-21,gen3,,60755732.0
+Son of God,2014-02-28,gen3,dist5,59700064.0
+Planes: Fire and Rescue,2014-07-18,gen1,dist1,59161759.5
+The Grand Budapest Hotel,2014-03-07,gen4,dist15,59188671.5
+RoboCop,2014-02-12,gen2,dist4,58607007.0
+Dracula Untold,2014-10-10,gen2,dist3,56184196.666666664
+Horrible Bosses 2,2014-11-26,gen9,dist2,54445357.0
+The Hundred-Foot Journey,2014-08-08,gen4,dist1,54238131.0
+No Good Deed,2014-09-12,gen5,dist4,52543632.0
+Muppets Most Wanted,2014-03-21,gen1,dist1,51181003.0
+Ouija,2014-10-24,gen6,dist3,50856010.0
+The Boxtrolls,2014-09-26,gen1,dist13,50837305.0
+Jack Ryan: Shadow Recruit,2014-01-17,gen2,dist6,50577412.0
+If I Stay,2014-08-22,gen3,dist2,50474843.0
+The Book of Life,2014-10-17,gen1,dist5,50151543.0
+About Last Night,2014-02-14,gen7,dist4,48637684.0
+Into the Storm,2014-08-08,gen5,dist2,47602194.0
+The Judge,2014-10-10,gen3,dist2,47119388.0
+Jersey Boys,2014-06-20,gen8,dist2,47047013.0
+Blended,2014-05-23,gen7,dist2,46292675.5
+The Giver,2014-06-13,gen3,dist34,1109199.0
+St. Vincent,2014-10-24,gen4,dist14,44137712.0
+Need for Speed,2014-03-14,gen2,dist1,43574593.0
+John Wick,2014-10-24,gen2,dist7,43037835.0
+A Million Ways to Die in The West,2014-05-30,gen11,dist3,42930132.5
+Dolphin Tale 2,2014-09-12,gen3,dist2,42024533.0
+The Expendables 3,2014-08-15,gen2,dist7,39322544.0
+Earth to Echo,2014-07-02,gen1,dist25,38934842.0
+Sex Tape,2014-07-18,gen4,dist4,38543473.0
+Wild,2014-12-03,gen3,dist15,37880356.0
+Million Dollar Arm,2014-05-16,gen3,dist1,36452793.0
+The Theory of Everything,2014-11-07,gen3,dist13,35893537.0
+This is Where I Leave You,2014-09-19,gen4,dist2,34296320.0
+The Gambler,2014-12-10,gen3,dist6,33680992.0
+Paranormal Activity: The Marked Ones,2014-01-03,gen6,dist6,32462372.0
+Nightcrawler,2014-10-31,gen5,dist29,32381217.5
+Chef,2014-05-09,gen4,dist29,31424003.5
+3 Days to Kill,2014-02-21,gen5,dist25,30697999.0
+Deliver Us from Evil,2014-07-02,gen6,dist4,30577122.0
+Get on Up,2014-08-01,gen3,dist3,30636517.5
+When the Game Stands Tall,2014-08-22,gen3,dist4,30127963.0
+Draft Day,2014-04-11,gen3,dist7,28842237.0
+Oculus,2014-04-11,gen6,dist25,27695246.0
+The Best of Me,2014-01-03,gen3,dist31,26766213.0
+That Awkward Moment,2014-01-31,gen7,dist45,26068955.0
+A Walk Among the Tombstones,2014-09-19,gen2,dist3,26210961.666666668
+Her,2014-01-10,gen3,dist2,25568251.0
+Boyhood,2014-07-11,gen3,dist31,25366128.0
+Top Five,2014-12-12,gen4,dist6,25317425.0
+The November Man,2014-08-27,gen5,dist25,25007035.333333332
+Endless Love,2014-02-14,gen3,dist3,23438250.0
+Pompeii,2014-02-21,gen2,dist4,23202843.0
+Transcendence,2014-04-18,gen5,dist2,23022309.0
+"As Above, So Below",2014-08-29,gen6,dist3,21271707.5
+Brick Mansions,2014-04-25,gen2,dist25,20359725.333333332
+"I, Frankenstein",2014-01-24,gen2,dist7,19075290.0
+The Legend of Hercules,2014-01-10,gen1,dist7,18848538.0
+Bears,2014-04-18,gen10,dist1,17780194.0
+Addicted,2014-10-10,gen3,dist7,17390770.0
+A Haunted House 2,2014-04-18,gen4,dist29,17329486.5
+A Most Wanted Man,2014-07-25,gen5,dist38,17237855.0
+Begin Again,2014-06-27,gen3,dist14,16170632.0
+Tyler Perry's The Single Moms Club,2014-03-14,gen4,dist7,15995891.0
+Devil's Due,2014-01-17,gen6,dist5,15821461.0
+And So It Goes,2014-07-25,gen4,,15160801.0
+Step Up All In,2014-08-08,gen3,dist7,14904384.0
+Beyond the Lights,2014-11-14,gen3,dist25,14618727.0
+Big Eyes,2014-12-25,gen3,dist14,14482031.0
+America: Imagine a World Without Her,2014-06-27,gen10,dist7,14444502.0
+Left Behind,2014-10-03,gen5,dist67,14012710.0
+Sin City: A Dame to Kill For,2014-08-22,gen2,dist14,13757804.0
+Labor Day,2014-01-31,gen3,dist6,13371528.0
+Whiplash,2014-10-10,gen3,,13092003.0
+Winter’s Tale,2014-02-14,gen3,dist2,12600231.0
+Foxcatcher,2014-11-14,gen3,,12096300.0
+Island of Lemurs: Madagascar,2014-04-04,gen10,dist2,11716764.0
+Belle,2014-05-02,gen3,dist15,10726630.0
+The Drop,2014-08-08,gen10,dist166,10724389.0
+P.K.,2014-12-19,gen4,dist35,10616104.0
+Magic in the Moonlight,2014-07-25,gen7,,10536918.0
+Sabotage,2014-03-28,gen2,dist29,10508518.0
+Moms’ Night Out,2014-05-09,gen1,dist4,10429707.0
+The Quiet Ones,2014-04-25,gen6,dist7,8509867.0
+Legends of Oz: Dorothy’s Return,2014-05-09,gen1,,8462347.0
+Inherent Vice,2014-12-12,gen4,dist2,8110975.0
+Vampire Academy,2014-02-07,gen4,dist14,7791979.0
+Bad Words,2014-03-14,gen9,dist13,7779614.0
+Cantinflas,2014-08-29,gen3,dist7,6382924.0
+The Interview,2014-12-25,gen4,dist4,6105175.0
+Meet the Mormons,2014-10-10,gen10,dist259,6047363.0
+A Most Violent Year,2014-12-31,gen3,dist34,5744722.0
+Cesar Chavez,2014-03-28,gen3,dist7,5571497.0
+The Skeleton Twins,2014-09-12,gen3,,5284309.0
+Snowpiercer,2014-06-27,gen5,dist112,4563029.0
+The Railway Man,2014-04-11,gen3,dist14,4438438.0
+Dear White People,2014-10-17,gen4,,4404154.0
+The Lunchbox,2014-02-28,gen3,,4231500.0
+My Old Lady,2014-09-10,gen4,dist88,4011530.0
+Mr. Turner,2014-12-19,gen3,,3958546.0
+Ida,2014-05-02,gen3,dist62,3827060.0
+Fading Gigolo,2014-04-18,gen4,dist101,3758853.0
+Calvary,2014-08-01,gen9,dist15,3600006.0
+Wish I Was Here,2014-07-18,gen4,dist13,3591299.0
+What If,2014-08-08,gen7,dist43,3493000.0
+The Grand Seduction,2014-05-30,gen4,dist130,3409304.0
+Veronica Mars,2014-03-14,gen3,dist2,3322127.0
+Before I Go to Sleep,2014-10-31,gen5,,3242457.0
+Rosewater,2014-11-14,gen3,dist29,3128941.0
+Obvious Child,2014-06-06,gen7,dist34,3122616.0
+The Trip to Italy,2014-08-15,gen4,dist31,2873758.0
+The Identical,2014-09-05,gen3,dist67,2827666.0
+The Fluffy Movie,2014-07-25,,dist29,2827393.0
+CitizenFour,2014-10-24,gen10,dist112,2800870.0
+The Pyramid,2014-12-05,gen6,dist5,2756333.0
+The Good Lie,2014-10-03,gen3,dist2,2722209.0
+Under the Skin,2014-04-04,gen5,dist34,2614251.0
+Bang Bang,2014-10-02,gen2,dist63,2557827.3333333335
+Kick,2014-07-25,gen2,dist35,2468807.0
+Kill the Messenger,2014-10-10,gen5,dist13,2450846.0
+The Homesman,2014-11-14,gen11,dist38,2429989.0
+2014 Oscar Shorts,2014-01-31,gen13,dist223,2357890.0
+Love is Strange,2014-08-22,gen3,,2262555.0
+2 States,2014-04-18,gen3,dist35,2238175.0
+Le Week-End,2014-03-14,gen3,dist62,2225098.0
+Words and Pictures,2014-05-23,gen7,dist38,2171257.0
+Gloria,2014-01-24,gen3,dist38,2110357.0
+Trailer Park Boys 3: Don’t Legalize It,2014-04-18,gen4,dist130,2090607.0
+The Immigrant,2014-05-16,gen3,dist112,2013456.0
+Dr. Cabbie,2014-11-26,gen4,dist32,1986209.0
+Only Lovers Left Alive,2014-04-11,gen3,,1876685.0
+Tusk,2014-09-19,gen6,dist34,1821983.0
+Tim's Vermeer,2014-01-31,gen10,,1670806.0
+Persecuted,2014-07-18,gen3,dist476,1366269.5
+Fed Up,2014-05-09,gen10,dist112,1538898.0
+Awake: The Life of Yogananda,2014-10-10,gen10,,1511750.0
+Finding Vivian Maier,2014-03-28,gen10,dist31,1509131.0
+Pride,2014-09-26,gen3,dist43,1447022.0
+Locke,2014-04-25,gen5,dist34,1370646.0
+Gimme Shelter,2014-01-24,gen3,dist38,1359910.0
+Singham Returns,2014-08-15,gen2,dist32,1229065.5

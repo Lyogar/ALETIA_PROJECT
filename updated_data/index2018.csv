@@ -1,0 +1,194 @@
+Movie,Release,id_genre,id_distributor,Gross
+Black Panther,2018-02-16,gen2,dist1,700059566.0
+Avengers: Infinity War,2018-04-27,gen2,dist1,678815482.0
+Incredibles 2,2018-06-15,gen1,dist1,608581744.0
+Jurassic World: Fallen Kingdom,2018-06-22,gen2,dist3,417719760.0
+Aquaman,2018-12-21,gen2,dist2,335061807.0
+Deadpool 2,2018-05-18,gen2,dist5,322558298.6666667
+Dr. Seuss’ The Grinch,2018-11-09,gen1,dist3,270834950.0
+Mission: Impossible—Fallout,2018-07-27,gen2,dist6,220159104.0
+Ant-Man and the Wasp,2018-07-06,gen2,dist1,216648740.0
+Bohemian Rhapsody,2018-11-02,gen3,dist5,216365690.5
+A Star is Born,2018-10-05,gen3,dist2,215288866.0
+Solo: A Star Wars Story,2018-05-25,gen1,dist1,213767512.0
+Venom,2018-10-05,gen2,dist4,213514140.0
+Ralph Breaks The Internet,2018-11-21,gen1,dist1,201091711.0
+Spider-Man: Into The Spider-Verse 3D,2018-12-14,gen1,dist4,190207252.5
+A Quiet Place,2018-04-06,gen6,dist6,188024361.0
+Crazy Rich Asians,2018-08-15,gen7,dist2,174532921.0
+Mary Poppins Returns,2018-12-19,gen8,dist1,171958438.0
+Hotel Transylvania 3: Summer Vacation,2018-07-13,gen1,dist4,167505054.0
+Fantastic Beasts: The Crimes of Grindelwald,2018-11-16,gen1,dist2,159555901.0
+Halloween,2018-10-19,gen6,dist3,159354015.0
+The Meg,2018-12-14,gen3,dist2,103804407.0
+Ocean’s 8,2018-06-08,gen2,dist2,
+Ready Player One,2018-03-29,gen1,dist2,137690172.0
+Bumblebee,2018-12-21,gen1,dist6,127195589.0
+Mamma Mia: Here We Go Again!,2018-07-20,gen8,dist3,120634935.0
+The Nun,2018-09-07,gen6,dist2,117450119.0
+Creed II,2018-11-21,gen3,dist9,115715889.0
+Peter Rabbit,2018-02-09,gen1,dist4,115243758.5
+The Mule,2018-12-14,gen3,dist2,103804407.0
+The Equalizer 2,2018-07-20,gen2,dist4,102084362.0
+Rampage,2018-04-13,gen2,dist2,101028233.0
+A Wrinkle in Time,2018-03-09,gen1,dist1,100478608.0
+Fifty Shades Freed,2018-02-09,gen3,dist3,100407760.0
+Christopher Robin,2018-08-03,gen1,dist1,99215042.0
+Green Book,2018-11-21,gen4,dist3,85080171.0
+I Can Only Imagine,2018-03-16,gen3,dist38,83482352.0
+Smallfoot,2018-09-28,gen1,dist2,83240103.0
+Night School,2018-09-28,gen4,dist3,77339130.0
+The First Purge,2018-07-04,gen6,dist3,69488745.0
+Game Night,2018-02-23,gen4,dist2,69179066.0
+Book Club,2018-05-18,gen7,dist6,68566296.0
+The House with a Clock in its Walls,2018-09-21,gen4,dist3,68549695.0
+Skyscraper,2018-07-13,gen2,dist3,68420120.0
+Insidious: The Last Key,2018-01-05,gen6,dist3,67745330.0
+Instant Family,2018-11-16,gen4,dist6,67363237.0
+Blockers,2018-04-06,gen4,dist3,60311495.0
+Pacific Rim: Uprising,2018-03-23,gen2,dist3,59874525.0
+Tomb Raider,2018-03-16,gen2,dist2,58250803.0
+Maze Runner: The Death Cure,2018-01-26,gen2,dist5,58032443.0
+The Nutcracker and the Four Realms,2018-11-02,gen1,dist1,54858851.0
+Tag,2018-06-15,gen4,dist2,54669573.333333336
+A Simple Favor,2018-09-14,gen5,dist7,53548586.0
+Life of the Party,2018-05-11,gen4,dist2,53059911.0
+The Predator,2018-09-14,gen2,dist5,51024708.0
+Overboard,2018-11-09,gen2,dist6,36010483.5
+Sicario: Day of the Soldado,2018-06-29,gen2,dist4,50070106.666666664
+BlacKkKlansman,2018-08-10,gen9,dist13,49275340.0
+I Feel Pretty,2018-04-20,gen4,dist552,48795601.0
+Vice,2018-12-25,gen9,dist99,47836282.0
+Red Sparrow,2018-03-02,gen5,dist5,46874505.0
+Breaking In,2018-05-11,gen5,dist3,46688100.0
+Goosebumps 2: Haunted Halloween,2018-10-12,gen6,dist4,46697321.0
+12 Strong,2018-01-19,gen3,dist2,45819713.0
+Den of Thieves,2018-01-19,gen2,dist552,44947622.0
+First Man,2018-10-12,gen3,dist3,44936545.0
+Hereditary,2018-06-08,gen6,dist34,44069456.0
+Acrimony,2018-03-30,gen5,dist7,43549096.0
+Sherlock Gnomes,2018-03-23,gen1,dist6,43242871.0
+Uncle Drew,2018-06-29,gen4,dist7,42469946.0
+Widows,2018-11-16,gen5,dist5,42402632.0
+Truth or Dare,2018-04-13,gen5,dist3,41411015.0
+Paddington 2,2018-01-12,gen1,dist2,40891591.0
+"Love, Simon",2018-03-16,gen3,dist5,40826341.0
+Second Act,2018-12-21,gen4,dist552,39282227.0
+The Commuter,2018-01-12,gen2,dist7,36343858.0
+The 15:17 to Paris,2018-02-09,gen3,dist2,36276286.0
+Mile 22,2018-08-17,gen2,dist552,36108758.0
+Alpha,2018-08-17,gen1,dist4,35853313.0
+Peppermint,2018-09-07,gen2,dist552,35418723.0
+The Favourite,2018-11-23,gen9,dist15,34366783.0
+Death Wish,2018-03-02,gen2,dist9,34017028.0
+The Spy Who Dumped Me,2018-08-03,gen4,dist7,33562069.0
+Annihilation,2018-02-23,gen5,dist6,32732301.0
+Isle of Dogs,2018-03-23,gen1,dist15,32015231.0
+Nobody’s Fool,2018-11-02,gen3,dist6,31713110.0
+Adrift,2018-06-01,gen3,dist552,31445011.666666668
+Robin Hood,2018-11-21,gen2,dist7,30824628.0
+Super Troopers 2,2018-04-20,gen4,dist5,30617396.0
+Holmes & Watson,2018-12-25,gen4,dist4,30571184.5
+Slender Man,2018-08-10,gen6,dist4,30567154.5
+Teen Titans Go! To The Movies,2018-07-27,gen1,dist2,29790236.0
+The Hate U Give,2018-10-19,gen3,dist5,29719483.0
+Searching,2018-11-09,gen1,dist235,26018053.0
+Winchester,2018-02-02,gen6,dist43,25091816.0
+On the Basis of Sex,2018-12-25,gen3,dist13,24663762.0
+The Strangers: Prey at Night,2018-03-09,gen6,dist110,24509090.0
+White Boy Rick,2018-09-14,gen3,dist4,24008010.5
+Won’t You Be My Neighbor?,2018-06-08,gen10,dist13,22835787.0
+Overlord,2018-11-09,gen2,dist6,36010483.5
+Proud Mary,2018-01-12,gen2,dist4,20868638.0
+The Happytime Murders,2018-08-24,gen9,dist552,20706452.0
+Superfly,2018-06-13,gen5,dist4,20541126.5
+They Shall Not Grow Old,2018-12-17,gen10,dist2,17956913.0
+Bad Times at the El Royale,2018-10-12,gen5,dist5,17839115.0
+Show Dogs,2018-05-18,gen4,dist134,17800852.5
+Operation Finale,2018-08-29,gen3,dist9,17612099.0
+"Paul, Apostle of Christ",2018-03-23,gen3,dist4,17554237.0
+Free Solo,2018-09-28,gen10,dist140,17541090.0
+Sorry to Bother You,2018-07-06,gen9,dist99,17493096.0
+Chappaquiddick,2018-04-06,gen3,,17395521.0
+Mary Queen of Scots,2018-12-07,gen3,dist13,16558499.0
+Forever My Girl,2018-01-19,gen3,dist38,16376066.0
+Mortal Engines,2018-12-14,gen2,dist3,15951040.0
+Hunter Killer,2018-10-26,gen5,dist7,15767460.0
+If Beale Street Could Talk,2018-12-14,gen3,dist99,14915773.0
+The Possession of Hannah Grace,2018-11-30,gen6,dist4,14836798.0
+The Girl in the Spider’s Web,2018-11-09,gen5,dist4,14834946.5
+RBG,2018-05-04,gen10,dist33,14051361.0
+Eighth Grade,2018-07-13,gen3,dist34,13539710.0
+The Darkest Minds,2018-08-03,gen1,dist5,12695691.0
+Three Identical Strangers,2018-06-29,gen10,dist51,12320845.0
+Upgrade,2018-06-01,gen5,dist189,11977130.0
+Padmavati,2018-01-25,gen3,dist6,11846060.0
+The Old Man and the Gun,2018-09-28,gen4,dist15,11277120.0
+Hell Fest,2018-09-28,gen6,dist43,11107431.0
+Welcome to Marwen,2018-12-21,gen3,dist3,10763520.0
+The Miracle Season,2018-04-06,gen3,dist1361,10230620.0
+The Wife,2018-08-17,gen3,,9599982.0
+Midnight Sun,2018-03-23,gen3,dist134,9561064.0
+Tully,2018-05-04,gen4,dist13,9369755.0
+Traffik,2018-04-20,gen5,dist7,9186156.0
+Unfriended: Dark Web,2018-07-20,gen6,dist373,8866745.0
+Can You Ever Forgive Me?,2018-10-19,gen3,dist15,8803865.0
+Early Man,2018-02-16,gen1,dist7,8267544.0
+The Death of Stalin,2018-03-09,gen9,dist31,8047856.0
+Sanju,2018-06-29,gen3,dist5,7909317.0
+Pandas,2018-04-06,gen10,dist47,7840796.0
+Unsane,2018-03-23,gen5,dist61,7690044.0
+Beautiful Boy,2018-08-24,gen3,dist359,7642370.0
+Mid90s,2018-10-19,gen3,dist34,7362439.0
+Dog Days,2018-08-08,gen7,dist1361,6809080.0
+Boy Erased,2018-11-02,gen3,dist13,6788692.0
+Hotel Artemis,2018-06-08,gen5,dist134,6708142.0
+A.X.L.,2018-08-24,gen2,dist134,
+Fahrenheit 11/9,2018-09-21,gen10,,6352306.0
+Unbroken: Path to Redemption,2018-09-14,gen3,,6216897.0
+The Hurricane Heist,2018-03-09,gen5,,6115824.666666667
+Every Day,2018-02-23,gen3,dist555,6112914.0
+Leave No Trace,2018-06-29,gen3,dist61,6046104.0
+Death of a Nation,2018-08-03,gen10,dist243,5885881.0
+God’s Not Dead: A Light in Darkness,2018-03-30,gen3,,5728940.0
+Kin,2018-04-27,gen3,dist143,5718096.0
+Stan & Ollie,2018-12-28,gen3,,5470235.0
+Colette,2018-09-21,gen3,dist61,5126985.0
+Simmba,2018-12-28,gen2,,5093289.666666667
+Action Point,2018-06-01,gen4,dist6,5059608.0
+Beirut,2018-04-11,gen5,dist61,5019226.0
+Gringo,2018-03-09,gen9,dist552,4969853.0
+Samson,2018-02-16,gen3,,4719928.0
+Johnny English Strikes Again,2018-10-26,gen4,dist13,4412170.0
+Blindspotting,2018-07-20,gen3,dist7,4333394.0
+Gotti,2018-06-15,gen3,,4286367.0
+Ya Veremos,2018-08-31,gen3,dist7,4165949.0
+Life Itself,2018-09-21,gen3,dist73,4095431.0
+Ben is Back,2018-12-07,gen3,dist38,3703182.0
+Indivisible,2018-10-26,gen3,,3511417.0
+2018 Oscar Shorts,2018-02-09,gen13,dist223,3508777.0
+Disobedience,2018-04-27,gen3,dist61,3480702.0
+First Reformed,2018-05-18,gen5,dist34,3448256.0
+"Juliet, Naked",2018-08-17,gen7,dist38,3444895.0
+Bad Samaritan,2018-05-04,gen5,,3424744.0
+The Leisure Seeker,2018-03-09,gen3,,3224126.0
+7 Days in Entebbe,2018-03-16,gen5,dist13,3189220.0
+The Sisters Brothers,2018-09-21,gen11,dist99,3143056.0
+Thoroughbreds,2018-03-09,gen3,dist13,3072605.0
+Sgt. Stubby: An American Hero,2018-04-13,gen1,,3054285.0
+Whitney,2018-07-06,gen10,dist38,3026558.0
+American Animals,2018-06-01,gen5,dist143,2853526.0
+God Bless the Broken Road,2018-09-07,gen3,dist67,2846258.0
+La Boda de Valentina,2018-02-09,gen7,dist7,2783739.0
+Bharat Ane Nenu,2018-04-20,gen5,dist69,3106545.0
+You Were Never Really Here,2018-04-06,gen3,dist73,2523610.0
+Suspiria,2018-10-26,gen6,dist73,2483472.0
+The Rider,2018-04-13,gen3,,2418679.0
+Hearts Beat Loud,2018-06-08,gen3,dist292,2386254.0
+Papillon,2018-08-24,gen3,dist61,2335896.0
+At Eternity’s Gate,2018-11-16,gen3,dist43,2294917.0
+Puzzle,2018-07-27,gen3,,2031242.0
+Pope Francis—A Man of His Word,2018-05-18,gen10,dist13,2008385.0
+Assassination Nation,2018-09-21,gen5,dist51,1982173.0
+The Front Runner,2018-11-06,gen3,dist4,1994179.0
+Race 3,2018-06-15,gen2,dist44,1690861.0

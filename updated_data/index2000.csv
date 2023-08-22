@@ -1,0 +1,199 @@
+Movie,Release,id_genre,id_distributor,Gross
+How the Grinch Stole Christmas,2000-11-17,gen1,dist3,260196825.0
+Cast Away,2000-12-22,gen1,dist5,233632142.0
+Mission: Impossible 2,2000-05-24,gen2,dist6,215409889.0
+Gladiator,2000-05-05,gen2,dist11,187698219.66666666
+What Women Want,2000-12-15,gen7,dist6,182808415.0
+The Perfect Storm,2000-06-30,gen3,dist2,182618434.0
+Meet the Parents,2000-10-06,gen4,dist3,166234542.5
+X-Men,2000-07-14,gen2,dist5,157299717.33333334
+Scary Movie,2000-07-07,gen4,dist27,157019771.0
+What Lies Beneath,2000-07-21,gen5,dist11,155464351.0
+Dinosaur,2000-05-19,gen1,dist1,137748063.0
+"Crouching Tiger, Hidden Dragon",2000-12-08,gen2,,128225700.33333333
+Erin Brockovich,2000-03-17,gen3,dist3,125571945.0
+Charlie's Angels,2000-11-03,gen2,dist4,125305545.0
+Traffic,2000-12-27,gen3,dist52,124111600.5
+Nutty Professor II: The Klumps,2000-07-28,gen4,dist3,123308917.5
+Big Momma's House,2000-06-02,gen4,dist5,117559438.0
+Remember the Titans,2000-09-29,gen3,dist1,115687251.0
+The Patriot,2000-06-28,gen3,dist4,113330342.0
+Miss Congeniality,2000-12-22,gen4,dist2,106807667.0
+Chicken Run,2000-06-21,gen1,dist11,106814239.5
+Gone in 60 Seconds,2000-06-09,gen2,dist1,101646716.66666667
+Unbreakable,2000-11-22,gen5,dist1,95005241.0
+"Me, Myself & Irene",2000-04-07,gen7,,90570999.0
+Space Cowboys,2000-08-04,gen1,dist2,90461196.33333333
+The Emperor's New Groove,2000-12-15,gen1,dist1,89466630.0
+Scream 3,2000-02-04,gen6,dist12,89140625.5
+U-571,2000-04-21,gen2,dist3,77098158.33333333
+Rugrats in Paris,2000-11-17,gen1,dist6,76504597.0
+The Family Man,2000-12-22,gen4,dist3,75778695.0
+Hollow Man,2000-08-04,gen6,dist4,73209340.0
+Chocolat,2000-12-15,gen3,dist12,71409561.5
+Shaft,2000-06-16,gen2,dist6,70332128.0
+The Kid,2000-07-07,gen4,dist1,69690166.5
+Road Trip,2000-05-19,gen4,dist11,68533193.0
+Vertical Limit,2000-12-08,gen5,dist4,68987026.0
+Bring it On,2000-08-25,gen4,dist3,68366275.0
+102 Dalmatians,2000-11-22,gen1,dist1,66949292.5
+Rules of Engagement,2000-04-07,gen3,dist6,61329044.0
+The Cell,2000-08-25,gen4,dist1,13021164.0
+Mission to Mars,2000-03-10,gen1,dist1,60879011.0
+Coyote Ugly,2000-08-04,gen3,dist1,60786269.0
+Snow Day,2000-02-11,gen1,dist6,60014205.0
+The Whole Nine Yards,2000-02-18,gen4,dist2,57262492.0
+Next Friday,2000-01-12,gen4,dist8,57252592.5
+Shanghai Noon,2000-05-26,gen11,dist1,56935769.666666664
+Romeo Must Die,2000-03-22,gen2,dist2,55973336.0
+Dolphins,2000-10-20,gen10,,54000000.0
+Final Destination,2000-03-17,gen6,dist8,53316730.5
+Finding Forrester,2000-12-19,gen3,dist4,51786668.5
+The Road to El Dorado,2000-03-31,gen1,dist11,50833201.5
+Men of Honor,2000-11-10,gen3,dist5,48816915.0
+"Dude, Where's My Car?",2000-12-15,gen4,dist5,46729587.0
+The Tigger Movie,2000-02-11,gen1,dist1,45548477.0
+"O Brother, Where Art Thou?",2000-12-22,gen4,dist1,45509603.5
+Frequency,2000-04-28,gen5,dist8,44996991.0
+The Replacements,2000-08-11,gen4,dist2,44737059.0
+Pokemon 2000,2000-07-21,gen1,dist2,43746923.0
+The Beach,1999-11-05,gen7,dist8,39781813.0
+Little Nicky,2000-11-10,gen4,dist8,39453823.0
+Pitch Black,2000-02-18,gen6,dist52,39238802.0
+The Original Kings of Comedy,2000-08-18,,dist6,38175406.0
+Bedazzled,2000-10-20,gen4,dist5,37883488.0
+Autumn in New York,2000-08-11,gen3,dist9,37757423.0
+Keeping the Faith,2000-04-14,gen7,dist1,37042142.0
+28 Days,2000-04-14,gen4,dist4,37103001.5
+Bounce,2000-11-17,gen3,dist12,36805288.0
+Hanging Up,2000-02-18,gen4,dist4,36044069.5
+The Flintstones in Viva Rock Vegas,2000-04-28,gen1,dist3,35249820.0
+The Skulls,2000-03-31,gen5,dist3,35033140.0
+Thirteen Days,2000-12-22,gen3,dist8,34579417.5
+The 6th Day,2000-11-17,gen2,dist4,34584087.0
+My Dog Skip,2000-01-12,gen3,dist2,34117140.5
+Where the Heart Is,2000-04-14,gen4,dist52,5660369.0
+Pay it Forward,2000-10-20,gen3,dist2,33514275.0
+Dracula 2000,2000-12-22,gen6,dist12,33015303.666666668
+Return to Me,2000-04-07,gen7,dist9,32692548.5
+Proof of Life,2000-12-08,gen2,dist2,32598931.0
+Almost Famous,2000-09-15,gen4,dist11,32528601.0
+The Legend of Bagger Vance,2000-11-03,gen3,dist11,30807197.5
+The Art of War,2000-12-08,gen10,dist417,30205434.333333332
+Snatch,2000-12-08,gen9,dist4,30210631.5
+Bless the Child,2000-08-11,gen6,dist6,29377836.0
+The Watcher,1999-11-05,gen7,dist8,28946615.0
+Love & Basketball,2000-04-21,gen3,dist8,27450368.5
+High Fidelity,2000-03-31,gen4,dist1,27282096.0
+Book of Shadows: Blair Witch 2,2000-10-27,gen6,dist48,26429204.0
+The Adventures of Rocky & Bullwinkle,2000-06-30,gen1,dist3,26003215.0
+Nurse Betty,2000-09-08,gen9,dist52,25170054.0
+Reindeer Games,2000-02-25,gen2,dist12,23363517.666666668
+Titan A.E.,2000-06-16,gen1,dist5,22752461.333333332
+Billy Elliot,2000-10-13,gen3,dist13,21995263.0
+Boys and Girls,2000-06-16,gen7,dist12,21799652.0
+Battlefield Earth: A Saga of the Year 3000,2000-05-12,gen2,dist2,
+Urban Legends: Final Cut,2000-09-22,gen6,dist4,21468807.0
+Down to You,2000-01-21,gen7,dist12,20052159.0
+Wonder Boys,2000-02-23,gen4,dist6,19391505.5
+The Ninth Gate,2000-03-10,gen5,dist48,18657541.0
+Michael Jordan to the MAX,2000-05-05,gen10,dist163,18646419.5
+Best in Show,2000-09-27,gen4,dist2,18668320.5
+The Contender,2000-10-13,gen5,dist11,17838498.0
+Red Planet,2000-11-10,gen2,dist2,17653926.666666668
+Small Time Crooks,2000-05-19,gen4,dist11,17266359.0
+Center Stage,2000-05-12,gen3,dist4,17200925.0
+Boiler Room,2000-02-18,gen3,dist8,16967272.0
+Lost Souls,2000-10-13,gen6,dist8,16797444.5
+Eye of the Beholder,2000-01-28,gen5,dist165,16500786.0
+Thomas and the Magic Railroad,2000-07-26,gen1,dist165,15922419.0
+Cirque du Soleil - Journey of Man,2000-05-05,gen8,,15626755.0
+All the Pretty Horses,2000-12-22,gen11,dist12,15533739.0
+Loser,2000-07-21,gen7,dist4,15541326.0
+Drowning Mona,2000-03-03,gen4,dist165,15466978.0
+Bait,2000-09-15,gen2,dist2,15325127.0
+Dungeons and Dragons,2000-12-08,gen1,dist8,15245784.25
+American Psycho,2000-04-14,gen9,dist7,15070285.0
+The Next Best Thing,2000-03-03,gen3,dist6,14987077.0
+Get Carter,2000-10-06,gen2,dist2,14967182.0
+Supernova,2000-01-14,gen5,dist9,14224661.5
+The Ladies Man,1999-10-22,gen7,dist3,13604741.0
+The Little Vampire,2000-10-27,gen1,dist8,13564194.0
+Dr. T and the Women,2000-10-13,gen7,dist48,13089301.0
+The Crew,2000-08-25,gen4,dist1,13021164.0
+Highlander: Endgame,2000-09-01,gen2,dist27,12804746.0
+Ready to Rumble,2000-04-07,gen4,dist2,12383368.5
+Saving Grace,2000-08-04,gen4,dist59,12178602.0
+The Gift,2000-12-19,gen5,dist40,12008642.0
+The Legend of Drunken Master,2000-10-20,gen2,dist12,11550986.5
+Cyberworld 3D,2000-10-06,gen1,dist47,11248878.5
+Here on Earth,2000-03-24,gen3,dist5,10508157.5
+Godzilla 2000,2000-08-18,gen2,dist4,10037390.0
+Lucky Numbers,2000-10-27,gen9,dist6,10028375.0
+3 Strikes,2000-03-01,gen4,dist9,9826750.5
+Digimon: The Movie,2000-10-06,gen1,dist5,9630352.333333334
+You Can Count on Me,2000-11-10,gen3,dist40,9298539.5
+Whatever it Takes,2000-03-24,gen7,dist4,8740604.5
+Pollock,2000-12-15,gen3,,8597753.5
+Shadow of the Vampire,2000-12-29,gen6,dist7,8286400.5
+Quills,2000-11-22,gen3,dist15,7063104.0
+Screwed,2000-05-12,gen4,dist3,7005012.5
+State and Main,2000-12-22,gen4,dist59,6932581.5
+I Dreamed of Africa,2000-05-05,gen3,dist4,6597358.0
+What Planet Are You From?,2000-03-03,gen4,dist4,6291602.0
+Croupier,2000-04-21,gen3,dist304,6201143.0
+The Way of the Gun,2000-09-08,gen2,dist48,6053059.333333333
+Where the Money Is,2000-04-14,gen4,dist52,5660369.0
+Black and White,2000-04-05,gen3,dist4,5259307.0
+The In Crowd,2000-07-19,gen5,dist2,5280035.0
+Gossip,2000-04-21,gen5,dist2,5108820.0
+Woman on Top,2000-09-22,gen7,dist15,5019280.5
+Alien Adventure,2000-04-14,gen1,dist118,5017383.0
+The Virgin Suicides,2000-04-21,gen9,dist40,4882852.0
+Duets,2000-09-15,gen3,dist1,4736629.0
+Held Up,2000-05-12,gen4,dist139,4709860.5
+The Tao of Steve,2000-08-04,gen7,,4342203.0
+Before Night Falls,2000-12-22,gen3,dist59,4232354.5
+With a Friend Like Harry,2000-10-13,gen5,dist12,4174495.0
+East is East,2000-04-14,gen4,dist12,4174232.5
+Dancer in the Dark,2000-09-22,gen8,dist59,4170763.5
+Whipped,2000-09-01,gen7,dist165,4151246.5
+Requiem for a Dream,2000-10-06,gen3,dist48,3635482.0
+Price of Glory,2000-03-31,gen3,dist8,3437371.5
+Malena,2000-12-22,gen3,dist12,3438639.0
+Ghost Dog: The Way of the Samurai,2000-03-03,gen3,dist48,3319129.5
+The Big Kahuna,2000-04-28,gen3,dist7,3157825.5
+Beautiful,2000-09-29,gen3,dist165,3145928.5
+The House of Mirth,2000-12-22,gen3,,3042543.5
+Isn't She Great,2000-01-28,gen4,dist3,2958435.0
+Up at the Villa,2000-05-05,gen3,dist13,2933161.0
+God's Army,2000-03-10,gen3,dist250,2637726.0
+Himalaya - l'enfance d'un chef,2000-11-17,gen3,dist136,2487878.0
+East-West,2000-04-07,gen3,dist4,2320377.5
+But I'm a Cheerleader,2000-07-07,gen4,dist7,2205627.0
+Bamboozled,2000-10-06,gen3,dist8,2230122.5
+Bossa Nova,2000-04-28,gen7,,1820044.5
+The Color of Paradise,2000-03-31,gen3,,1813680.5
+La Vie Après L'Amour,2000-07-07,gen4,dist174,1795758.0
+The Broken Hearts Club: A Romantic Comedy,2000-09-29,gen4,,1745721.5
+Girl on the Bridge,2000-07-28,gen7,dist40,1711417.0
+The Life and Times of Hank Greenberg,2000-01-12,gen10,dist326,1708143.0
+Gun Shy,2000-02-04,gen4,dist1,1638202.0
+Hamlet,2000-05-12,gen3,dist12,1577287.0
+Girlfight,2000-09-29,gen3,dist4,1523941.0
+Catfish in Black Bean Sauce,2000-06-09,gen4,dist314,1315573.0
+Jesus' Son,2000-06-16,gen3,dist7,1282084.0
+Cecil B. Demented,2000-08-11,gen9,dist48,1280815.0
+MVP: Most Valuable Primate,2000-08-11,gen1,,1248746.0
+Turn It Up,2000-09-06,gen3,dist8,1244676.0
+I'm the One That I Want,2000-08-04,,dist500,1210967.0
+Backstage,2000-09-06,gen10,dist12,1184727.0
+Trois,2000-02-11,gen5,,1161843.0
+Shower,2000-07-07,gen3,,1157764.0
+Yi Yi,2000-10-06,gen3,dist227,1136776.0
+Groove,2000-06-09,gen4,,1115313.0
+Left Luggage,2000-09-22,gen3,,1091374.0
+Mohabbatein,2000-10-27,gen8,dist44,1070000.0
+The Cup,2000-01-28,gen4,dist59,1067773.0
+Time Code,2000-04-28,gen3,dist4,1057750.0
+Chuck&Buck,2000-07-14,gen3,dist48,1055671.0

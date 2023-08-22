@@ -1,0 +1,191 @@
+Movie,Release,id_genre,id_distributor,Gross
+Shrek 2,2004-05-19,gen1,dist11,441226247.0
+Spider-Man 2,2004-06-30,gen1,dist4,373565378.3333333
+The Passion of the Christ,2004-02-25,gen3,dist39,370528767.0
+Meet the Fockers,2004-12-22,gen4,dist3,279214367.5
+The Incredibles,2004-11-05,gen1,dist1,261441092.0
+Harry Potter and the Prisoner of Azkaban,2004-06-04,gen1,dist2,249649397.5
+The Polar Express,2004-11-10,gen1,dist2,175409106.5
+The Day After Tomorrow,2004-05-28,gen1,dist5,186740799.0
+The Bourne Supremacy,2004-07-23,gen5,dist3,176190444.0
+National Treasure,2004-11-19,gen1,dist1,173007596.66666666
+Shark Tale,2004-10-01,gen1,dist11,161136954.0
+"I, Robot",2004-07-16,gen2,dist5,144801023.0
+Troy,2004-05-14,gen2,dist2,133338416.5
+Ocean's Twelve,2004-12-10,gen1,dist2,125537957.0
+50 First Dates,2004-02-13,gen7,dist4,120842453.0
+Van Helsing,2004-05-07,gen2,dist3,120168238.0
+Fahrenheit 9/11,2004-06-23,gen10,dist7,119154644.0
+Dodgeball: A True Underdog Story,2004-06-18,gen4,dist5,114326736.0
+The Village,2004-07-30,gen5,dist1,114197520.0
+The Grudge,2004-10-22,gen6,dist4,110359362.0
+The Aviator,2004-12-17,gen3,dist12,102609578.5
+Million Dollar Baby,2004-12-15,gen3,dist2,100492203.0
+Collateral,2004-08-06,gen2,dist11,100727186.0
+The Princess Diaries 2: Royal Engagement,2004-08-11,gen7,dist1,95159958.0
+Starsky & Hutch,2004-03-05,gen4,dist2,88218989.5
+Along Came Polly,2004-01-16,gen7,dist3,88085335.5
+Mean Girls,2004-04-30,gen4,dist6,86052641.0
+SpongeBob SquarePants: The Movie,2004-11-19,gen1,dist6,85417988.0
+Scooby-Doo 2: Monsters Unleashed,2004-03-26,gen1,dist2,84201110.0
+Anchorman: The Legend of Ron Burgundy,2004-07-09,gen4,dist11,84712606.0
+The Notebook,2004-06-25,gen3,dist8,81001787.0
+AVP: Alien Vs. Predator,2004-08-13,gen2,dist5,80282231.0
+Man on Fire,2004-04-23,gen5,dist5,77910121.33333333
+The Terminal,2004-06-18,gen3,dist11,77473421.0
+Garfield: The Movie,2004-06-11,gen1,dist5,75367693.0
+Ray,2004-10-29,gen3,dist3,75318797.5
+Ladder 49,2004-10-01,gen5,dist1,74541707.0
+Christmas with the Kranks,2004-11-24,gen4,dist4,73741220.5
+Sideways,2004-10-22,gen3,dist15,71502948.0
+White Chicks,2004-06-23,gen4,dist4,69990378.5
+Hidalgo,2004-03-05,gen11,dist1,67292304.0
+The Forgotten,2004-09-24,gen5,dist4,66922700.5
+Kill Bill: Volume 2,2003-10-10,gen2,dist12,66208051.5
+The Manchurian Candidate,2004-07-30,gen5,dist6,65952170.5
+Barbershop 2: Back in Business,2004-02-06,gen4,dist9,65090844.5
+Miracle,2004-02-06,gen3,dist1,64378093.0
+Friday Night Lights,2004-10-08,gen3,dist3,61255921.0
+Hellboy,2004-04-02,gen2,dist4,59623958.0
+The Stepford Wives,2004-06-11,gen9,dist6,59480182.5
+Dawn of the Dead,2004-09-24,gen4,dist68,13542874.0
+Without a Paddle,2004-08-20,gen4,dist6,58162881.0
+The Butterfly Effect,2004-01-23,gen5,dist8,57931686.0
+Shall We Dance?,2004-10-15,gen7,dist12,57889171.0
+The Chronicles of Riddick,2004-06-11,gen1,dist3,57744925.0
+13 Going On 30,2004-04-23,gen7,dist4,57185735.0
+Saw,2004-10-29,gen6,dist7,55576886.0
+Jet Li's Hero,2004-08-27,gen2,dist12,53652140.0
+Blade: Trinity,2004-12-08,gen2,dist8,52407067.0
+King Arthur,2004-07-07,gen1,dist1,51880817.0
+Finding Neverland,2004-11-12,gen3,dist12,51678609.5
+A Cinderella Story,2004-07-16,gen7,dist2,51438175.0
+The Phantom of the Opera,2004-12-22,gen8,dist2,51247305.5
+Resident Evil: Apocalypse,2004-09-10,gen6,dist4,51047661.333333336
+Home on the Range,2004-04-02,gen1,dist1,50028407.0
+Fat Albert,2004-12-25,gen4,dist5,48115439.0
+Secret Window,2004-03-12,gen5,dist4,47990465.5
+Walking Tall,2004-04-02,gen2,dist9,46363086.0
+In Good Company,2004-12-29,gen4,dist3,45648205.5
+Napoleon Dynamite,2004-06-11,gen4,dist15,44540956.0
+Spanglish,2004-12-17,gen4,dist4,42385595.0
+Exorcist: The Beginning,2004-08-20,gen6,dist2,41818424.5
+Bridget Jones: The Edge Of Reason,2004-11-12,gen7,dist3,40214617.5
+Catwoman,2004-07-23,gen2,dist2,40202379.0
+You Got Served,2004-01-30,gen3,dist4,40215153.5
+The Ladykillers,2004-03-26,gen9,dist1,39745665.0
+Sky Captain and the World of Tomorrow,2004-09-17,gen1,dist6,37761811.333333336
+Raising Helen,2004-05-28,gen4,dist1,37486020.0
+Taxi,2004-10-06,gen2,dist5,36610516.0
+Eternal Sunshine of the Spotless Mind,2004-03-19,gen4,dist13,34383409.5
+Alexander,2004-11-24,gen2,dist2,34297191.0
+Closer,2004-12-17,gen3,dist4,33987757.0
+The Punisher,2004-04-16,gen2,dist7,33718944.0
+Team America: World Police,2004-10-15,gen4,dist6,32782327.333333332
+Taking Lives,2003-09-05,gen3,dist177,32682342.0
+Cellular,2004-09-10,gen5,dist8,32003620.0
+Anacondas: The Hunt for the Blood Orchid,2004-08-27,gen6,dist4,32001413.0
+Johnson Family Vacation,2004-04-07,gen4,dist15,31203964.0
+Open Water,2004-08-06,gen5,dist7,30555872.5
+Confessions of a Teenage Drama Queen,2004-02-20,gen4,dist1,29331068.0
+After the Sunset,2004-11-12,gen2,dist8,28330199.333333332
+The Prince & Me,2004-04-02,gen7,dist6,28171189.5
+Garden State,2004-07-28,gen3,dist15,26782316.0
+Jersey Girl,2004-03-26,gen4,dist12,25267143.0
+Twisted,2004-05-21,gen3,dist100,25196824.0
+The Life Aquatic with Steve Zissou,2004-12-25,gen4,dist1,24011285.0
+Around the World in 80 Days,2004-06-16,gen1,dist1,24006811.0
+Hotel Rwanda,2004-12-22,gen3,dist9,23525010.0
+Agent Cody Banks 2: Destination London,2004-03-12,gen1,dist9,23591521.666666668
+Ella Enchanted,2004-04-09,gen4,dist12,22916032.0
+The Alamo,2004-04-09,gen11,dist1,22410661.5
+Darkness,2004-12-25,gen6,dist27,22163442.0
+Mr. 3000,2004-09-17,gen4,dist1,21805744.5
+NASCAR: The IMAX Experience,2004-03-12,gen10,dist2,21567033.0
+Torque,2004-01-16,gen2,dist2,21195690.5
+Flight of the Phoenix,2004-12-17,gen1,dist5,21009180.0
+Little Black Book,2004-08-06,gen7,dist4,20560437.5
+Yu-Gi-Oh,2004-08-13,gen1,dist2,19762690.0
+Two Brothers,2004-06-25,gen1,dist3,19176754.0
+Harold & Kumar Go to White Castle,2004-07-30,gen4,dist8,18237857.5
+Laws of Attraction,2004-04-30,gen7,dist8,17848322.0
+Eurotrip,2004-02-20,gen4,dist11,17744805.0
+My Baby's Daddy,2004-01-09,gen4,dist12,17495445.0
+Seed of Chucky,2004-11-12,gen6,dist68,17049961.0
+Win a Date with Tad Hamilton!,2004-01-23,gen7,dist11,17026030.0
+Wimbledon,2004-09-17,gen7,dist3,16931859.0
+The Motorcycle Diaries,2004-09-24,gen3,dist13,16768879.5
+Catch That Kid,2004-02-06,gen1,dist5,16703487.333333334
+The Whole Ten Yards,2004-04-09,gen4,dist2,16326220.0
+Paparazzi,2004-09-03,gen5,dist5,15712792.666666666
+The Girl Next Door,2004-04-09,gen7,dist5,14589444.0
+Welcome to Mooseport,2004-02-20,gen4,dist5,14470187.5
+Godsend,2004-04-30,gen5,dist7,14364715.666666666
+New York Minute,2004-05-07,gen4,dist2,14044902.5
+Soul Plane,2004-05-28,gen4,dist9,14056480.5
+Envy,2004-04-30,gen9,dist11,13555323.5
+Shaun of the Dead,2004-09-24,gen4,dist68,13542874.0
+Alfie,2004-11-05,gen4,dist6,13397875.5
+De-Lovely,2004-06-25,gen3,dist9,13396966.0
+Wicker Park,2004-09-03,gen5,dist9,13001257.0
+I Heart Huckabees,2004-10-01,gen4,dist15,12785072.5
+Breakin' All the Rules,2004-05-14,gen7,dist5,12248350.5
+Chasing Liberty,2004-01-09,gen7,dist2,12192570.0
+The Cookout,2004-09-03,gen4,dist7,11677065.5
+Super Size Me,2004-05-07,gen10,dist268,11532895.5
+Surviving Christmas,2004-10-22,gen4,dist11,11430750.5
+House of Flying Daggers,2004-12-03,gen2,,11050094.0
+What the #$'! Do We Know,2004-02-06,gen10,dist278,10942053.5
+Raise Your Voice,2004-10-08,gen3,dist8,10411980.0
+The Perfect Score,2004-01-30,gen4,dist6,10389354.5
+Kinsey,2004-11-12,gen3,dist15,10234813.0
+Sleepover,2004-07-09,gen1,dist9,9408183.0
+Superbabies: Baby Geniuses 2,2004-08-27,gen1,dist4,9109322.0
+First Daughter,2004-09-24,gen7,dist5,9055010.0
+Saved!,2004-06-11,gen9,dist9,8886160.0
+Suspect Zero,2004-08-27,gen6,dist6,8719188.5
+Connie and Carla,2004-04-16,gen4,dist3,8066648.0
+Being Julia,2004-10-15,gen3,dist4,7739049.0
+Woman Thou Art Loosed,2004-10-01,gen3,dist33,6879730.0
+Thunderbirds,2004-07-30,gen1,dist3,6805675.666666667
+Maria Full of Grace,2004-07-16,gen3,dist8,6529624.0
+Teacher's Pet: The Movie,2004-01-16,gen1,dist1,6491969.0
+The Big Bounce,2004-01-30,gen4,dist2,6471394.0
+Beyond the Sea,2004-12-17,gen3,dist7,6144806.0
+Against the Ropes,2004-02-20,gen3,dist6,5881504.0
+Before Sunset,2004-07-02,gen3,dist64,5806735.5
+The Clearing,2004-07-02,gen3,dist15,5763875.0
+Never Die Alone,2004-03-26,gen5,dist15,5644575.0
+Birth,2004-10-29,gen3,dist8,5050468.5
+Club Dread,2004-02-27,gen4,dist15,5001655.0
+Touching the Void,2004-01-23,gen10,dist31,4593598.0
+Spartan,2004-03-12,gen5,dist2,4396088.5
+A Day Without a Mexican,2004-05-14,gen4,dist285,4180870.0
+"Good Bye, Lenin!",2004-02-27,gen4,,4063859.0
+The Door in the Floor,2004-07-14,gen3,dist13,3835551.0
+Benji: Off the Leash!,2004-08-20,gen3,dist366,3817362.0
+The Merchant of Venice,2004-12-29,gen3,,3765585.0
+Vera Drake,2004-10-10,gen3,dist59,3764544.5
+The Corporation,2004-01-17,gen10,dist158,3493516.0
+Camping Sauvage,2004-07-16,gen4,dist174,3479302.0
+The Work and the Glory,2003-10-03,gen4,,3347647.0
+Veer-Zaara,2004-11-12,gen3,dist44,2938532.0
+Clifford's Really Big Movie,2004-04-23,gen1,dist2,2922354.0
+Monsieur Ibrahim,2004-02-13,gen3,,2824365.0
+Bobby Jones: Stroke of Genius,2004-04-30,gen3,dist331,2694071.0
+Therese,2004-10-01,gen3,dist802,2627016.0
+Control Room,2004-05-21,gen10,dist33,2589616.0
+The Dreamers,2004-02-06,gen3,dist15,2531462.0
+Bon Voyage,2004-03-19,gen4,dist4,2353728.0
+Riding Giants,2004-07-09,gen10,dist4,2276368.0
+Dans une galaxie près de chez vous - Le film,2004-04-16,gen4,dist273,2164047.0
+We Don't Live Here Anymore,2004-08-13,gen3,dist2,2037545.0
+Coffee and Cigarettes,2004-05-14,gen4,dist9,1971135.0
+The Story of the Weeping Camel,2004-06-04,gen10,dist113,1751698.0
+Main Hoon Na,2004-04-30,gen3,dist32,1722451.5
+The Blue Butterfly,2004-02-20,gen3,dist174,1610194.0
+The Woodsman,2004-12-24,gen3,dist39,1566812.0
+Dogville,2004-04-02,gen3,dist7,1530386.0
+A Dirty Shame,2004-09-17,gen4,dist59,1339668.0
+Saints and Soldiers,2004-06-18,gen10,dist417,1310470.0
+Swades,2004-12-17,gen3,dist35,1223240.0

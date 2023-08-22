@@ -1,0 +1,187 @@
+Movie,Release,id_genre,id_distributor,Gross
+Toy Story 3,2010-06-18,gen1,dist1,415004880.0
+Alice in Wonderland,2010-03-05,gen1,dist1,334191110.0
+Iron Man 2,2008-05-02,gen1,dist6,312433331.0
+The Twilight Saga: Eclipse,2009-11-20,gen3,dist20,300531751.0
+Harry Potter and the Deathly Hallows: Part I,2010-11-19,gen1,dist2,296057436.5
+Inception,2010-07-16,gen5,dist2,292576195.0
+Despicable Me,2010-07-09,gen1,dist3,251513985.0
+Shrek Forever After,2010-05-21,gen1,dist6,238736787.0
+How to Train Your Dragon,2010-03-26,gen1,dist6,217581231.33333334
+Tangled,2010-11-24,gen8,dist1,200821936.0
+The Karate Kid,2010-06-11,gen2,dist4,176591618.0
+Tron: Legacy,2010-12-17,gen1,dist1,172062763.0
+True Grit,2010-12-22,gen11,dist6,171243005.0
+Clash of the Titans,2010-04-01,gen2,dist2,163214888.0
+Grown Ups,2010-06-25,gen4,dist4,162001186.0
+Little Fockers,2010-12-22,gen4,dist3,148438600.0
+Megamind,2010-11-05,gen1,dist6,148415853.0
+The King’s Speech,2010-11-26,gen3,dist14,137125296.0
+The Last Airbender,2010-07-01,gen1,dist6,131703035.0
+Shutter Island,2010-02-19,gen5,dist6,128012934.0
+The Other Guys,2010-09-17,gen10,dist922,119219978.0
+Salt,2010-07-23,gen5,dist4,118311368.0
+Jackass 3D,2010-10-15,gen10,dist6,117229692.0
+Valentine's Day,2010-02-12,gen7,dist2,110485654.0
+Black Swan,2010-12-03,gen5,dist15,106954678.0
+Robin Hood,2010-05-14,gen2,dist3,105342202.66666667
+The Expendables,2010-08-13,gen2,dist7,103068524.0
+Due Date,2010-11-05,gen4,dist2,100539043.0
+Yogi Bear,2010-12-17,gen1,dist2,100246011.0
+Date Night,2010-04-09,gen4,dist5,98711404.0
+The Social Network,2010-10-01,gen3,dist4,96962694.0
+Sex and the City 2,2010-05-27,gen4,dist2,95347692.0
+The Book of Eli,2010-01-15,gen2,dist2,94835059.0
+The Fighter,2010-12-10,gen3,dist6,93617009.0
+The Town,2010-09-17,gen5,dist2,92186262.0
+Prince of Persia: Sands of Time,2010-05-28,gen2,dist1,90759676.0
+Red,2010-10-15,gen2,dist20,90380162.0
+Paranormal Activity 2,2009-09-25,gen6,dist6,84752907.0
+Unstoppable,2010-11-12,gen2,dist5,81562942.0
+Eat Pray Love,2010-08-13,gen3,dist4,80574010.0
+Dear John,2010-02-05,gen3,dist4,80014842.0
+The A-Team,2010-06-11,gen2,dist5,77222099.0
+Knight and Day,2010-06-23,gen2,dist5,76423035.0
+Dinner for Schmucks,2010-07-30,gen4,dist6,73026337.0
+The Tourist,1973-12-26,gen6,dist2,67631157.0
+The Bounty Hunter,2010-03-19,gen7,dist4,67061228.0
+Diary of a Wimpy Kid,2010-03-19,gen1,dist5,64003625.0
+The Sorcerer's Apprentice,2010-07-14,gen1,dist1,63150991.0
+A Nightmare on Elm Street,2010-04-30,gen6,dist2,63075011.0
+The Last Song,2010-01-15,gen3,,34784125.5
+The Wolfman,2010-02-12,gen6,dist3,62084782.0
+Get Him to the Greek,2010-06-04,gen4,dist3,61064000.5
+Resident Evil: Afterlife,2010-09-10,gen6,dist4,60128566.0
+Why Did I Get Married Too?,2010-04-02,gen3,dist7,60095852.0
+Tooth Fairy,2010-01-22,gen1,dist5,60022256.0
+Secretariat,2010-10-08,gen3,dist1,59706734.0
+Easy A,2010-09-17,gen4,dist4,58401464.0
+Takers,2010-08-27,gen5,dist4,57744720.0
+Life as We Know It,2010-10-08,gen7,dist2,53374681.0
+Letters to Juliet,2010-05-14,gen3,dist20,53032453.0
+Hubble 3D,2010-03-19,gen10,dist2,52561547.0
+Wall Street 2: Money Never Sleeps,2010-09-24,gen3,dist5,52474616.0
+Predators,2010-07-09,gen2,dist5,52000688.0
+Hot Tub Time Machine,2010-03-26,gen4,dist9,50278707.5
+Kick-Ass,2010-04-16,gen9,dist7,48071303.0
+Killers,2010-06-04,gen2,dist7,47059963.0
+Saw 3D,2010-10-29,gen6,dist7,45710178.0
+Cop Out,2010-02-26,gen4,dist2,44875481.0
+Cats & Dogs: The Revenge of Kitty Galore,2010-07-30,gen1,dist2,43585753.0
+Edge of Darkness,2010-01-29,gen5,dist2,43313890.0
+Gulliver's Travels,2010-12-25,gen1,dist5,42779261.0
+Death at a Funeral,2010-04-16,gen9,dist4,42739347.0
+Step Up 3D,2010-08-06,gen3,dist1,42400223.0
+The Last Exorcism,1973-12-26,gen6,dist2,41034350.0
+Legion,2010-01-22,gen6,dist4,40168080.0
+Burlesque,2010-11-24,gen8,dist4,39440655.0
+The Crazies,2010-02-26,gen6,dist50,39123589.0
+For Colored Girls,2010-11-05,gen3,dist7,37729698.0
+The Back-up Plan,2010-04-23,gen7,dist43,37490007.0
+Vampires Suck,2010-08-18,gen4,dist5,36661504.0
+The American,2010-09-01,gen5,dist13,35606376.0
+Green Zone,2010-03-12,gen3,dist3,35275498.5
+Devil,2010-09-17,gen6,dist3,33640422.5
+Marmaduke,2010-06-04,gen1,dist5,33644788.0
+Scott Pilgrim vs. The World,2010-08-13,gen4,dist3,32175186.25
+Hereafter,2010-10-22,gen3,dist2,32746941.0
+When in Rome,2010-01-29,gen7,dist1,32680633.0
+Love and Other Drugs,2010-11-24,gen3,dist5,32367005.0
+She's Out of My League,2010-03-12,gen7,dist6,32010860.0
+Charlie St. Cloud,2010-07-30,gen3,dist3,31184404.0
+Morning Glory,2010-11-10,gen4,dist6,31011732.0
+How Do You Know?,2010-12-17,gen7,dist4,30212620.0
+Daybreakers,2010-01-08,gen6,dist7,30101577.0
+The Switch,2010-08-20,gen7,dist12,27768945.5
+Brooklyn's Finest,2010-03-05,gen5,dist50,27163593.0
+Machete,2010-09-03,gen2,dist5,26593646.0
+Ramona and Beezus,2010-07-23,gen1,dist5,26167002.0
+Leap Year,2010-01-08,gen7,dist3,25918920.0
+You Again,2010-09-24,gen4,dist1,25702053.0
+Alpha and Omega,2010-09-17,gen1,dist7,25107267.0
+Piranha 3D,2010-08-20,gen6,dist49,25003155.0
+Lottery Ticket,2010-08-20,gen4,dist2,24719879.0
+The Spy Next Door,2010-01-15,gen1,dist7,24287967.0
+From Paris With Love,2010-02-05,gen5,dist7,24053005.5
+The Losers,2010-04-23,gen2,dist2,23587866.333333332
+Faster,2010-11-24,gen2,dist43,23240020.0
+Just Wright,2010-05-14,gen7,dist15,21540363.0
+Skyline,2010-11-12,gen5,dist3,21393800.0
+The Next Three Days,2010-11-19,gen5,dist7,21148651.0
+The Kids Are All Right,2010-07-09,gen4,dist13,20811365.0
+Our Family Wedding,2010-03-12,gen4,dist15,20255281.0
+Country Strong,2010-12-22,gen3,dist4,20218921.0
+Oceans,2010-04-22,gen10,dist1,19422319.0
+Remember Me,2010-03-12,gen3,dist20,19068240.0
+127 Hours,2010-11-05,gen3,dist15,18335230.0
+Going the Distance,2010-09-03,gen7,dist2,17804299.0
+Furry Vengeance,2010-04-30,gen1,dist20,17630465.0
+Splice,2010-06-04,gen6,dist2,17010170.0
+The Ghost Writer,2010-02-19,gen5,dist20,15541549.0
+Youth in Revolt,2010-01-08,gen4,dist49,15283437.0
+My Soul to Take,2010-10-08,gen6,dist3,14744435.0
+Repo Men,2010-03-19,gen2,dist3,13868421.0
+Case 39,2010-10-01,gen6,dist40,13261851.0
+Extraordinary Measures,2010-01-22,gen3,dist43,12482741.0
+Let Me In,2010-10-01,gen6,dist50,12134935.0
+Jonah Hex,2010-06-18,gen2,dist2,10543265.5
+Blue Valentine,2010-12-29,gen3,dist14,9737892.0
+Fair*Game,2010-11-05,gen3,dist20,9540691.0
+MacGruber,2010-05-21,gen4,dist3,8493297.5
+Cyrus,2010-06-18,gen4,dist15,7468936.0
+Babies,2010-05-07,gen10,dist13,7320323.0
+Conviction,2010-06-04,gen10,dist31,6797696.0
+City Island,2010-03-19,gen4,,6671283.0
+The Last Station,2010-01-15,gen3,,34784125.5
+Winter’s Bone,2010-06-11,gen3,dist38,6531503.0
+Waiting for Superman,2010-01-08,gen10,dist201,6417135.0
+It's Kind of a Funny Story,2010-10-08,gen4,dist13,6363628.0
+The Warrior's Way,2010-12-03,gen11,dist25,5665295.5
+The Wildest Dream,2010-04-30,gen10,,5100135.0
+Mao's Last Dancer,2010-08-20,gen3,dist381,4806750.0
+Solitary Man,2010-05-21,gen3,,4360548.0
+Inside Job,2010-10-08,gen10,,4311834.0
+Greenberg,2010-03-19,gen7,dist13,4234170.0
+My Name is Khan,2010-02-12,gen3,dist15,4032553.5
+Please Give,2010-04-30,gen9,,4033574.0
+To Save a Life,2010-01-22,gen3,dist381,3777210.0
+The Runaways,2010-03-19,gen3,dist154,3573673.0
+Exit Through the Gift Shop,2010-04-16,gen10,,3291250.0
+You Will Meet a Tall Dark Stranger,2010-09-22,gen3,,3248031.0
+Catfish,2010-09-17,gen10,dist3,3237343.0
+Another Year,2010-12-29,gen3,,3205706.0
+Chloe,2010-03-26,gen5,,3075255.0
+Joan Rivers: A Piece of Work,2010-06-11,gen10,dist31,2930687.0
+Letters to God,2010-04-09,gen3,,2848587.0
+N-Secure,2010-10-15,gen5,dist67,2595644.0
+Never Let Me Go,2010-09-15,gen3,dist15,2434652.0
+The Twilight Saga: Twilight/New Moon Combo,2009-11-20,gen3,dist20,2385237.0
+Robot,2010-10-01,gen2,dist183,2276427.0
+Rabbit Hole,2010-12-17,gen3,dist7,2229058.0
+Casino Jack,2010-12-17,gen5,dist381,2039869.0
+"I Love You, Phillip Morris",2010-12-03,gen4,dist38,2037459.0
+Lourdes,2010-02-17,gen3,dist454,1891305.0
+Harry Brown,2010-04-30,gen5,dist381,1818681.0
+Stone,2010-10-08,gen3,dist50,1810078.0
+Somewhere,2010-12-22,gen3,dist13,1785645.0
+Flipped,2010-08-06,gen7,dist2,1755212.0
+Coco Chanel and Igor Stravinsky,2010-06-11,gen3,,1725982.0
+Kites,2010-05-21,gen5,dist121,1643867.5
+Cairo Time,2010-08-06,gen3,dist31,1603616.0
+The Joneses,2010-04-23,gen2,dist2,23587866.333333332
+Nowhere Boy,2010-10-08,gen3,dist14,1445366.0
+Restrepo,2010-06-25,gen10,,1330894.0
+Dabangg,2010-09-10,gen3,dist32,2960582.5
+Micmacs,2010-05-28,gen4,,1259693.0
+Housefull,2010-04-30,gen7,dist32,1183658.0
+Golmaal 3,2010-11-05,gen4,dist32,1132192.0
+Mother and Child,2010-05-07,gen3,,1110509.0
+Made in Dagenham,2010-11-19,gen3,,1095369.0
+The Perfect Game,2010-04-16,gen3,dist281,1089445.0
+Tees Maar Khan,2010-12-22,gen4,dist35,1076266.0
+La Mission,2010-04-09,gen3,dist159,1062941.0
+Buried,2010-09-24,gen5,dist7,1044143.0
+Animal Kingdom,2010-08-13,gen3,,1044039.0
+Guzaarish,2010-11-19,gen3,dist35,1026589.0
+2010 Oscar Shorts,2010-02-19,gen13,dist321,1018169.0
+Le Concert,2010-07-30,gen3,dist14,926009.0

@@ -1,0 +1,179 @@
+Movie,Release,id_genre,id_distributor,Gross
+Spider-Man: No Way Home,2021-12-17,gen2,dist4,807885511.6666666
+Shang-Chi and the Legend of the Ten Rings,2021-09-03,gen2,dist1,224543292.0
+Venom: Let There be Carnage,2021-10-01,gen2,dist4,213550366.0
+Black Widow,2021-07-09,gen2,dist1,183651655.0
+F9: The Fast Saga,2021-06-25,gen2,dist3,173071556.66666666
+Eternals,2021-11-05,gen2,dist1,164870244.0
+Sing 2,2021-12-22,gen1,dist3,162790990.0
+No Time to Die,2021-10-08,gen2,dist18,160883681.66666666
+A Quiet Place: Part II,2021-05-28,gen6,dist6,160144012.5
+Ghostbusters: Afterlife,2021-11-19,gen4,dist4,129360575.0
+Free Guy,2021-08-13,gen2,dist21,121626598.0
+Jungle Cruise,2021-07-30,gen1,dist1,116987516.0
+Dune,2021-10-22,gen2,dist2,108327830.0
+Godzilla vs. Kong,2021-03-31,gen2,dist2,100916094.0
+Encanto,2021-11-24,gen1,dist1,96093622.0
+Halloween Kills,2018-10-19,gen6,dist3,92002155.0
+Cruella,2021-05-28,gen4,dist1,86103234.0
+Space Jam: A New Legacy,2021-07-16,gen4,dist2,70592228.0
+The Conjuring: The Devil Made Me Do It,2021-06-04,gen6,dist2,65631050.0
+Candyman,2021-08-27,gen6,dist3,61186570.0
+The Boss Baby: Family Business,2021-07-02,gen1,dist3,57300280.0
+The Addams Family 2,2021-10-01,gen1,dist18,56489153.0
+The Suicide Squad,2021-08-06,gen2,dist2,55817425.0
+Raya and the Last Dragon,2021-03-05,gen1,dist1,54723032.0
+House of Gucci,2021-11-24,gen3,dist18,53809574.0
+Clifford the Big Red Dog,2021-11-10,gen1,dist6,48947356.0
+Old,2021-07-23,gen5,dist3,48276510.0
+Tom and Jerry,2021-02-26,gen1,dist2,46536687.0
+The Forever Purge,2021-07-02,gen6,dist3,44539245.0
+Mortal Kombat,2021-04-23,gen2,dist2,42284358.333333336
+Peter Rabbit 2: The Runaway,2021-06-11,gen1,dist4,40501717.0
+The Matrix Resurrections,2021-12-22,gen2,dist2,39075001.0
+PAW Patrol: The Movie,2021-08-20,gen1,dist6,40127371.0
+West Side Story,2021-12-10,gen8,dist21,38530322.0
+The Hitman’s Wife’s Bodyguard,2021-06-16,gen4,dist7,38014727.0
+The King’s Man,2021-12-22,gen2,dist21,37176373.0
+Don’t Breathe 2,2021-08-13,gen6,dist4,32656766.0
+In the Heights,2021-06-10,gen8,dist2,29975167.0
+Snake Eyes: G.I. Joe Origins,2021-07-23,gen2,dist6,
+Nobody,2021-03-26,gen5,dist3,27468035.0
+Wrath of Man,2021-05-07,gen2,dist18,27466489.0
+American Underdog: The Kurt Warner Story,2021-12-25,gen3,dist7,
+Escape Room: Tournament of Champions,2021-07-16,gen6,dist4,25272821.333333332
+Respect,2021-08-13,gen3,dist18,24278399.0
+Spiral,2021-05-14,gen6,dist7,23216862.0
+Ron’s Gone Wrong,2021-10-22,gen1,dist21,23009270.0
+Spirit Untamed,2021-06-04,gen1,dist3,17716215.0
+Licorice Pizza,2021-11-26,gen3,dist18,17318007.0
+The Green Knight,2021-07-30,gen1,dist34,17173321.0
+Resident Evil: Welcome to Raccoon City,2021-11-24,gen6,dist4,17000612.0
+The French Dispatch,2021-10-22,gen4,dist60,16124375.0
+The Marksman,2021-01-15,gen2,dist29,15566093.0
+The Unholy,2021-04-02,gen6,dist4,15532137.0
+The Little Things,2021-01-29,gen5,dist2,15342746.0
+King Richard,2021-11-19,gen3,dist2,15133809.5
+Dear Evan Hansen,2021-09-24,gen8,dist3,15002646.0
+Stillwater,2020-12-31,gen3,dist13,14465535.0
+Malignant,2021-09-10,gen6,dist2,13391791.0
+Christmas with the Chosen: The Messengers,2021-12-01,,dist85,13558000.0
+Chaos Walking,2021-03-05,gen2,dist7,13287908.0
+Nightmare Alley,2021-12-17,gen5,dist60,11338107.0
+The Last Duel,2021-10-15,gen3,dist21,10853945.0
+Antlers,2021-10-29,gen6,dist60,10619670.0
+Cry Macho,2021-09-17,gen3,dist2,10310734.0
+Last Night in Soho,2021-10-29,gen5,dist13,10127625.0
+Belfast,2021-11-12,gen3,dist13,9250870.0
+The Many Saints of Newark,2021-10-01,gen3,dist2,8237403.0
+The Protégé,2021-08-20,gen2,dist7,7446823.0
+Those Who Wish Me Dead,2021-05-14,gen5,dist2,7407200.0
+The Night House,2021-01-29,gen5,dist184,7100581.0
+Spencer,2021-11-05,gen3,dist51,7086632.0
+A Journal for Jordan,2021-12-10,gen3,dist4,6545174.0
+Judas and the Black Messiah,2021-02-12,gen3,dist2,5478009.0
+Roadrunner: A Film About Anthony Bourdain,2021-07-16,gen10,dist13,5354970.0
+CopShop,2021-09-17,gen2,dist29,5213243.0
+Zola,2021-06-30,gen9,dist34,4844399.0
+Separation,2021-04-30,gen6,dist29,4509143.0
+Boogie,2021-03-05,gen3,dist13,4178620.0
+Reminiscence,2021-08-20,gen5,dist2,3900193.0
+Nomadland,2021-02-19,gen3,dist60,3700000.0
+12 Mighty Orphans,2021-06-11,gen3,,3688723.0
+Pig,2021-07-16,gen3,dist51,3186667.0
+The Girl Who Believes In Miracles,2021-04-02,gen3,dist187,3163362.0
+Voyagers,2021-04-09,gen5,dist7,3149935.0
+Dream Horse,2021-05-21,gen3,dist61,2913328.0
+The House Next Door: Meet the Blacks 2,2021-06-11,gen4,dist403,2893660.0
+Here Today,2021-05-07,gen4,dist4,2807494.0
+Finding You,2021-05-14,gen3,dist38,2753985.0
+Lamb,2021-10-08,gen3,dist34,2676410.0
+The Card Counter,2021-09-10,gen5,dist13,2657850.0
+Land,2021-02-12,gen3,dist13,2577830.0
+The Eyes of Tammy Faye,2021-09-17,gen3,dist60,2404127.0
+After We Fell,2021-09-10,gen3,,2170750.0
+The Father,2021-03-12,gen3,,2120992.0
+C’mon C’mon,2021-11-19,gen3,dist34,2005481.0
+Queen Bees,2021-06-18,gen4,dist144,1926706.0
+Show Me the Father,2021-09-10,gen10,dist4,1803226.0
+Profile,2021-05-14,gen5,dist13,1744740.0
+Titane,2021-10-01,gen6,dist51,1442988.0
+Together Together,2021-04-23,gen4,dist61,1436324.0
+Joe Bell,2021-07-23,gen3,dist38,1405488.0
+Wrong Turn,2021-01-26,gen6,dist83,1251184.0
+CS Lewis: The Most Reluctant Convert,2021-11-03,gen3,dist107,1205000.0
+God’s Not Dead: We the People,2021-10-04,gen3,dist411,1170387.0
+In the Earth,2021-04-16,gen6,dist51,1113722.0
+Red Rocket,2021-12-10,gen3,dist34,1039866.0
+True To The Game 3,2021-12-03,gen5,,1038255.0
+Long Weekend,2021-03-12,gen7,dist4,1018532.0
+The Jesus Music,2021-10-01,gen10,dist7,1016725.0
+Witnesses,2021-06-04,gen3,dist259,855765.0
+The Alpinist,2021-09-10,gen10,dist38,844743.0
+Four Good Days,2021-04-30,gen3,,837849.0
+The Mauritanian,2021-02-12,gen3,dist552,836536.0
+Blue Bayou,2021-09-17,gen3,dist13,788675.0
+The Rescue,2021-10-08,gen10,dist140,787460.0
+Lamb of God: The Concert Film,2021-03-12,,dist259,744812.0
+French Exit,2021-02-12,gen4,,741895.0
+Nine Days,2021-07-30,gen3,,694849.0
+Our Friend,2021-01-22,gen3,dist144,657511.0
+The Sparks Brothers,2021-06-18,gen10,dist13,648665.0
+Met Opera: Fire Shut Up in My Bones,2021-10-23,,dist85,610000.0
+Werewolves Within,2021-06-25,gen6,dist31,575783.0
+City of Lies,2021-03-19,gen3,dist83,572493.0
+The Truffle Hunters,2021-03-05,gen10,,521202.0
+For the Love of Money,2021-11-24,gen3,dist67,480774.0
+National Champions,2021-12-10,gen3,dist552,475488.0
+Jathi Ratnalu,2021-03-12,gen4,dist70,460000.0
+The Lost Leonardo,2021-08-13,gen10,,445740.0
+2021 Oscar Shorts,2021-04-02,gen13,dist223,443050.0
+Flag Day,2021-08-20,gen3,dist18,424667.0
+Willy’s Wonderland,2021-02-12,gen6,dist159,418286.0
+Julia,2021-11-12,gen10,,399811.0
+The Dry,2021-05-21,gen5,dist31,364317.0
+Benedetta,2021-12-03,gen3,dist31,354481.0
+The Water Man,2021-05-07,gen3,dist1214,354087.0
+Flee,2021-12-03,gen10,dist51,339754.0
+Dutch,2021-03-12,gen5,,323167.0
+Final Account,2021-05-21,gen10,dist13,308976.0
+India Sweets and Spices,2021-11-19,gen4,dist61,288714.0
+Blithe Spirit,2021-02-19,gen4,dist31,282499.0
+American Skin,2021-01-15,gen3,,282332.0
+I’m Your Man,2021-09-24,gen4,dist61,275158.0
+A Mouthful of Air,2021-10-29,gen3,dist4,269435.0
+Once I Was Engaged,2021-07-21,gen4,dist259,254775.0
+Supernova,2021-01-29,gen3,dist61,234220.0
+Becoming Cousteau,2021-10-22,gen10,dist54,232285.0
+Limbo,2021-04-30,gen3,dist13,224405.0
+Doctor,2021-10-09,gen2,dist532,220000.0
+Together,2021-08-27,gen4,dist61,214390.0
+Ailey,2021-07-23,gen10,dist51,204512.0
+The Resort,2021-04-30,gen6,,191996.0
+Beans,2021-03-30,gen3,dist954,171208.0
+I Carry You With Me,2020-12-31,gen3,,166403.0
+Shiva Baby,2021-04-02,gen4,dist362,159294.0
+Wolf,2021-12-03,gen3,dist13,147595.0
+SAS: Red Notice,2021-04-16,gen2,,146329.0
+Bergman Island,2021-10-15,gen3,dist31,145191.0
+Mass,2021-10-08,gen3,dist61,145175.0
+The Reckoning,2021-02-05,gen6,dist1214,143532.0
+Held,2021-04-09,gen6,dist33,142817.0
+No Man’s Land,2021-01-22,gen11,dist31,139221.0
+Six Minutes to Midnight,2021-03-26,gen5,dist31,132500.0
+Tadap,2021-12-03,gen2,dist21,130934.0
+Gaia,2021-06-18,gen6,dist51,126126.0
+Swan Song,2021-08-06,gen3,dist33,126110.0
+The Djinn,2021-05-14,gen6,dist184,124649.0
+Walking with Herb,2021-05-07,gen4,dist386,120226.0
+The World to Come,2021-02-12,gen3,dist61,113079.0
+The Paper Tigers,2021-05-07,gen2,dist10,112691.0
+Small Engine Repair,2021-09-10,gen3,,110995.0
+Jockey,2021-12-29,gen3,,108678.0
+The Loneliest Whale: The Search for 52,2021-07-09,gen10,dist61,107799.0
+Tango Shalom,2021-09-03,gen4,dist298,102651.0
+The Misfits,2021-06-11,gen5,,100671.0
+The Souvenir Part II,2021-10-29,gen3,dist34,98929.0
+Safer at Home,2021-02-26,gen5,,95643.0
+Psycho Goreman,2021-01-22,gen6,dist1214,95100.0
+Censor,2021-06-11,gen6,dist33,90050.0

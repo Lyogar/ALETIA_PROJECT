@@ -1,0 +1,192 @@
+Movie,Release,id_genre,id_distributor,Gross
+Finding Nemo,2003-05-30,gen1,dist1,360122174.0
+The Matrix Reloaded,2003-05-15,gen2,dist2,281540876.3333333
+Bruce Almighty,2003-05-23,gen4,dist3,242767128.0
+Elf,2003-11-07,gen4,dist8,175749259.0
+Terminator 3: Rise of the Machines,2003-07-01,gen2,dist2,150366840.0
+The Matrix Revolutions,2003-11-05,gen2,dist2,139299602.0
+Cheaper by the Dozen,2003-12-25,gen4,dist5,138614544.0
+Bad Boys II,2003-07-18,gen2,dist4,138585919.33333334
+Anger Management,2003-04-11,gen4,dist4,135603382.5
+Bringing Down the House,2003-03-07,gen4,dist1,132696039.5
+Hulk,2003-06-20,gen2,dist3,132177234.0
+2 Fast 2 Furious,2003-06-06,gen2,dist3,127143286.66666667
+Something's Gotta Give,2003-12-12,gen7,dist4,124706990.0
+Seabiscuit,2003-07-25,gen3,dist3,120277854.0
+S.W.A.T.,2003-08-08,gen2,dist4,116915632.33333333
+Spy Kids 3-D: Game Over,2003-07-25,gen1,dist27,111761306.5
+The Last Samurai,2003-12-05,gen2,dist2,111116137.66666667
+Freaky Friday,2003-08-06,gen4,dist1,110226385.0
+Scary Movie 3,2003-10-24,gen4,dist27,110001649.5
+The Italian Job,2003-05-30,gen1,dist6,106127738.0
+How to Lose a Guy in 10 Days,2003-02-07,gen7,dist6,105810446.5
+American Wedding,2003-08-01,gen4,dist3,104459659.5
+Daddy Day Care,2003-05-09,gen4,dist4,104222921.0
+Daredevil,2003-02-14,gen2,dist5,102543518.66666667
+Dr. Seuss’ The Cat in the Hat,2003-11-21,gen1,dist3,101149285.0
+Charlie's Angels: Full Throttle,2003-06-27,gen2,dist4,100824850.0
+Cold Mountain,2003-12-25,gen3,dist12,95634561.5
+"Legally Blonde 2: Red, White & Blonde",2003-07-02,gen4,dist9,90412708.0
+Mystic River,2003-10-08,gen3,dist2,90135191.0
+Brother Bear,2003-10-24,gen1,dist1,85336277.0
+Freddy vs. Jason,2003-08-15,gen6,dist8,82622655.0
+School of Rock,2003-10-03,gen4,dist6,81261177.0
+The Texas Chainsaw Massacre,2003-10-17,gen6,dist8,80571655.0
+The Haunted Mansion,2003-11-26,gen1,dist1,75832630.0
+Old School,2003-02-21,gen4,dist11,75370046.5
+Kill Bill: Volume 1,2003-10-10,gen2,dist12,70098591.5
+Holes,2003-04-18,gen1,dist1,67395248.5
+Kangaroo Jack,2003-01-17,gen1,dist2,66864380.666666664
+The League of Extraordinary Gentlemen,2003-07-11,gen1,dist5,66465204.0
+Big Fish,2003-12-10,gen3,dist4,66621280.0
+Lara Croft: Tomb Raider: The Cradle of Life,2003-07-25,gen1,dist6,65658050.0
+Mona Lisa Smile,2003-12-19,gen3,dist4,63832021.0
+Shanghai Knights,2003-02-07,gen11,dist1,60474654.666666664
+Bad Santa,2003-11-26,gen9,dist27,60060328.0
+Gothika,2003-11-21,gen6,dist2,59641324.0
+Love Actually,2003-11-07,gen7,dist3,59584211.0
+Open Range,2003-08-15,gen11,dist1,58331254.0
+Once Upon a Time in Mexico,2003-09-12,gen2,dist4,56350072.333333336
+Just Married,2003-01-10,gen7,dist5,56127162.0
+Paycheck,2003-12-25,gen5,dist6,53790071.666666664
+The Recruit,2003-01-31,gen5,dist1,52796325.333333336
+Radio,2003-10-24,gen3,dist4,52333738.0
+Identity,2003-04-25,gen5,dist4,52145400.0
+Underworld,2003-09-19,gen2,dist4,51970690.0
+Runaway Jury,2003-10-17,gen5,dist5,49442312.0
+Peter Pan,2003-12-25,gen1,dist3,48440229.0
+The Jungle Book 2,2003-02-14,gen1,dist1,47901582.0
+The Rundown,2003-09-26,gen2,dist3,47698142.333333336
+Agent Cody Banks,2003-03-14,gen1,dist9,47807240.0
+Final Destination 2,2003-01-31,gen6,dist8,46928939.0
+Phone Booth,2003-04-04,gen5,dist5,46566212.0
+28 Days Later…,2003-06-27,gen6,dist15,45064915.0
+Lost in Translation,2003-09-12,gen3,dist13,44585453.0
+Tears of the Sun,2003-03-07,gen2,dist4,43700736.666666664
+Under the Tuscan Sun,2003-09-26,gen4,dist1,43606115.5
+The Lizzie McGuire Movie,2003-05-02,gen1,dist1,42734455.0
+Secondhand Lions,2003-09-19,gen3,dist8,42070939.0
+Out of Time,2003-10-03,gen5,dist9,41085976.5
+Rugrats Go Wild,2003-06-13,gen1,dist6,39402572.0
+Head of State,2003-03-28,gen4,dist11,37956737.5
+Good Boy!,2003-10-10,gen1,dist9,37667746.0
+Uptown Girls,2003-08-15,gen4,dist9,37139075.5
+Matchstick Men,2003-09-12,gen4,dist2,36889829.0
+National Security,2003-01-17,gen2,dist4,36145039.666666664
+What a Girl Wants,2003-04-04,gen4,dist2,36047969.0
+Jeepers Creepers 2,2003-08-29,gen6,dist9,35645509.5
+Intolerable Cruelty,2003-10-10,gen7,dist3,35327628.0
+Cradle 2 the Grave,2003-02-28,gen2,dist2,34694141.666666664
+Monster,2003-12-24,gen3,dist39,34469210.0
+Malibu’s Most Wanted,2003-04-18,gen4,dist2,34370551.0
+The Hunted,2003-03-14,gen2,dist6,34238905.333333336
+Stuck On You,2003-12-12,gen4,dist5,33832741.0
+Dreamcatcher,2003-03-21,gen6,dist2,33700352.0
+Bend it Like Beckham,2003-03-12,gen4,dist15,32543449.0
+Darkness Falls,2003-01-24,gen6,dist4,32545538.5
+The Core,2003-12-19,gen3,dist7,31161684.0
+Calendar Girls,2003-12-19,gen4,dist1,31026687.5
+Honey,2003-12-05,gen3,dist3,30290335.5
+The Fighting Temptations,2003-09-19,gen4,dist6,30244661.0
+Hollywood Homicide,2003-06-13,gen2,dist4,30387274.0
+Johnny English,2003-07-18,gen1,dist3,28059413.666666668
+The Missing,2003-11-26,gen11,dist4,26955758.0
+Basic,2003-03-28,gen5,dist4,26642893.0
+A Man Apart,2003-04-04,gen2,dist8,26473098.333333332
+Sinbad: Legend of the Seven Seas,2003-07-02,gen1,dist11,26483452.0
+Dumb and Dumberer: When Harry Met Lloyd,2003-06-13,gen4,dist8,26245655.5
+Piglet's Big Movie,2003-03-21,gen1,dist1,23103423.0
+Bulletproof Monk,2003-04-16,gen2,dist9,23129934.333333332
+Dickie Roberts: Former Child Star,2003-09-05,gen4,dist6,22736578.5
+The Medallion,2002-03-01,gen3,dist873,22145715.333333332
+Biker Boyz,2003-01-31,gen2,dist11,21895283.666666668
+Love Don't Cost a Thing,2003-12-12,gen7,dist2,21910807.5
+Cold Creek Manor,2003-09-19,gen5,dist1,21385023.0
+Cabin Fever,2003-09-12,gen6,dist7,21158188.0
+Looney Tunes: Back in Action,2003-11-14,gen1,dist2,20971092.0
+Whale Rider,2003-06-06,gen3,dist39,20779666.0
+The In-Laws,2003-05-23,gen4,dist2,20444895.0
+Down with Love,2003-05-09,gen7,dist5,20305251.0
+The Life of David Gale,2003-02-21,gen5,dist3,19825116.5
+Timeline,2003-11-26,gen1,dist6,19481541.666666668
+A Mighty Wind,2003-04-16,gen4,dist2,17682237.0
+Deliver Us From Eva,2003-02-07,gen7,dist13,17573594.0
+Ghosts of the Abyss,2003-04-11,gen10,dist1,17067269.5
+21 Grams,2003-11-21,gen3,dist13,16269588.5
+View from the Top,2003-03-21,gen4,dist12,15614000.0
+My Boss's Daughter,2003-08-22,gen7,dist27,15550153.5
+A Guy Thing,2003-01-17,gen7,dist9,15544646.5
+In America,2003-11-26,gen3,dist15,15539656.0
+Wrong Turn,2003-05-30,gen6,dist5,15418280.5
+Alex & Emma,2003-06-20,gen7,dist2,14213541.0
+How to Deal,2003-07-18,gen3,dist8,14151872.5
+House of Sand and Fog,2003-12-19,gen3,dist11,13022886.5
+Gods and Generals,2003-02-21,gen3,dist2,12882934.0
+"House of 1,000 Corpses",2003-04-11,gen6,dist7,12634962.0
+Confidence,2003-04-25,gen3,dist7,12232028.5
+Winged Migration,2003-04-18,gen10,,11689053.0
+Girl with a Pearl Earring,2003-12-12,gen3,dist7,11652666.5
+House of the Dead,2003-10-10,gen6,dist48,10232930.666666666
+Swimming Pool,2003-07-04,gen5,dist13,10130108.0
+La Grande Seduction,2003-07-11,gen4,dist248,9832874.0
+Duplex,2003-09-26,gen9,dist12,9672067.5
+Mambo Italiano,2003-06-06,gen4,,9282750.0
+Dark Blue,2003-02-21,gen5,dist9,9243885.5
+Le Divorce,2003-08-08,gen4,dist15,9081057.0
+Boat Trip,2003-03-21,gen4,dist48,8586376.0
+The Cooler,2003-12-19,gen3,dist7,31161684.0
+Dirty Pretty Things,2003-07-18,gen3,dist12,8112414.0
+Tupac Resurrection,2003-11-14,gen10,dist6,7718961.0
+The Order,2003-09-05,gen6,dist5,7659747.0
+To Be and To Have,2003-09-17,gen10,dist177,7610471.0
+It Runs in the Family,2003-04-25,gen4,dist9,7375836.0
+Les Triplettes de Belleville,2003-11-26,gen8,dist4,7007149.0
+Willard,2003-03-14,gen6,dist8,6882696.0
+Young Black Stallion,2003-12-25,gen1,dist1,6751389.0
+Nowhere in Africa,2003-03-07,gen3,dist158,6173485.0
+Chasing Papi,2003-04-16,gen4,dist5,6128143.0
+Gigli,2003-08-01,gen7,dist4,6087542.0
+American Splendor,2003-08-15,gen3,dist59,6003587.0
+The Station Agent,2003-10-03,gen3,dist12,5801558.0
+Luther,2003-09-26,gen3,dist1626,5786207.0
+Spellbound,2003-04-30,gen10,dist113,5728581.0
+The Human Stain,2003-10-31,gen3,dist12,5381567.5
+Grind,2003-08-15,gen1,dist2,5111630.0
+From Justin to Kelly,2003-06-20,gen8,dist5,4922166.0
+The Magdalene Sisters,2003-08-01,gen3,dist12,4890878.0
+In the Cut,2003-10-31,gen5,dist4,4734028.5
+Thirteen,2003-08-20,gen3,dist15,4601043.0
+Beyond Borders,2003-10-24,gen3,dist6,4428199.0
+The Fog of War,2003-12-19,gen10,,4198566.0
+The Gospel of John,2003-09-26,gen3,dist113,4068087.0
+L'auberge espagnole,2003-05-16,gen7,dist15,3895664.0
+The Real Cancun,2003-04-25,gen10,dist8,3816594.0
+Better Luck Tomorrow,2003-04-11,gen3,dist6,3802390.0
+The Secret Lives of Dentists,2003-08-01,gen3,,3707201.0
+Step Into Liquid,2003-08-08,gen10,dist48,3681803.0
+Laurel Canyon,2003-03-07,gen3,,3663356.0
+The Good Thief,2003-04-02,gen3,dist15,3517797.0
+Anything Else,2003-09-19,gen7,dist11,3207677.0
+Capturing the Friedmans,2003-05-30,gen10,dist33,3117985.0
+The Guru,2003-01-31,gen4,dist3,3051221.0
+My Architect,2003-11-14,gen10,dist177,2822522.0
+Pieces of April,2003-10-17,gen4,dist9,2528664.0
+The Dancer Upstairs,2003-05-02,gen3,dist15,2374732.0
+The Company,2003-12-25,gen3,dist4,2281585.0
+DysFunkTional Family,2003-04-04,gen10,dist12,2255000.0
+Shattered Glass,2003-10-31,gen3,dist7,2207975.0
+Raising Victor Vargas,2003-03-28,gen3,dist381,2073984.0
+Sur Le Seuil,2003-10-03,gen3,dist174,2013260.5
+Nez Rouge,2003-11-28,gen7,dist354,2004814.0
+Kal Ho Naa Ho,2003-11-26,gen3,dist44,1974200.0
+The Legend of Johnny Lingo,2003-08-29,gen1,,1673997.0
+Marci X,2003-08-22,gen4,dist6,1646664.0
+Spider,2003-02-28,gen3,,1641788.0
+Camp,2003-07-25,gen4,dist31,1629862.0
+Veronica Guerin,2003-10-17,gen3,dist1,1570711.0
+Northfork,2003-07-11,gen3,dist40,1420578.0
+Sylvia,2003-10-17,gen3,dist13,1302242.0
+Elephant,2003-10-24,gen3,dist59,1266955.0
+Bubba Ho-Tep,2003-09-19,gen4,dist160,1239183.0
+Main Prem Ki Diwani Hoon,2003-06-27,gen3,dist44,1225908.0
+I Capture the Castle,2003-07-11,gen7,dist381,1174139.0

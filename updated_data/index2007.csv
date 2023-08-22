@@ -1,0 +1,189 @@
+Movie,Release,id_genre,id_distributor,Gross
+Spider-Man 3,2007-05-04,gen1,dist4,336530303.0
+Shrek the Third,2007-05-17,gen1,dist6,322719944.0
+Transformers,2007-07-02,gen2,dist6,319246193.0
+Pirates of the Caribbean: At World’s End,2007-05-24,gen1,dist1,309420425.0
+Harry Potter and the Order of the Phoenix,2007-07-11,gen1,dist2,292048912.0
+I am Legend,2007-12-14,gen6,dist2,256393010.0
+The Bourne Ultimatum,2007-08-03,gen5,dist3,227471070.0
+National Treasure: Book of Secrets,2007-12-21,gen1,dist1,219963243.66666666
+Alvin and the Chipmunks,2007-12-14,gen1,dist5,217326974.0
+300,2007-03-09,gen2,dist2,210614939.0
+Ratatouille,2007-06-29,gen1,dist1,206445654.0
+The Simpsons Movie,2007-07-27,gen1,dist5,183135014.0
+Wild Hogs,2007-03-02,gen4,dist1,168253561.33333334
+Knocked Up,2007-06-01,gen7,dist3,148765341.0
+Juno,2007-12-05,gen4,dist15,143495265.0
+Rush Hour 3,2007-08-10,gen2,dist8,140125968.0
+Live Free or Die Hard,2007-03-30,gen4,dist113,134529403.0
+Fantastic Four: Rise of the Silver Surfer,2007-06-15,gen2,dist5,131921738.0
+American Gangster,2007-11-02,gen3,dist3,130164645.0
+Enchanted,2007-11-21,gen7,dist1,127757069.5
+Bee Movie,2007-11-02,gen1,dist6,126631277.0
+Superbad,2007-08-17,gen4,dist4,121463226.0
+I Now Pronounce You Chuck and Larry,2007-07-20,gen4,dist3,119892418.0
+Hairspray,2007-07-20,gen8,dist8,118871849.0
+Blades of Glory,2007-02-16,gen3,dist14,118594548.0
+Ocean's Thirteen,2007-06-08,gen1,dist2,117149594.5
+Ghost Rider,2007-02-16,gen2,dist4,115802596.0
+Evan Almighty,2007-06-22,gen4,dist3,100375994.0
+Meet the Robinsons,2007-03-30,gen1,dist1,97822171.0
+Norbit,2007-02-09,gen4,dist6,95673607.0
+The Bucket List,2007-12-25,gen4,dist2,93466502.0
+The Game Plan,2007-09-28,gen4,dist1,90648202.0
+Beowulf,2007-11-16,gen1,dist6,82241042.33333333
+Bridge to Terabithia,2007-02-16,gen3,dist1,82253290.5
+Disturbia,2007-04-13,gen5,dist6,80514333.0
+No Country for Old Men,2007-11-21,gen2,dist12,74278565.0
+Fred Claus,2007-11-09,gen4,dist2,72006777.0
+1408,2007-06-22,gen6,dist9,71985628.0
+Charlie Wilson’s War,2007-12-21,gen3,dist3,66661095.0
+Saw IV,2007-10-26,gen6,dist7,63300095.0
+Stomp the Yard,2007-01-12,gen3,dist4,61356221.0
+Surf’s Up,2007-06-08,gen1,dist4,58867694.0
+Halloween,2007-08-31,gen6,dist9,58270590.0
+Why Did I Get Married?,2007-10-12,gen4,dist7,55204525.0
+TMNT,2007-03-23,gen2,dist2,54149098.0
+P.S. I Love You,2007-12-21,gen7,dist2,53695808.0
+3:10 to Yuma,2007-09-07,gen11,dist7,53606916.0
+Atonement,2007-12-07,gen3,dist13,50953613.0
+Resident Evil: Extinction,2007-09-21,gen6,dist4,50648679.0
+Music and Lyrics,2007-02-14,gen7,dist2,50572589.0
+Are We Done Yet?,2007-04-04,gen4,dist4,49662533.0
+This Christmas,2007-11-21,gen3,dist4,49121934.0
+Michael Clayton,2007-10-12,gen3,dist2,49033882.0
+Premonition,2007-03-16,gen5,dist4,47852604.0
+Dan in Real Life,2007-10-26,gen7,dist1,47642963.0
+The Kingdom,2007-09-28,gen2,dist3,47513602.0
+Shooter,2007-03-23,gen5,dist6,47003582.0
+License to Wed,2007-07-03,gen7,dist2,43799818.0
+Underdog,2007-08-03,gen1,dist1,43760605.0
+No Reservations,2007-07-27,gen7,dist2,43107979.0
+Because I Said So,2007-02-02,gen7,dist3,42674040.0
+Aliens vs. Predator - Requiem,2007-12-25,gen2,dist5,41797066.0
+The Water Horse: Legend of the Deep,2007-12-25,gen1,dist4,40412817.0
+There Will Be Blood,2007-12-26,gen3,dist40,40222514.0
+Epic Movie,2007-01-26,gen4,dist5,39739367.0
+Hitman,2007-11-21,gen2,dist5,39687694.0
+30 Days of Night,2007-10-19,gen6,dist4,39568997.333333336
+Fracture,2007-04-20,gen5,dist8,39009859.0
+Stardust,2007-08-10,gen1,dist6,38634938.0
+The Brave One,2007-09-14,gen5,dist2,36793804.0
+The Heartbreak Kid,2007-10-05,gen7,dist6,36787257.0
+Freedom Writers,2007-01-05,gen3,dist6,36605602.0
+Smokin' Aces,2007-01-26,gen4,dist3,35725208.5
+The Messengers,2007-02-02,gen6,dist4,35374833.0
+The Number 23,2007-02-23,gen5,dist8,35193167.0
+Good Luck Chuck,2007-09-21,gen7,dist7,35017297.0
+Mr. Bean’s Holiday,2007-08-24,gen1,dist3,33302167.0
+Zodiac,2007-03-02,gen3,dist6,33080084.0
+Breach,2007-02-16,gen5,dist3,33116072.0
+Balls of Fury,2007-08-29,gen4,dist13,32886940.0
+Mr. Magorium's Wonder Emporium,2007-11-16,gen4,dist5,32061555.0
+August Rush,2007-11-21,gen3,dist2,31664162.0
+Daddy's Little Girls,2007-02-14,gen7,dist7,31366978.0
+The Great Debaters,2007-12-25,gen3,dist14,30231275.5
+28 Weeks Later,2007-05-11,gen6,dist5,28638916.0
+We Own the Night,2007-10-12,gen2,dist4,28563179.0
+Mr. Brooks,2007-06-01,gen5,dist9,28512758.5
+Hannibal Rising,2007-02-09,gen5,dist14,27670355.5
+The Nanny Diaries,2007-08-24,gen4,dist9,25928662.5
+Mr. Woodcock,2007-09-14,gen4,dist8,25799486.0
+The Mist,2007-03-09,gen2,dist33,25594356.0
+Nancy Drew,2007-06-15,gen5,dist2,25598602.5
+The Reaping,2007-04-05,gen6,dist2,25126214.0
+Grindhouse,2007-04-06,gen13,dist49,25035610.333333332
+Sicko,2007-06-29,gen10,dist7,24539296.0
+Across the Universe,2007-09-14,gen8,dist4,24343673.0
+Perfect Stranger,2007-04-13,gen5,dist4,23872885.5
+Sea Monsters: A Prehistoric Adventure,2007-10-05,gen10,,23746066.0
+Hot Fuzz,2007-04-20,gen4,dist13,23631105.333333332
+War,2007-08-24,gen2,dist7,22486409.0
+The Last Mimzy,2007-03-23,gen1,dist8,21471047.0
+Amazing Grace,2007-02-23,gen3,dist381,21232835.0
+The Hills Have Eyes II,2007-03-23,gen6,dist5,20804166.0
+The Invisible,2007-04-27,gen5,dist1,20573614.0
+Reno 911!: Miami,2007-02-23,gen4,dist5,20342161.0
+Gone Baby Gone,2007-10-19,gen3,dist12,20296590.0
+Reign Over Me,2007-03-23,gen3,dist4,19661987.0
+Waitress,2007-05-02,gen7,dist15,19086175.0
+Vacancy,2007-04-20,gen5,dist4,19213286.0
+Georgia Rule,2007-05-11,gen3,dist3,18992976.0
+Becoming Jane,2007-08-03,gen3,dist12,18667428.5
+Into the Wild,2007-09-21,gen3,dist40,18354356.0
+Walk Hard: The Dewey Cox Story,2007-12-21,gen4,dist4,18317151.0
+Next,2007-04-27,gen2,dist6,18211013.0
+Hostel: Part II,2007-06-08,gen6,dist7,17577132.0
+Eastern Promises,2007-09-14,gen5,dist13,17223632.5
+Dead Silence,2007-03-16,gen6,dist3,16691833.0
+The Hitcher,2007-01-19,gen5,dist13,16426271.5
+Elizabeth: The Golden Age,2007-10-12,gen3,dist3,16334374.5
+Happily N'Ever After,2007-01-05,gen1,dist7,15719212.5
+The Kite Runner,2007-12-14,gen3,dist40,15800078.0
+Catch and Release,2007-01-26,gen7,dist4,15432542.0
+Alpha Dog,2007-01-12,gen3,dist3,15309602.0
+The Invasion,2007-08-17,gen5,dist2,15074191.0
+Lions for Lambs,2007-11-09,gen3,dist18,15000462.0
+Awake,2007-11-30,gen5,dist14,14375511.5
+Hot Rod,2007-08-03,gen4,dist6,13938332.0
+Firehouse Dog,2007-04-04,gen4,dist5,13927201.0
+The Namesake,2007-03-09,gen3,dist15,13589884.5
+The Comebacks,2007-10-19,gen4,dist5,13349927.0
+Daddy Day Camp,2007-08-08,gen4,dist4,13235267.0
+Shoot 'Em Up,2007-09-07,gen2,dist8,12803700.666666666
+I Think I Love My Wife,2007-03-16,gen7,dist15,12559771.0
+Evening,2007-06-29,gen3,dist13,12449563.5
+The Darjeeling Limited,2007-09-29,gen1,dist15,11902715.0
+Sydney White,2007-09-21,gen7,dist3,11892415.0
+In the Land of Women,2007-04-20,gen4,dist2,11052958.0
+The Astronaut Farmer,2007-02-23,gen3,dist2,11003643.0
+Dragon Wars: D-War,2007-09-14,gen2,dist67,10977721.0
+Primeval,2007-01-12,gen6,dist1,10597734.0
+Pathfinder,2007-04-13,gen2,dist5,10232081.0
+Bratz,2006-11-03,gen4,dist5,10010209.0
+Rendition,2007-10-19,gen5,dist8,9736045.0
+Death Sentence,2007-08-31,gen2,dist5,9534258.0
+Once,2007-05-16,gen3,dist15,9442890.0
+Black Snake Moan,2007-03-02,gen3,dist40,9396870.0
+A Mighty Heart,2007-06-22,gen3,dist40,9176787.0
+The Seeker: The Dark is Rising,2007-10-05,gen1,dist5,8794452.0
+Death at a Funeral,2007-08-17,gen9,dist9,8580428.0
+Code Name: The Cleaner,2007-01-05,gen4,dist8,8119546.5
+Delta Farce,2007-05-11,gen4,dist7,8102731.5
+Bella,2007-10-26,gen3,dist38,8093373.0
+El Cantante,2007-08-01,gen3,dist54,7556004.0
+Martian Child,2007-11-02,gen3,dist8,7500310.0
+The Condemned,2007-04-27,gen2,dist7,3687712.0
+I Know Who Killed Me,2007-07-27,gen5,dist4,7233485.0
+The Hoax,2007-03-09,gen2,dist33,7164995.0
+Before the Devil Knows You're Dead,2007-10-26,gen3,dist113,7084869.0
+Pride,2007-03-23,gen3,dist7,7057600.0
+Bug,2003-03-14,gen10,dist214,7006708.0
+Redline,2007-04-13,gen2,dist320,6879077.0
+In the Valley of Elah,2007-09-14,gen3,dist2,6777741.0
+The Savages,2007-11-28,gen3,dist15,6623082.0
+P2,2007-11-09,gen6,dist20,6348315.0
+Lars and the Real Girl,2007-10-12,gen4,dist9,5956480.0
+The Last Legion,2007-08-17,gen2,dist49,5932538.0
+Feel the Noise,2007-10-05,gen3,dist4,5867786.0
+The Perfect Holiday,2007-12-12,gen7,,5812781.0
+Lucky You,2007-05-04,gen3,dist2,5755286.0
+Who's Your Caddy?,2007-07-27,gen4,dist9,5694308.0
+Rescue Dawn,2007-07-04,gen2,dist9,5490423.0
+"Paris, je t'aime",2007-05-04,gen3,dist148,4857374.0
+Love in the Time of Cholera,2007-11-16,gen3,dist8,4612608.0
+The Lookout,2007-03-30,gen3,dist1,4600585.0
+Away From Her,2007-05-11,gen3,dist7,4548331.0
+Talk to Me,2007-08-03,gen3,dist13,4526759.0
+Kickin It Old Skool,2007-04-27,gen4,,4500147.0
+Persepolis,2007-12-25,gen3,,4444579.5
+I’m Not There,2007-11-21,gen3,dist14,4017609.0
+Ladron que roba a ladron,2007-08-31,gen2,dist7,4006783.5
+Nitro,2007-06-30,gen2,dist174,3768878.0
+Sunshine,2007-07-27,gen5,dist15,3682156.5
+Om Shanti Om,2007-11-09,gen3,dist32,3597372.0
+The Jane Austen Book Club,2007-09-21,gen3,,3575227.0
+Blood and Chocolate,2007-01-26,gen6,dist9,3526588.0
+Feast of Love,2007-09-28,gen3,dist9,3508572.0
+The Ultimate Gift,2007-03-09,gen3,dist331,3438735.0
+Things We Lost in the Fire,2007-10-19,gen3,dist6,3287315.0

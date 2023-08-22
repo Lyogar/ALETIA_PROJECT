@@ -1,0 +1,194 @@
+Movie,Release,id_genre,id_distributor,Gross
+Harry Potter and the Sorcerer’s Stone,2001-11-16,gen1,dist2,317723508.5
+"Monsters, Inc.",2001-11-02,gen1,dist1,273011337.5
+Shrek,2001-05-18,gen1,dist11,267660011.0
+Rush Hour 2,2001-08-03,gen2,dist8,226164286.0
+The Mummy Returns,2001-05-04,gen1,dist3,202015736.66666666
+Pearl Harbor,2001-05-25,gen2,dist1,198541654.33333334
+Ocean's Eleven,2001-12-07,gen5,dist2,183417150.0
+Jurassic Park III,2001-07-18,gen2,dist3,181169955.0
+Planet of the Apes,2001-07-27,gen1,dist5,180011740.0
+A Beautiful Mind,2001-12-21,gen3,dist3,170725668.5
+Hannibal,2001-02-09,gen6,dist9,165092267.0
+American Pie 2,2001-08-10,gen4,dist3,145100207.5
+The Fast and the Furious,2001-06-22,gen2,dist3,144526720.0
+Lara Croft: Tomb Raider,2001-06-15,gen1,dist6,131152145.33333333
+Dr. Dolittle 2,2001-06-22,gen1,dist5,112951810.0
+Spy Kids,2001-03-30,gen1,dist27,112710021.33333333
+Black Hawk Down,2001-12-28,gen2,dist4,108638745.0
+The Princess Diaries,2001-08-03,gen4,dist1,108246865.0
+Vanilla Sky,2001-12-14,gen5,dist6,100616601.0
+The Others,2001-03-23,gen4,dist4,96522687.0
+Legally Blonde,2001-07-13,gen4,dist9,96507050.0
+America's Sweethearts,2001-07-20,gen7,dist4,93607673.0
+Cats & Dogs,2001-07-04,gen4,dist2,93382060.33333333
+Save the Last Dance,2001-01-12,gen3,dist6,91047641.0
+Atlantis: The Lost Empire,2001-06-08,gen1,dist1,84053998.66666667
+Jimmy Neutron: Boy Genius,2001-12-21,gen1,dist6,80936232.0
+Artificial Intelligence: AI,2001-06-29,gen3,dist2,78616689.0
+Training Day,2001-10-05,gen5,dist2,76508283.33333333
+Along Came a Spider,2001-04-06,gen5,dist6,74068436.0
+Bridget Jones's Diary,2001-04-13,gen7,dist12,71521991.5
+Scary Movie 2,2001-07-04,gen4,dist27,71293208.5
+The Score,2001-07-13,gen5,dist6,71082493.0
+Shallow Hal,2001-11-09,gen7,dist5,70837749.5
+Swordfish,2001-06-08,gen2,dist2,69772969.0
+The Mexican,2001-03-02,gen2,dist11,66826824.0
+Down to Earth,2001-02-16,gen4,dist6,64179376.5
+Spy Game,2001-11-21,gen2,dist3,41583997.0
+The Wedding Planner,2001-01-26,gen7,dist4,60400856.0
+Behind Enemy Lines,2001-11-30,gen2,dist5,58927102.666666664
+Ali,2001-12-25,gen3,dist4,58193535.5
+Moulin Rouge,2001-05-18,gen8,dist5,57386488.0
+Rat Race,2001-08-17,gen4,dist6,56614444.333333336
+A Knight’s Tale,2001-05-11,gen1,dist4,
+The Animal,2001-06-01,gen4,dist4,56752645.5
+Don’t Say a Word,2001-09-28,gen5,dist5,54997476.0
+Blow,2001-04-06,gen3,dist8,52990775.0
+The Royal Tenenbaums,2001-12-14,gen9,dist1,52358823.0
+Exit Wounds,2001-03-16,gen2,dist2,51758599.0
+Enemy at the Gates,2001-03-16,gen3,dist6,51400099.0
+K-PAX,2001-10-26,gen3,dist3,50326812.5
+Serendipity,2001-10-05,gen7,dist12,50274813.5
+Kate and Leopold,2001-12-25,gen7,dist12,47108656.0
+Domestic Disturbance,2001-11-02,gen5,dist6,45226603.5
+Zoolander,2001-09-28,gen4,dist6,45172250.0
+The One,2001-11-02,gen2,dist4,43905746.0
+Thirteen Ghosts,2001-10-26,gen6,dist2,41867960.0
+Bandits,2001-10-12,gen4,dist9,41549206.0
+Gosford Park,2001-12-26,gen4,dist52,41304360.0
+Heartbreakers,2001-03-23,gen4,dist9,40335315.5
+I Am Sam,2001-12-28,gen3,dist8,40291373.5
+Hardball,2001-09-14,gen3,dist6,40222729.0
+Evolution,2001-06-08,gen4,dist11,38328314.0
+Jeepers Creepers,2001-08-31,gen6,dist9,37904175.0
+Not Another Teen Movie,2001-12-14,gen4,dist4,38067417.5
+Kiss of the Dragon,2001-07-06,gen2,dist5,36841240.333333336
+Recess: School's Out,2001-02-16,gen1,dist1,36701451.0
+In the Bedroom,2001-11-23,gen3,dist12,35930604.0
+Black Knight,2001-11-21,gen1,dist5,33424888.5
+See Spot Run,2001-03-02,gen1,dist2,33357476.0
+Driven,2001-04-27,gen2,dist2,32685666.333333332
+What's the Worst That Could Happen?,2001-06-01,gen4,dist9,32268804.0
+Final Fantasy: The Spirits Within,2001-07-11,gen1,dist4,32131830.0
+From Hell,2001-10-19,gen5,dist5,31600437.0
+Monster's Ball,2001-12-26,gen3,dist7,31273922.0
+How High,2001-12-21,gen4,dist3,31167087.5
+Jay and Silent Bob Strike Back,2001-08-24,gen4,dist27,30072266.5
+Double Take,2001-01-12,gen2,dist1,19891654.333333332
+Riding in Cars with Boys,2001-10-19,gen3,dist4,29973494.5
+Baby Boy,2001-06-27,gen3,dist4,28734552.0
+The Majestic,2001-12-21,gen3,dist2,27801654.0
+The Brothers,2001-03-23,gen4,dist4,96522687.0
+Someone Like You,2001-03-30,gen7,dist5,27340550.0
+Joe Dirt,2001-04-11,gen4,dist4,27087695.0
+The Musketeer,2001-09-07,gen1,dist3,27067031.666666668
+Crocodile Dundee in Los Angeles,2001-04-20,gen1,dist6,25620494.333333332
+Memento,2001-03-16,gen5,dist39,25544867.0
+Captain Corelli's Mandolin,2001-08-17,gen3,dist12,25536195.0
+Sweet November,2001-02-16,gen3,dist2,25288103.0
+15 Minutes,2001-03-09,gen5,dist8,24394180.0
+Hearts in Atlantis,2001-09-28,gen3,dist2,24185781.0
+Angel Eyes,2001-05-18,gen3,dist2,24109375.0
+Corky Romano,2001-10-12,gen4,dist1,23979353.0
+Heist,2001-11-09,gen2,dist8,15680479.0
+Kingdom Come,2001-04-11,gen4,dist15,23248594.0
+Joe Somebody,2001-12-21,gen4,dist5,22771255.0
+Two Can Play That Game,2001-09-07,gen7,dist4,22235901.0
+Joy Ride,2001-10-05,gen5,dist5,21973761.0
+Valentine,2001-02-02,gen6,dist2,20384136.0
+The Pledge,2001-01-19,gen5,dist2,19726509.5
+Summer Catch,2001-08-24,gen7,dist2,19723722.0
+Saving Silverman,2001-02-09,gen4,dist4,19376799.5
+The Last Castle,2001-10-19,gen5,dist11,18220072.0
+The Glass House,2001-09-14,gen5,dist4,18050845.0
+Max Keeble's Big Move,2001-10-05,gen1,dist1,17293337.0
+Pokemon 3: The Movie,2001-04-06,gen1,dist2,17052128.0
+Rock Star,2001-09-07,gen3,dist2,17000092.0
+crazy/beautiful,2001-06-29,gen3,dist1,16929123.0
+Original Sin,2001-08-03,gen5,dist9,16527815.5
+O (Othello),2001-08-31,gen3,dist7,16017403.0
+3000 Miles to Graceland,2001-02-23,gen2,dist2,15742407.666666666
+Life as a House,2001-10-26,gen3,dist8,15659953.5
+Shackleton's Antarctic Adventure,2001-02-09,gen10,,15553324.0
+Iron Monkey,2001-10-12,gen2,dist12,14688282.5
+Josie and the Pussycats,2001-04-11,gen4,dist3,14261922.5
+Freddy Got Fingered,2001-04-20,gen4,dist5,14251999.0
+Out Cold,2001-11-21,gen4,dist1,13906394.0
+Haunted Castle,2001-03-02,gen1,dist118,13651656.0
+Osmosis Jones,2001-08-10,gen1,dist2,13596911.0
+Tomcats,2001-03-30,gen4,dist4,13558739.0
+The Tailor of Panama,2001-03-30,gen5,dist4,13610697.5
+Sugar and Spice,2001-01-26,gen4,dist8,13291027.0
+American Outlaws,2001-08-17,gen11,dist2,13290920.666666666
+Get Over It,2001-03-09,gen7,dist12,11568361.5
+The Shipping News,2001-12-25,gen3,dist12,11420020.5
+Antitrust,2001-01-12,gen5,dist9,11086170.666666666
+Head Over Heels,2001-02-02,gen7,dist3,10410917.5
+The Wash,2001-03-14,gen4,dist2,10097317.0
+The Deep End,2001-08-08,gen5,dist15,8823109.0
+John Carpenter’s Ghosts of Mars,2001-08-24,gen2,dist159,8434601.0
+The Curse of the Jade Scorpion,2001-08-24,gen4,dist11,7506856.5
+The Man Who Wasn't There,2001-10-31,gen3,dist52,7499553.0
+Bones,2001-10-24,gen6,dist8,7316658.0
+Mulholland Drive,2001-10-08,gen5,dist3,7219910.5
+Sexy Beast,2001-06-13,gen3,dist15,6946056.0
+The Forsaken,2001-04-27,gen6,dist4,7110724.333333333
+Town & Country,2001-04-27,gen7,dist8,6716212.0
+One Night at McCool's,2001-04-27,gen9,dist52,6283602.5
+Ghost World,2001-07-20,gen9,dist9,6217849.0
+Megiddo: Omega Code 2,2001-09-21,gen2,dist552,6047691.0
+Iris,2001-12-14,gen3,dist12,5587548.0
+Say It Isn't So,2001-03-23,gen9,dist5,5518550.5
+Monkeybone,2001-02-23,gen9,dist5,5410758.0
+Made,2001-07-13,gen4,dist48,5311003.5
+Bubble Boy,2001-08-24,gen9,dist1,5002310.0
+Just Visiting,2001-04-06,gen4,dist1,4779273.0
+The Other Side of Heaven,2001-12-14,gen3,dist250,4720371.0
+Lantana,2001-12-14,gen3,dist7,4541807.5
+Tortilla Soup,2001-08-24,gen4,dist268,4447014.0
+On the Line,2001-10-26,gen7,dist12,4365455.0
+Glitter,2001-09-21,gen8,dist5,4273372.0
+Left Behind,2001-02-02,gen3,dist357,4224065.0
+The Anniversary Party,2001-06-08,gen3,dist59,4013506.0
+China: The Panda Adventure,2001-07-27,gen3,dist47,3815060.0
+Pootie Tang,2001-06-29,gen4,dist6,3293258.0
+Soul Survivors,2001-09-07,gen6,dist48,3100650.0
+Hedwig and the Angry Inch,2001-07-20,gen8,dist59,3067312.0
+The Widow of St. Pierre,2001-03-02,gen3,dist7,3058380.0
+Songcatcher,2001-06-15,gen3,dist7,3050934.0
+The Golden Bowl,2001-04-27,gen3,dist7,3044055.5
+Waking Life,2001-10-19,gen3,dist15,2892011.0
+Kabhi Khushi Kabhie Gham,2001-12-14,gen3,dist44,2882000.0
+In the Mood for Love,2001-02-02,gen3,dist13,2734044.0
+Sidewalks of New York,2001-11-21,gen4,dist40,2402459.0
+Gabriela,2001-03-16,gen3,dist429,2335352.0
+Escanaba in Da Moonlight,2001-01-26,gen4,dist433,2276406.0
+The Dish,2001-03-14,gen4,dist2,10097317.0
+Innocence,2001-08-17,gen3,dist268,2194919.0
+Novocaine,2001-11-16,gen4,dist48,2025238.0
+N'sync: Bigger than Live,2001-02-09,,,1808679.0
+Carman: The Champion,2001-03-02,gen3,dist552,1754807.0
+The Debut,2001-03-16,gen4,,1743570.0
+Donnie Darko,2001-10-26,gen3,dist39,1480006.0
+Under the Sand,2001-05-04,gen3,dist227,1451402.0
+Greenfingers,2001-07-27,gen4,dist268,1439287.0
+Kandahar,2001-12-14,gen3,dist417,1418314.0
+Divided We Fall,2001-06-08,gen3,,1320112.0
+Startup.com,2001-05-11,gen10,dist48,1280975.0
+The Road Home,2001-05-25,gen3,,1280290.0
+Nuit de Noces,2001-06-01,gen4,dist497,1238180.0
+L.I.E.,2001-09-07,gen3,dist333,1140965.0
+Sordid Lives,2001-05-11,gen4,dist142,1111273.0
+The Center of the World,2001-04-20,gen3,dist48,1096037.0
+No Man's Land,2001-12-07,gen3,dist9,1067481.0
+The Luzhin Defence,2001-04-20,gen3,dist4,1051811.0
+Extreme Days,2001-09-28,gen2,,739390.0
+Together,2001-05-10,gen4,dist31,1034829.0
+The Business of Strangers,2001-12-07,gen3,dist31,1030920.0
+Liam,2001-09-21,gen3,dist7,1016021.0
+All Over the Guy,2001-08-10,gen7,dist7,1006969.0
+All Access: Front Row. Backstage. Live!,2001-04-06,,dist47,995122.0
+Les Boys III,2001-11-30,gen4,dist7,995000.0
+Va Savoir (Who Knows?),2001-09-28,gen7,,907323.0
+American Desi,2001-03-16,gen7,dist32,902835.0

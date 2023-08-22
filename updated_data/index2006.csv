@@ -1,0 +1,196 @@
+Movie,Release,id_genre,id_distributor,Gross
+Pirates of the Caribbean: Dead Man’s Chest,2006-07-07,gen1,dist1,423315812.0
+Night at the Museum,2006-12-22,gen1,dist5,250863268.0
+Cars,2006-06-09,gen1,dist1,244082982.0
+X-Men: The Last Stand,2006-05-26,gen2,dist5,234362462.0
+The Da Vinci Code,2006-05-19,gen5,dist4,217536138.0
+Superman Returns,2006-06-28,gen1,dist2,200094128.0
+Happy Feet,2006-11-17,gen1,dist2,198000317.0
+Ice Age: The Meltdown,2006-03-31,gen1,dist5,195330621.0
+Casino Royale,2006-11-17,gen2,dist4,167418973.33333334
+The Pursuit of Happyness,2006-12-15,gen3,dist4,163076247.5
+Over the Hedge,2006-05-19,gen1,dist6,155019340.0
+Talladega Nights: The Ballad of Ricky Bobby,2006-08-04,gen4,dist4,148213377.0
+Click,2006-06-23,gen4,dist4,137355633.0
+Mission: Impossible III,2006-05-05,gen2,dist6,133853650.0
+The Departed,2006-10-06,gen3,dist2,132384315.0
+Borat,2006-11-03,gen4,dist5,128505958.0
+The Devil Wears Prada,2006-06-30,gen4,dist5,124740460.0
+The Break-Up,2006-06-02,gen7,dist3,118703275.0
+Dreamgirls,2006-12-25,gen8,dist6,103365956.0
+Scary Movie 4,2006-04-14,gen4,dist49,90710620.0
+Failure to Launch,2006-03-10,gen7,dist6,88715192.0
+Inside Man,2006-03-24,gen5,dist3,88573866.0
+Open Season,2005-11-11,gen3,dist15,85105259.0
+The Santa Clause 3: The Escape Clause,2006-11-03,gen1,dist1,84500122.0
+Charlotte's Web,2006-12-15,gen3,dist6,82985708.0
+The Pink Panther,2006-02-10,gen1,dist4,82226474.0
+Eight Below,2006-02-17,gen1,dist1,81612565.0
+Saw III,2005-10-28,gen6,dist7,80238724.0
+Nacho Libre,2006-06-16,gen4,dist6,80197993.0
+"You, Me and Dupree",2006-07-14,gen4,dist3,75715060.0
+Eragon,2006-12-15,gen1,dist5,75030163.0
+Monster House,2006-07-21,gen1,dist4,73661010.0
+Barnyard: The Original Party Animals,2006-08-04,gen1,dist6,72779000.0
+Jackass: Number Two,2006-09-22,gen10,dist6,72778712.0
+R.V.,2006-04-28,gen1,dist4,71725261.0
+V for Vendetta,2006-03-17,gen2,dist2,70511035.0
+World Trade Center,2006-08-09,gen3,dist6,70278893.0
+Rocky Balboa,2006-12-20,gen3,dist9,70270595.0
+Big Momma's House 2,2006-01-27,gen4,dist5,70165972.0
+Step Up,2006-08-11,gen3,dist1,65328121.0
+Flushed Away,2006-11-03,gen1,dist6,64665672.0
+Déjà Vu,2006-11-22,gen5,dist1,64038616.0
+Deep Sea 3D,2006-03-03,gen10,dist2,55135130.0
+Miami Vice,2006-07-28,gen2,dist3,63459926.0
+The Holiday,2006-12-08,gen7,dist4,63252424.5
+Madea's Family Reunion,2006-02-24,gen4,dist7,63287970.0
+The Fast and the Furious: Tokyo Drift,2006-06-16,gen2,dist3,62548113.333333336
+Underworld: Evolution,2006-01-20,gen2,dist4,62318875.0
+The Shaggy Dog,2006-03-10,gen4,dist1,61123569.0
+Poseidon,2006-05-12,gen1,dist2,60674817.0
+The Good Shepherd,2006-12-22,gen3,dist3,59930700.0
+Little Miss Sunshine,2006-07-26,gen4,dist15,59891098.0
+The Benchwarmers,2006-04-07,gen4,dist4,59843754.0
+Curious George,2006-02-10,gen1,dist3,58500439.5
+Little Man,2006-07-14,gen4,dist4,58640549.5
+Invincible,2006-08-25,gen3,dist1,57806952.0
+Blood Diamond,2006-12-08,gen2,dist2,57377916.0
+The Queen,2006-08-25,gen3,,56441711.0
+The Guardian,2006-09-29,gen2,dist1,55011732.0
+The Omen,2006-06-06,gen6,dist5,54607383.0
+Final Destination 3,2006-02-10,gen6,dist8,54098051.0
+The Prestige,2006-10-20,gen5,dist1,53089891.0
+The Lake House,2006-06-16,gen3,dist2,52330111.0
+Hoodwinked,2006-01-13,gen1,dist14,51386611.0
+Apocalypto,2006-12-08,gen2,dist1,50866635.0
+Firewall,2006-02-10,gen5,dist2,48751189.0
+Date Movie,2006-02-17,gen4,dist5,48548426.0
+When a Stranger Calls,2006-02-03,gen6,dist4,47860214.0
+Hostel,2006-01-06,gen6,dist7,47326473.0
+Nanny McPhee,2006-01-27,gen1,dist3,47279279.0
+Silent Hill,2006-04-21,gen6,dist4,46982632.0
+We Are Marshall,2006-12-22,gen3,dist2,43545364.0
+Glory Road,2006-01-13,gen3,dist1,42647449.0
+Lady in the Water,2006-07-21,gen5,dist2,42285169.0
+The Hills Have Eyes,2006-03-10,gen6,dist15,41778863.0
+John Tucker Must Die,2006-07-28,gen7,dist5,41011711.0
+Stranger Than Fiction,2006-11-10,gen4,dist4,40548071.0
+The Illusionist,2006-08-18,gen3,,39868642.0
+The Texas Chainsaw Massacre: The Beginning,2006-10-06,gen6,dist8,39517763.0
+The Grudge 2,2006-10-13,gen6,dist4,39143839.0
+Gridiron Gang,2006-09-15,gen3,dist4,38432823.0
+Last Holiday,2006-01-13,gen4,dist6,38399961.0
+The Nativity Story,2006-12-01,gen3,dist8,37629831.0
+Man of the Year,2006-01-20,gen3,dist277,37384785.0
+The Wild,2006-03-24,gen3,,37384046.0
+16 Blocks,2006-03-03,gen2,dist2,36895141.0
+Accepted,2006-08-18,gen4,dist3,36451794.0
+The Sentinel,2006-04-21,gen5,dist5,36280697.0
+Children of Men,2006-12-25,gen5,dist3,35552383.0
+Deck the Halls,2006-11-22,gen4,dist5,35093569.0
+Take the Lead,2006-04-07,gen3,dist8,34742066.0
+Babel,2006-10-27,gen3,dist40,34302837.0
+Snakes on a Plane,2006-08-18,gen5,dist8,34020814.0
+She’s the Man,2006-03-17,gen7,dist6,33815146.0
+Flags of Our Fathers,2006-10-20,gen3,dist6,33602376.0
+United 93,2006-04-28,gen3,dist3,31539239.333333332
+Employee of the Month,2006-10-06,gen4,dist7,28444855.0
+Garfield: A Tail of Two Kitties,2006-06-16,gen1,dist5,28426747.0
+The Ant Bully,2006-07-28,gen1,dist2,28142535.0
+Crank,2006-09-01,gen2,dist7,27835563.333333332
+Stick It,2006-04-28,gen4,dist1,26910736.0
+The Descent,2006-08-04,gen5,dist7,26024456.0
+Thank You For Smoking,2006-03-17,gen9,dist15,24793509.0
+The Wicker Man,2006-09-01,gen6,dist2,24031297.0
+Clerks II,2006-07-21,gen4,dist9,24148068.0
+An Inconvenient Truth,2006-05-24,gen10,dist40,24146161.0
+The Covenant,2006-02-03,gen3,dist101,23345794.666666668
+Stay Alive,2006-03-24,gen6,dist1,23086480.0
+The Black Dahlia,2006-09-15,gen5,dist3,22608946.5
+My Super Ex-Girlfriend,2006-07-21,gen7,dist5,22530295.0
+Lucky Number Slevin,2006-04-07,gen5,dist9,22495466.0
+Waist Deep,2006-06-23,gen3,dist68,21335606.0
+ATL,2006-03-31,gen4,dist2,21170563.0
+Flicka,2006-10-20,gen3,dist5,21000147.0
+A Prairie Home Companion,2006-06-09,gen4,dist54,20342852.0
+Pulse,2006-08-11,gen6,dist49,20264436.0
+Beerfest,2006-08-25,gen4,dist2,19185184.0
+Akeelah and the Bee,2006-04-28,gen3,dist7,18848430.0
+The Marine,2006-10-13,gen2,dist5,18844294.0
+Aquamarine,2006-03-03,gen4,dist5,18597342.0
+Ultraviolet,2006-03-03,gen2,dist4,18519614.0
+School for Scoundrels,2006-09-29,gen4,dist9,17807569.0
+The Last King of Scotland,2006-09-27,gen3,dist15,17606684.0
+Notes on a Scandal,2006-12-25,gen3,dist15,17510118.0
+Just My Luck,2006-05-12,gen7,dist5,17326650.0
+Annapolis,2006-01-27,gen3,dist1,17127992.0
+Unaccompanied Minors,2006-12-08,gen1,dist2,16655224.0
+An American Haunting,2006-05-05,gen6,dist67,16298046.0
+Black Christmas,2006-12-25,gen6,dist9,16254659.5
+Marie Antoinette,2006-10-20,gen3,dist4,15962471.0
+Larry the Cable Guy: Health Inspector,2006-03-24,gen4,dist7,15680099.0
+See No Evil,2006-05-19,gen6,dist7,15032800.0
+Tristan & Isolde,2006-01-13,gen3,dist5,14734130.5
+Everyone's Hero,2006-09-15,gen1,dist5,14523101.0
+Hollywoodland,2006-09-08,gen3,dist13,14426251.0
+Letters from Iwo Jima,2006-12-20,gen3,dist2,13756082.0
+One Night with the King,2006-10-13,gen3,,13395961.0
+Friends with Money,2006-04-07,gen4,,13368437.0
+Flyboys,2006-09-22,gen3,dist9,13087849.333333334
+How to Eat Fried Worms,2006-08-25,gen4,dist8,13040527.0
+Volver,2006-11-03,gen4,,12899867.0
+"Bon Cop, Bad Cop",2006-08-04,gen4,dist174,12671300.0
+Idlewild,2006-08-25,gen8,dist3,12669914.0
+Freedomland,2006-02-17,gen3,dist4,12512886.0
+Zoom,2006-04-06,gen3,dist369,11810286.5
+End of the Spear,2006-01-20,gen3,dist277,37384785.0
+Dave Chappelle's Block Party,2006-03-03,gen10,dist13,11718595.0
+The Last Kiss,2006-09-15,gen7,dist6,11614790.0
+Something New,2006-02-03,gen7,dist13,11468568.0
+Material Girls,2006-08-18,gen4,dist9,11449638.0
+Bobby,2006-11-17,gen3,dist9,11242801.0
+Scoop,2006-07-28,gen7,dist68,10525717.0
+Roving Mars,2006-01-27,gen10,dist1,10407978.0
+Facing the Giants,2006-09-29,gen3,dist167,10178331.0
+The Fountain,2006-11-22,gen3,dist2,10144010.0
+Transamerica,2006-01-20,gen3,dist14,9015303.0
+Tenacious D in: The Pick of Destiny,2006-11-22,gen4,dist8,8334575.0
+Hoot,2006-05-05,gen1,dist8,8117637.0
+The Painted Veil,2006-12-20,gen3,dist64,8060487.0
+The Night Listener,2006-08-04,gen5,dist12,7836393.0
+Slither,2006-03-31,gen6,dist3,7802450.0
+The Return,2006-11-10,gen5,dist13,7744785.0
+Doogal,2006-02-24,gen1,dist14,7578946.0
+A Good Year,2006-11-10,gen3,dist5,7459300.0
+American Dreamz,2006-04-21,gen9,dist3,7314027.0
+All the King's Men,2006-09-22,gen3,dist4,7221458.0
+Phat Girlz,2006-04-07,gen7,dist15,7061128.0
+Turistas,2006-12-01,gen6,dist5,7027762.0
+Crossover,2006-09-01,gen3,dist4,7009668.0
+Running With Scissors,2006-10-27,gen4,dist4,6860000.0
+Running Scared,2006-02-24,gen2,dist8,6855137.0
+Grandma’s Boy,2006-01-06,gen4,dist5,6090172.0
+Basic Instinct 2,2006-03-31,gen5,dist4,5958736.0
+For Your Consideration,2006-11-22,gen4,dist64,5549923.0
+Water,2006-04-28,gen3,dist15,5529144.0
+A Scanner Darkly,2006-07-07,gen5,dist2,5501616.0
+Little Children,2006-10-06,gen3,dist8,5463019.0
+Let's Go to Prison,2006-11-17,gen4,dist3,4630045.0
+Keeping Up with the Steins,2006-05-12,gen4,dist12,4339241.0
+Catch a Fire,2006-10-27,gen5,dist13,4299773.0
+Goal! The Dream Begins,2006-05-12,gen3,dist1,4283255.0
+Van Wilder Deux: The Rise of Taj,2006-12-01,gen4,dist9,4261350.0
+Trailer Park Boys: The Movie,2006-10-06,gen4,dist174,3833507.0
+Venus,2006-12-21,gen3,dist12,3347411.0
+Harsh Times,2006-11-10,gen3,dist9,3337931.0
+Art School Confidential,2006-05-05,gen4,,3297137.0
+Kabhi Alvida Naa Kehna,2006-08-11,gen3,dist44,3275443.5
+Boynton Beach Club,2006-03-24,gen7,dist390,3127472.0
+Wordplay,2006-06-16,gen10,dist31,3121270.0
+Miss Potter,2006-12-29,gen3,dist9,3005605.0
+Tsotsi,2006-02-24,gen3,dist12,2912606.0
+Peaceful Warrior,2006-06-02,gen3,dist3,2893666.0
+La mujer de mi hermano,2006-04-14,gen3,dist7,2808241.0
+The History Boys,2006-11-21,gen4,dist15,2730296.0
+Half Nelson,2006-08-11,gen3,dist113,2697938.0

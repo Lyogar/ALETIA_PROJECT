@@ -1,0 +1,191 @@
+Movie,Release,id_genre,id_distributor,Gross
+Transformers: Dark of the Moon,2011-06-29,gen2,dist6,352390543.0
+"The Twilight Saga: Breaking Dawn, Part 1",2011-11-18,gen3,dist20,281287133.0
+The Hangover Part II,2011-05-26,gen4,dist2,254464305.0
+Pirates of the Caribbean: On Stranger Tides,2011-05-20,gen1,dist1,241069159.66666666
+Fast Five,2011-04-29,gen2,dist3,209902225.0
+Mission: Impossible—Ghost Protocol,2011-12-21,gen2,dist6,209397903.0
+Cars 2,2011-06-24,gen1,dist1,191451635.5
+Sherlock Holmes: A Game of Shadows,2011-12-16,gen2,dist2,186848418.0
+Thor,2011-05-06,gen2,dist6,181030624.0
+Rise of the Planet of the Apes,2011-08-05,gen1,dist5,176760185.0
+Captain America: The First Avenger,2011-07-22,gen2,dist6,176654505.0
+The Help,2011-08-10,gen3,dist1,169706849.5
+Bridesmaids,2011-05-13,gen4,dist3,169159221.5
+Kung Fu Panda 2,2011-05-26,gen1,dist6,165249063.0
+Puss in Boots,2011-10-28,gen1,dist6,149260504.0
+X-Men: First Class,2011-06-03,gen2,dist5,146408305.0
+Rio,2011-04-15,gen1,dist5,143619809.0
+The Smurfs,2011-07-29,gen1,dist4,142614158.0
+Alvin and the Chipmunks: Chipwrecked,2011-12-16,gen1,dist5,133109065.5
+Super 8,2011-04-01,gen9,dist31,127004179.0
+Rango,2011-03-04,gen1,dist6,123477607.0
+Horrible Bosses,2011-07-08,gen4,dist2,117538559.0
+Green Lantern,2011-06-17,gen2,dist2,116601172.0
+Hop,2011-04-01,gen1,dist3,108085305.0
+Paranormal Activity 3,2010-10-22,gen6,dist6,104028807.0
+Just Go With It,2011-02-11,gen7,dist4,103028109.0
+The Girl with the Dragon Tattoo,2011-12-20,gen5,dist4,102515793.0
+Cowboys and Aliens,2011-07-29,gen2,dist3,100304555.5
+Bad Teacher,2011-06-24,gen4,dist4,100292856.0
+Gnomeo and Juliet,2011-02-11,gen4,dist1,99967670.0
+The Green Hornet,2011-01-14,gen2,dist4,98780042.0
+The Muppets,2011-11-23,gen1,dist1,88628579.5
+Real Steel,2011-10-07,gen2,dist1,85466775.0
+"Crazy, Stupid, Love",2011-07-29,gen4,dist2,84351197.0
+Battle: Los Angeles,2011-03-11,gen2,dist4,83552429.0
+Immortals,2011-11-11,gen2,dist25,83504017.0
+The Descendants,2011-11-16,gen3,dist15,82604560.5
+Zookeeper,2011-07-08,gen7,dist4,80360854.5
+War Horse,2011-12-25,gen3,dist1,79884372.33333333
+Limitless,2011-03-18,gen5,dist25,79249455.0
+Tower Heist,2011-11-04,gen4,dist3,78046570.0
+The Adventures of Tintin,2011-12-21,gen1,dist6,77591831.0
+Contagion,2011-09-09,gen5,dist2,75658097.0
+We Bought a Zoo,2011-12-23,gen3,dist5,75624550.0
+Moneyball,2011-09-23,gen3,dist4,75605492.0
+Jack and Jill,2011-11-11,gen4,dist4,74158157.0
+Hugo,2011-11-23,gen1,dist6,73864507.0
+Justin Bieber: Never Say Never,2011-02-11,,dist6,73013910.0
+Dolphin Tale,2011-09-23,gen3,dist2,72286779.0
+No Strings Attached,2011-01-21,gen7,dist6,70662220.0
+Mr. Poppers's Penguins,2011-06-17,gen1,dist5,68224452.0
+Happy Feet Two,2011-11-18,gen1,dist2,64006466.0
+Unknown,2011-02-18,gen5,dist2,63686397.0
+The Adjustment Bureau,2011-03-04,gen5,dist3,62495645.0
+Water for Elephants,2011-04-22,gen3,dist5,58709717.0
+The Lincoln Lawyer,2011-03-18,gen5,dist7,58009200.0
+Midnight in Paris,2011-05-20,gen7,,56816853.5
+Friends with Benefits,2011-07-22,gen7,dist4,55802754.0
+I am Number Four,2011-02-18,gen1,dist1,55100437.0
+Source Code,2011-04-01,gen5,dist20,54712227.0
+New Year’s Eve,2011-12-09,gen7,dist2,54544638.0
+Insidious,2011-04-01,gen6,dist45,54009150.0
+Madea’s Big Happy Family,2011-04-22,gen4,dist7,53345287.0
+Diary of a Wimpy Kid: Rodrick Rules,2011-03-25,gen1,dist5,52698535.0
+Footloose,2011-10-14,gen8,dist6,51802742.0
+The Dilemma,2011-01-14,gen4,dist3,48475290.0
+Arthur Christmas,2011-11-23,gen1,dist4,46462469.0
+Hall Pass,2011-02-25,gen4,dist2,45060734.0
+The Artist,2011-11-25,gen3,dist14,44669388.5
+Soul Surfer,2011-04-08,gen3,dist4,43853424.0
+Final Destination 5,2011-08-12,gen6,dist2,42587643.0
+The Ides of March,2011-10-07,gen3,dist4,40962534.0
+Hanna,2011-04-08,gen5,dist13,40259119.0
+Something Borrowed,2011-05-06,gen7,dist2,39046489.0
+Spy Kids: All the Time in the World,2011-08-19,gen1,dist49,38537282.0
+Scream 4,2011-04-15,gen6,dist49,38180928.0
+"Big Mommas: Like Father, Like Son",2011-02-18,gen4,dist5,37915414.0
+Red Riding Hood,2011-03-11,gen5,dist2,37662162.0
+In Time,2011-10-28,gen5,dist5,37531374.0
+Paul,2011-03-18,gen4,dist3,37412945.0
+J. Edgar,2011-11-09,gen3,dist2,37306030.0
+The Roommate,2011-02-04,gen5,dist4,37300053.5
+Jumping the Broom,2011-05-06,gen7,dist4,37295394.0
+The Change-Up,2011-08-05,gen4,dist3,37162446.5
+30 Minutes or Less,2011-08-12,gen9,dist4,37053924.0
+Born to be Wild 3D,2011-04-08,gen10,dist2,31324092.0
+Colombiana,2011-08-26,gen5,dist4,36665854.0
+Sucker Punch,2011-03-25,gen2,dist2,36392502.0
+Larry Crowne,2011-07-01,gen7,dist3,35608245.0
+A Very Harold & Kumar 3D Christmas,2011-11-04,gen4,dist2,35061031.0
+Drive,2011-09-16,gen2,dist45,35061266.333333336
+Courageous,2011-09-30,gen3,dist4,34769722.0
+50/50,2011-09-30,gen9,dist20,35015155.0
+The Rite,2011-12-09,gen9,dist5,30491951.0
+Arthur,2011-04-08,gen7,dist2,33035397.0
+Extremely Loud and Incredibly Close,2011-12-25,gen3,dist2,31847881.0
+The Debt,2011-08-31,gen5,dist13,31177548.0
+The Sitter,2011-12-09,gen9,dist5,30491951.0
+Priest,2011-05-13,gen6,dist4,29136750.666666668
+The Mechanic,2011-01-28,gen2,dist43,29121498.0
+Abduction,2011-09-23,gen5,dist7,14044312.5
+Beastly,2011-03-04,gen3,dist43,27865571.0
+Winnie the Pooh,2011-07-15,gen1,dist1,26692846.0
+Killer Elite,2011-09-23,gen2,dist29,25124979.333333332
+Season of the Witch,2011-01-07,gen2,dist25,24827228.0
+Our Idiot Brother,2011-08-26,gen4,dist14,24815474.0
+Tinker Tailor Soldier Spy,2011-12-09,gen5,dist13,24149393.0
+Don't Be Afraid of the Dark,2011-08-26,gen6,dist45,24046682.0
+Sanctum,2011-02-04,gen2,dist3,23139677.5
+Monte Carlo,2011-07-01,gen7,dist5,23186769.0
+Your Highness,2011-04-08,gen4,dist3,21596445.0
+The Darkest Hour,2011-12-25,gen2,dist20,21437931.0
+Mars Needs Moms,2011-03-11,gen1,dist1,21388277.0
+Dream House,2011-09-30,gen6,dist3,21302340.0
+Conan the Barbarian,2011-08-19,gen2,dist7,21295021.0
+The Three Musketeers,2011-10-21,gen1,dist20,20376770.0
+The Eagle,2011-09-09,gen10,dist215,19490041.0
+Shark Night 3D,2011-09-02,gen6,dist25,18877153.0
+Fright Night,2011-08-19,gen6,dist1,18300628.0
+Apollo 18,2011-09-02,gen5,dist14,17687319.0
+The Thing,2011-10-14,gen6,dist3,16964302.0
+Young Adult,2011-12-09,gen4,dist6,16311571.0
+African Cats,2011-04-22,gen10,dist1,15428747.0
+Judy Moody and the Not Bummer Summer,2011-06-10,gen1,dist25,15013650.0
+My Week with Marilyn,2011-11-23,gen3,dist14,14598876.0
+What's Your Number?,2011-09-30,gen7,dist5,14011084.0
+One Day,2011-08-19,gen3,dist13,13843771.0
+Warrior,2011-09-09,gen3,dist7,13657115.0
+The Tree of Life,2011-05-27,gen3,dist15,13304492.0
+The Rum Diary,2011-10-28,gen3,dist45,13109815.0
+Glee: The 3D Concert Movie,2011-08-10,,dist5,11862398.0
+The Conspirator,2011-04-15,gen3,dist38,11538204.0
+Jane Eyre,2011-03-11,gen3,dist13,11242660.0
+Drive Angry,2011-02-25,gen2,dist20,10716284.0
+Straw Dogs,2011-09-16,gen5,dist4,10324441.0
+Win Win,2011-03-18,gen3,dist15,10179275.0
+Hoodwinked Too: Hood vs. Evil,2011-04-29,gen1,dist14,10143779.0
+Prom,2011-04-29,gen4,dist1,10130219.0
+I Don't Know How She Does It,2011-09-16,gen4,dist14,9660679.0
+Johnny English Reborn,2011-10-21,gen1,dist3,8339550.333333333
+Kevin Hart: Laugh at My Pain,2011-09-09,,,7706436.0
+Barney's Version,2010-12-17,gen3,,7502560.0
+The Big Year,2010-08-30,gen10,dist70,7204138.0
+Take Me Home Tonight,2011-03-04,gen4,dist25,6928068.0
+Cedar Rapids,2011-02-11,gen4,dist15,6861102.0
+Beginners,2011-06-03,gen3,dist13,5790894.0
+A Dangerous Method,2011-11-23,gen3,,5703396.0
+The Guard,2011-07-29,gen4,,5359774.0
+Margin Call,2011-10-21,gen3,dist38,5353586.0
+Cave of Forgotten Dreams,2011-04-29,gen10,dist31,5304920.0
+Biutiful,2011-01-28,gen3,dist38,5101237.0
+Atlas Shrugged: Part 1,2011-04-15,gen3,,4752353.0
+Anonymous,2011-10-28,gen3,dist4,4463292.0
+The Company Men,2011-01-21,gen3,dist14,4444612.0
+The Way,2011-09-09,gen10,dist215,4430650.0
+Seven Days In Utopia,2011-09-02,gen3,dist355,4367448.0
+Buck,2011-06-17,gen10,dist31,4036175.0
+Shame,2011-12-02,gen3,dist15,4002293.0
+Starbuck,2011-07-29,gen4,dist130,3790059.0
+Don 2,2011-12-22,gen2,,3677393.0
+Like Crazy,2011-10-28,gen3,dist6,3395391.0
+Monsieur Lazhar,2011-10-28,gen3,dist652,3371810.0
+Le sens de l’humour,2011-07-06,gen4,dist174,3179193.0
+Zindagi Na Milegi Dobara,2011-07-15,gen3,dist32,3103656.0
+From Prada to Nada,2011-01-28,gen7,dist7,3024933.5
+Melancholia,2011-11-11,gen5,dist33,3030848.0
+Martha Marcy May Marlene,2011-10-21,gen5,dist15,2981038.0
+The Way Back,2010-12-29,gen1,dist39,2719296.0
+Everything Must Go,2011-05-13,gen3,dist38,2712131.0
+Carnage,2011-12-16,gen3,,2546897.0
+Bucky Larson: Born to Be a Star,2011-09-09,gen4,dist4,2529395.0
+Ra. One,2011-10-26,gen2,dist32,2510419.5
+The Grace Card,2011-02-25,gen3,dist381,2430735.0
+George Balanchine's The Nutcracker,2011-12-13,,dist249,2119994.0
+The Trip,2011-07-15,gen3,dist158,2030962.0
+The Mighty Macs,2011-10-21,gen3,dist457,1891936.0
+Gerry,2011-06-15,gen3,dist652,1844754.0
+Bodyguard,2011-08-31,gen2,,1834384.0
+A Better Life,2011-06-24,gen3,dist20,1759252.0
+Take Shelter,2011-09-30,gen3,,1728953.0
+Potiche,2011-03-25,gen4,dist62,1618844.0
+Senna,2011-08-12,gen10,dist3,1612430.0
+I Am,2011-02-18,gen10,dist215,1591034.0
+Cafe de flore,2011-09-02,gen3,dist174,1574881.0
+Delhi Belly,2011-07-01,gen4,dist35,1532175.5
+Bill Cunningham New York,2011-03-16,gen10,dist158,1510026.0
+Breakaway,2011-09-30,gen4,dist174,1481735.0
+The Art of Getting By,2011-06-17,gen7,dist15,1430241.0
+The Devil's Double,2011-07-29,gen3,dist7,1361512.0
+2011 Oscar Shorts,2011-02-11,gen13,dist321,1352152.0

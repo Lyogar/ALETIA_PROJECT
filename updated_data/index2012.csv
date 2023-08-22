@@ -1,0 +1,190 @@
+Movie,Release,id_genre,id_distributor,Gross
+The Avengers,2012-05-04,gen2,dist1,623331789.0
+The Dark Knight Rises,2012-07-20,gen2,dist2,448139099.0
+The Hunger Games,2012-03-23,gen5,dist7,408010692.0
+Skyfall,2012-11-09,gen2,dist4,304360277.0
+The Hobbit: An Unexpected Journey,2012-12-14,gen1,dist2,303003568.0
+"The Twilight Saga: Breaking Dawn, Part 2",2011-11-18,gen3,dist20,292324737.0
+The Amazing Spider-Man,2012-07-03,gen1,dist4,262030663.0
+Brave,2012-03-23,gen5,dist31,237282694.5
+Ted,2012-06-29,gen4,dist3,218740613.5
+Madagascar 3: Europe's Most Wanted,2012-06-08,gen1,dist6,216391482.0
+Dr. Seuss’ The Lorax,2012-03-02,gen1,dist3,214030500.0
+Wreck-It Ralph,2012-11-02,gen1,dist1,189417783.0
+Lincoln,2012-11-09,gen3,dist1,182207973.0
+Men in Black 3,2012-05-25,gen1,dist4,179020854.0
+Django Unchained,2012-12-25,gen11,dist14,162805434.0
+Ice Age: Continental Drift,2012-07-13,gen1,dist5,161321843.0
+Snow White and the Huntsman,2012-06-01,gen1,dist3,155267172.33333334
+Les Misérables,2012-12-25,gen8,dist3,148809770.0
+Hotel Transylvania,2012-09-28,gen1,dist4,148313048.0
+Taken 2,2012-10-05,gen5,dist5,139854287.0
+21 Jump Street,2012-03-16,gen4,dist4,138447667.0
+Argo,2012-10-12,gen5,dist2,136025503.0
+Silver Linings Playbook,2012-11-16,gen3,dist14,132092958.0
+Prometheus,2012-06-08,gen5,dist5,126477084.0
+Safe House,2012-02-10,gen5,dist3,126309499.33333333
+The Vow,2012-02-10,gen3,dist4,125014030.0
+Life of Pi,2012-11-21,gen3,dist5,124987022.5
+Magic Mike,2012-06-29,gen4,dist2,113721571.0
+The Bourne Legacy,2012-08-10,gen5,dist3,113203870.0
+Journey 2: The Mysterious Island,2012-02-10,gen1,dist2,103860290.0
+Rise of the Guardians,2012-11-21,gen1,dist6,103412758.0
+Zero Dark Thirty,2012-12-19,gen5,dist4,95720716.0
+Flight,2012-11-02,gen3,dist6,93772375.0
+Think Like a Man,2012-04-20,gen7,dist4,91547205.0
+The Campaign,2012-08-10,gen4,dist2,86907746.0
+The Expendables 2,2012-08-17,gen2,dist7,85024595.0
+Wrath of the Titans,2012-03-30,gen1,dist2,83670083.0
+Jack Reacher,2012-12-21,gen5,dist6,80070736.0
+Dark Shadows,2012-05-11,gen9,dist2,79727149.0
+Parental Guidance,2012-12-25,gen1,dist5,77267296.0
+John Carter,2012-03-09,gen1,dist1,73071626.33333333
+Act of Valor,2012-02-24,gen2,dist25,70012847.0
+This is 40,2012-12-21,gen4,dist3,67544505.0
+Contraband,2012-01-13,gen2,dist3,66528000.0
+Looper,2012-09-28,gen2,dist4,66486205.0
+Tyler Perry's Madea's Witness Protection,2012-06-29,gen4,dist7,65653242.0
+Battleship,2012-05-18,gen2,dist3,65359550.0
+Pitch Perfect,2012-10-05,gen4,dist3,65001093.0
+Mirror Mirror,2012-03-30,gen1,dist25,64935167.0
+Chronicle,2012-02-03,gen5,dist5,64575175.0
+Hope Springs,2012-08-08,gen7,dist4,63536011.0
+Underworld: Awakening,2012-01-20,gen2,dist4,62321039.0
+The Lucky One,2012-04-20,gen3,dist2,60457138.0
+The Dictator,2012-05-16,gen4,dist6,59650222.0
+Total Recall,1990-06-01,gen2,dist4,58877969.0
+American Reunion,2012-04-06,gen4,dist3,56885178.0
+ParaNorman,2012-08-17,gen1,dist13,56003051.0
+This Means War,2012-02-17,gen7,dist5,54760791.0
+Project X,2012-03-02,gen4,dist2,54731865.0
+The Woman in Black,2012-02-03,gen6,dist43,54333290.0
+Paranormal Activity 4,2011-10-21,gen6,dist6,53892667.5
+The Devil Inside,2012-01-06,gen6,dist6,53262444.5
+The Odd Life of Timothy Green,2012-08-15,gen3,dist1,51854162.5
+Ghost Rider: Spirit of Vengeance,2012-02-17,gen2,dist4,51774002.0
+The Grey,2012-01-27,gen5,dist29,51580186.0
+Red Tails,2012-01-20,gen2,dist5,49876377.0
+The Possession,2012-10-19,gen3,dist15,6002451.0
+Diary of a Wimpy Kid: Dog Days,2012-08-03,gen1,dist5,49008662.0
+Sinister,2012-10-12,gen6,dist7,48086903.0
+Savages,2012-07-06,gen5,dist3,47362412.0
+The Best Exotic Marigold Hotel,2012-05-04,gen4,dist15,46397840.0
+Moonrise Kingdom,2012-05-25,gen3,dist13,45512466.0
+Here Comes the Boom,2012-10-12,gen4,dist4,45290318.0
+Red Dawn,2012-11-21,gen2,dist29,44806783.0
+The Three Stooges,2012-04-13,gen4,dist5,44338224.0
+Resident Evil: Retribution,2012-09-14,gen6,dist4,42345531.0
+The Cabin in the Woods,2012-04-13,gen5,dist7,42073277.0
+What to Expect When You're Expecting,2012-05-18,gen7,dist7,41152203.0
+End of Watch,2012-09-21,gen5,dist29,41003371.0
+Rock of Ages,2012-06-15,gen8,dist2,38518613.0
+Abraham Lincoln: Vampire Hunter,2012-06-22,gen6,dist5,37519139.0
+Lawless,2012-08-29,gen3,dist14,37398709.0
+The Guilt Trip,2012-12-19,gen4,dist6,37134215.0
+That’s My Boy,2012-06-15,gen4,dist4,36931089.0
+Trouble with the Curve,2012-09-21,gen3,dist2,35763137.0
+Frankenweenie,2012-10-05,gen1,dist1,35289428.0
+Step Up Revolution,2012-07-27,gen3,dist7,35074677.0
+Tyler Perry's Good Deeds,2012-02-24,gen3,dist7,35025791.0
+The Watch,2011-10-07,gen3,,34853000.0
+2016: Obama’s America,2012-07-13,gen10,,33399513.5
+House at the End of the Street,2012-09-21,gen6,dist25,31611916.0
+The Pirates! Band of Misfits,2012-04-27,gen1,dist4,31051126.0
+Joyful Noise,2012-01-13,gen8,dist2,30932113.0
+The Iron Lady,2012-04-11,gen3,dist88,29959436.0
+Chimpanzee,2012-04-20,gen10,dist1,28969111.5
+The Five-Year Engagement,2012-04-27,gen7,dist3,28767906.5
+Cloud Atlas,2012-10-26,gen3,dist2,27108272.0
+One for the Money,2012-01-27,gen4,dist7,26414527.0
+Alex Cross,2012-10-19,gen5,dist7,25888412.0
+Katy Perry: Part of Me,2012-07-05,,dist6,25326071.0
+Sparkle,2012-08-17,gen3,dist4,24397469.0
+Premium Rush,2012-08-24,gen5,dist4,20275446.0
+Big Miracle,2012-02-03,gen3,dist3,20157300.0
+To the Arctic 3D,2012-04-20,gen10,dist2,16830352.5
+The Impossible,2012-07-13,gen10,dist131,19019882.0
+Haywire,2012-01-20,gen5,dist25,18942396.0
+Man on a Ledge,2012-01-27,gen5,dist7,18620000.0
+A Thousand Words,2012-03-09,gen4,dist6,18450127.0
+Chernobyl Diaries,2012-05-25,gen6,dist2,18119640.0
+The Perks of Being a Wallflower,2012-09-21,gen3,dist7,17742948.0
+Silent Hill: Revelation 3D,2012-10-26,gen6,dist29,17530219.0
+Wanderlust,2012-02-24,gen4,dist3,17369345.0
+Safe,2012-04-27,gen2,dist7,17142080.0
+To Rome with Love,2012-06-22,gen7,,16685109.5
+The Master,2012-09-14,gen3,dist14,16312216.5
+The Raven,2012-04-27,gen5,dist25,16008272.0
+The Man with the Iron Fists,2012-11-02,gen2,dist3,15634090.0
+Seven Psychopaths,2012-10-12,gen4,dist43,15024049.0
+Killing Them Softly,2012-11-30,gen5,dist14,14985798.5
+Lockout,2012-04-13,gen5,dist29,14326864.333333334
+Hit & Run,2012-08-22,gen4,dist29,13747925.0
+Dredd,2012-09-21,gen2,dist7,13414714.0
+Les Intouchables,2012-05-25,gen4,dist14,13182281.0
+Playing for Keeps,2012-12-07,gen7,dist45,13103272.0
+Anna Karenina,2012-11-16,gen3,dist13,12816367.0
+Beasts of the Southern Wild,2012-06-27,gen3,dist15,12795746.0
+Silent House,2012-03-09,gen6,dist29,12739737.0
+Cirque du Soleil: Worlds Away,2012-12-21,gen1,dist6,12512862.0
+People Like Us,2012-06-29,gen3,dist1,12431792.0
+Gone,2012-03-30,gen4,dist161,4164911.0
+The Words,2012-09-07,gen3,dist43,11494838.0
+Fun Size ,2012-10-26,gen4,dist6,9409538.0
+Bernie,2012-04-27,gen9,dist101,9204489.0
+Salmon Fishing in the Yemen,2012-03-09,gen3,dist43,9044760.5
+Arbitrage,2012-09-14,gen5,dist38,7919574.0
+Friends with Kids,2012-03-09,gen7,dist38,7251073.0
+Seeking a Friend for the End of the World,2012-06-22,gen4,dist13,7078738.0
+In Darkness,2012-02-10,gen3,,6994218.0
+The Collection,2012-11-30,gen6,dist268,9826406.0
+Amour,2012-12-19,gen3,,6739223.0
+Hyde Park on Hudson,2012-12-07,gen3,dist13,6376145.0
+Hitchcock,2012-11-23,gen3,dist15,6008677.0
+Chasing Mavericks,2012-10-26,gen3,dist5,6002756.0
+The Sessions,2012-10-19,gen3,dist15,6002451.0
+Casa de mi Padre,2012-03-16,gen4,dist7,5909483.0
+October Baby,2012-03-23,gen3,dist284,5355847.0
+Won't Back Down,2012-09-28,gen3,dist5,5310554.0
+The Apparition,2012-08-24,gen6,dist2,4936819.0
+"Jeff, Who Lives at Home",2012-03-16,gen4,dist40,4269426.0
+Goon,2012-03-30,gen4,dist161,4164911.0
+Safety Not Guaranteed,2012-06-08,gen4,dist45,4010957.0
+Searching for Sugar Man,2012-07-27,gen10,,3965090.0
+The Cold Light of Day,2012-09-07,gen5,dist7,3756322.0
+Pina,2012-01-20,gen10,dist31,3520458.0
+Bully,2001-07-13,gen3,dist7,3483795.0
+Nitro Circus: The Movie 3D,2012-08-08,gen10,dist1214,3377000.0
+Atlas Shrugged: Part II,2012-10-12,gen3,dist187,3336053.0
+Robot & Frank,2012-08-17,gen3,dist381,3317468.0
+Last Ounce of Courage,2012-09-14,gen3,,3310439.0
+Celeste and Jesse Forever,2012-08-03,gen7,,3103407.0
+Jab Tak Hai Jaan,2012-11-13,gen3,dist44,3047539.0
+Barfi,2012-09-14,gen7,dist35,2804874.0
+The Met: Live in HD - Aida,2012-12-15,,dist249,2800000.0
+Talaash,2012-11-30,gen3,,2706375.0
+Samsara,2012-08-24,gen10,,2672413.0
+Girl in Progress,2012-05-11,gen3,dist7,2609412.0
+Jiro Dreams of Sushi,2012-03-09,gen10,dist33,2552478.0
+Ruby Sparks,2012-07-25,gen7,dist15,2540106.0
+Dabangg 2,2012-12-21,gen4,dist32,2496932.0
+Omerta,2012-07-11,gen5,dist174,2462588.0
+The Queen of Versailles,2012-07-20,gen10,dist33,2401999.0
+Ek Tha Tiger,2012-08-15,gen5,dist44,2347774.0
+Sleepwalk With Me,2012-08-24,gen3,dist31,2266066.0
+Agneepath,2012-01-06,gen2,dist32,1980642.3333333333
+English Vinglish,2012-09-28,gen3,dist32,1862086.0
+Crooked Arrows,2012-05-18,gen3,,1832541.0
+Hysteria,2012-05-18,gen7,,1804139.0
+We Need to Talk About Kevin,2012-01-13,gen3,,1738692.0
+2012 Oscar Shorts,2012-02-10,gen13,dist321,1702415.0
+Stories We Tell,2012-10-12,gen10,dist954,1602160.0
+Your Sister's Sister,2012-06-15,gen3,dist31,1597486.0
+Housefull 2,2012-04-06,gen4,dist32,1627194.6666666667
+A Late Quartet,2012-11-02,gen3,dist130,1561577.0
+Marley,2012-04-20,gen10,dist33,1413480.0
+Air Racers 3D,2012-04-05,gen10,dist1361,1309987.0
+Woman Thou Art Loosed On the 7th Day,2012-04-13,gen3,,1301562.0
+Killer Joe,2012-07-27,gen9,dist268,1291645.0
+"For a Good Time, Call",2012-08-31,gen4,dist13,1251749.0
+Take This Waltz,2012-06-29,gen3,dist33,1239692.0

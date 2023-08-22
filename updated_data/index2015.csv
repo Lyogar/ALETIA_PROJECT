@@ -1,0 +1,196 @@
+Movie,Release,id_genre,id_distributor,Gross
+Star Wars Ep. VII: The Force Awakens,2015-12-18,gen1,dist1,936662225.0
+Jurassic World,2015-06-12,gen2,dist3,652282625.0
+Avengers: Age of Ultron,2015-05-01,gen2,dist1,459005868.0
+Inside Out,2015-06-19,gen1,dist1,356461711.0
+Furious 7,2015-04-03,gen2,dist3,353007020.0
+Minions,2015-07-10,gen1,dist3,336045770.0
+The Hunger Games: Mockingjay - Part 2,2014-11-21,gen5,dist7,281723902.0
+The Martian,2015-10-02,gen5,dist5,228433663.0
+Cinderella,2015-03-13,gen3,dist1,201151353.0
+Spectre,2015-11-06,gen2,dist4,200074319.66666666
+Mission: Impossible—Rogue Nation,2015-07-31,gen2,dist6,195042377.0
+Pitch Perfect 2,2015-05-15,gen4,dist3,184296230.0
+The Revenant,2015-12-25,gen1,dist5,183637894.0
+Ant-Man,2015-07-17,gen2,dist1,180202163.0
+Home,2015-03-27,gen1,dist5,177397510.0
+Hotel Transylvania 2,2015-09-25,gen1,dist4,169700110.0
+Fifty Shades of Grey,2015-02-13,gen3,dist3,166167230.0
+The SpongeBob Movie: Sponge Out of Water,2015-02-06,gen1,dist6,162994032.0
+Straight Outta Compton,2015-03-06,gen3,dist235,161197785.0
+San Andreas,2015-05-29,gen1,dist2,155190832.0
+Mad Max: Fury Road,2015-05-15,gen2,dist2,153777016.0
+Daddy’s Home,2015-12-25,gen4,dist6,150357137.0
+The Divergent Series: Insurgent,2015-03-20,gen2,dist7,130179072.0
+The Peanuts Movie,2015-11-06,gen1,dist5,130178411.0
+Kingsman: The Secret Service,2015-02-13,gen2,dist5,128261724.0
+The Good Dinosaur,2015-11-25,gen1,dist1,123087120.0
+Spy!,2015-06-05,gen4,dist5,110825712.0
+Trainwreck,2015-07-17,gen7,dist3,110212700.0
+Creed,2015-11-25,gen3,dist2,109767581.0
+Tomorrowland,2015-05-22,gen1,dist1,93436322.0
+Get Hard,2015-03-27,gen4,dist2,90411453.0
+Terminator: Genisys,2015-07-01,gen2,dist6,89760956.0
+Taken 3,2015-01-09,gen2,dist5,89256424.0
+Sisters,2015-12-18,gen4,dist3,87044645.0
+Alvin and the Chipmunks: The Road Chip,2015-12-18,gen1,dist5,85886987.0
+Maze Runner: The Scorch Trials,2015-09-18,gen2,dist5,81697192.0
+Ted 2,2015-06-26,gen4,dist3,81476385.0
+Goosebumps,2015-10-16,gen6,dist4,80074918.5
+Pixels,2015-07-24,gen1,dist4,78753718.66666667
+Paddington,2015-01-16,gen1,dist14,76223578.0
+The Intern,2014-12-25,gen4,dist4,75764672.0
+Bridge of Spies,2015-10-16,gen5,dist1,72313754.0
+Paul Blart: Mall Cop 2,2015-04-17,gen1,dist4,71055991.33333333
+The Big Short,2015-12-11,gen3,dist6,70259870.0
+War Room,2015-08-28,gen3,dist4,67790117.0
+Magic Mike XXL,2015-07-01,gen4,dist2,66013057.0
+The Visit,2015-09-11,gen6,dist3,65206105.0
+The Wedding Ringer,2015-01-16,gen4,dist4,64460211.0
+Black Mass,2015-09-18,gen3,dist2,62575678.0
+Vacation,2015-07-29,gen4,dist2,58884188.0
+The Perfect Guy,2015-09-11,gen5,dist4,57027435.0
+Joy,2015-12-25,gen3,dist5,56451232.0
+Fantastic Four,2015-08-07,gen2,dist5,56117548.0
+The Hateful Eight,2015-12-25,gen11,dist14,54117416.0
+Focus,2015-02-27,gen4,dist2,53862963.0
+Southpaw,2015-07-24,gen3,dist14,52421953.0
+Insidious Chapter 3,2015-06-05,gen6,dist13,52218558.0
+Selma,2014-12-25,gen3,dist6,52076908.0
+Jupiter Ascending,2015-02-06,gen2,dist2,47419321.666666664
+Poltergeist,2015-05-22,gen6,dist5,47425125.0
+Sicario,2015-09-18,gen5,dist7,46889293.0
+The Man From U.N.C.L.E.,2015-08-14,gen2,dist2,45445109.0
+Spotlight,2015-11-06,gen3,dist29,45055776.0
+"McFarland, USA",2015-02-20,gen3,dist1,44481342.5
+The Gift,2015-01-30,gen5,dist29,6002684.0
+Everest,2015-09-18,gen1,dist3,43482270.0
+The Night Before,2015-06-05,gen6,dist144,43041548.5
+Krampus,2015-12-04,gen6,dist3,42725475.0
+Max,2015-06-26,gen1,dist2,42656255.0
+The Age of Adaline,2015-04-24,gen3,dist7,42629776.0
+Brooklyn,2015-11-04,gen3,dist15,38322743.0
+The Longest Ride,2015-04-10,gen3,dist5,37446117.0
+The Boy Next Door,2015-01-23,gen5,dist3,35714722.5
+Pan,2015-10-09,gen1,dist2,35088320.0
+Hot Pursuit,2015-05-08,gen4,dist2,34555827.0
+Concussion,2015-12-25,gen3,dist4,34537153.0
+The DUFF,2015-02-20,gen4,dist43,34030343.0
+Woman in Gold,2015-04-01,gen3,dist14,33307793.0
+The Second Best Exotic Marigold Hotel,2015-03-06,gen4,dist15,33078266.0
+Unfriended,2015-04-17,gen6,dist3,32635867.5
+Entourage,2015-06-03,gen4,dist2,32363404.0
+Paper Towns,2015-07-24,gen3,dist5,32000304.0
+Chappie,2015-03-06,gen2,dist4,31569268.0
+Crimson Peak,2015-10-16,gen6,dist3,31090320.0
+A Walk in the Woods,2015-09-02,gen1,dist106,29501837.5
+Point Break,2015-12-25,gen2,dist2,28782481.0
+Sinister 2,2015-08-21,gen6,dist13,27740955.0
+The Last Witch Hunter,2015-10-23,gen2,dist7,27367660.0
+No Escape,2015-08-26,gen5,dist14,27287899.0
+Ricki and the Flash,2015-08-07,gen3,dist4,26830821.0
+The Woman in Black 2: Angel of Death,2015-01-02,gen6,dist25,26501323.0
+Run All Night,2015-03-13,gen2,dist2,26461644.0
+Love the Coopers,2015-11-13,gen4,dist43,26302731.0
+The Lazarus Effect,2015-02-27,gen6,dist7,25801570.0
+Ex Machina,2015-04-10,gen5,dist34,25441964.5
+In the Heart of the Sea,2015-12-11,gen1,dist2,25020758.0
+The Gallows,2015-11-13,gen6,dist184,22764410.0
+Hitman: Agent 47,2015-08-21,gen2,dist5,22467450.0
+Project Almanac,2015-01-30,gen1,dist6,22348241.0
+Black or White,2015-01-30,gen3,dist25,21571189.0
+Aloha,2015-05-29,gen3,dist4,21059573.0
+Secret in Their Eyes,2015-11-20,gen5,dist552,20180155.0
+Shaun the Sheep,2015-08-05,gen1,dist7,19375982.0
+Still Alice,2015-01-16,gen4,dist185,18705385.5
+Paranormal Activity: The Ghost Dimension,2015-10-23,gen6,dist6,18298624.0
+Steve Jobs,2015-10-09,gen3,dist3,17766658.0
+Mr. Holmes,2015-07-17,gen3,,17737646.0
+Seventh Son,2015-02-06,gen1,dist3,17725785.0
+Dope,2015-06-19,gen4,dist29,17506470.0
+Monkey Kingdom,2015-04-17,gen10,dist1,16432322.0
+The Transporter Refueled,2015-09-04,gen2,dist105,16029670.0
+Room,2015-10-16,gen3,dist34,14677664.0
+It Follows,2015-03-13,gen6,dist112,14674077.0
+American Ultra,2015-08-21,gen9,dist7,14438524.666666666
+Woodlawn,2015-10-16,gen3,,14394097.0
+Burnt,2015-10-30,gen4,dist14,13651946.0
+Do You Believe?,2015-03-20,gen3,,12985600.0
+Carol,2015-11-20,gen3,dist14,12711491.0
+Love & Mercy,2015-06-05,gen3,dist38,12551031.0
+Strange Magic,2015-01-23,gen1,dist1,12429583.0
+Hot Tub Time Machine 2,2015-02-20,gen4,dist6,12314651.0
+Self/Less,2015-07-10,gen5,dist13,12278970.75
+Far from the Madding Crowd,2015-05-01,gen3,dist15,12236500.0
+The 33,2015-11-13,gen3,dist2,12227722.0
+The Danish Girl,2015-11-27,gen3,dist13,11114018.0
+The Gunman,2015-03-20,gen5,dist29,10652697.0
+Unfinished Business,2015-03-06,gen4,dist5,10219501.0
+The Walk,2015-10-09,gen3,dist4,176637.0
+Un gallo con muchos huevos,2015-09-04,gen1,dist7,9080818.0
+Amy,2015-07-03,gen10,dist34,8413144.0
+Bajrangi Bhaijaan,2015-07-17,gen2,dist32,8178001.0
+Blackhat,2015-10-23,gen5,,3866776.25
+Trumbo,2015-11-06,gen3,dist61,7857741.0
+Mortdecai,2015-01-23,gen2,dist7,7665978.666666667
+While We're Young,2015-03-27,gen4,dist34,7582065.0
+I'll See You in My Dreams,2015-05-15,gen7,dist61,7449681.0
+The Green Inferno,2015-09-25,gen6,dist173,7192291.0
+Our Brand is Crisis,2015-10-30,gen3,dist2,7002261.0
+Grandma,2015-08-21,gen4,,6980524.0
+Me and Earl and the Dying Girl,2015-06-12,gen3,dist15,6758416.0
+Baahubali: The Beginning,2015-07-10,gen2,dist212,6738000.0
+Bajirao Mastani,2015-12-18,gen3,dist32,6557047.0
+Little Boy,2015-04-24,gen3,dist29,6485961.0
+The Loft,2015-01-30,gen5,dist29,6002684.0
+Victor Frankenstein,2015-11-25,gen5,dist5,5775076.0
+Danny Collins,2015-03-20,gen4,dist61,5637066.0
+Dilwale,2015-12-18,gen7,dist35,4857721.0
+90 Minutes in Heaven,2015-09-11,gen3,dist381,4816142.0
+True Story,2015-04-17,gen3,dist15,4719695.0
+Suffragette,2015-10-23,gen3,dist13,4702420.0
+Prem Ratan Dhan Payo,2015-11-12,gen3,dist119,4364639.0
+45 Years,2015-12-23,gen3,dist31,4250507.0
+The Water Diviner,2015-04-24,gen3,dist2,4200117.0
+Irrational Man,2015-07-17,gen4,,4030360.0
+Anomalisa,2015-05-15,gen3,,3759286.0
+Scouts Guide to the Zombie Apocalypse,2015-10-30,gen4,dist6,3669169.0
+A La Mala,2015-02-27,gen7,dist7,3629842.0
+Spare Parts,2015-01-16,gen3,dist7,3618912.0
+We Are Your Friends,2015-08-28,gen3,dist2,3591417.0
+Mommy,2015-01-23,gen3,dist38,3498695.0
+What We Do in the Shadows,2015-02-13,gen4,dist301,3469224.0
+Learning to Drive,2015-08-21,gen3,dist106,3447633.0
+Phoenix,2015-07-24,gen3,dist31,3166858.0
+Dil Dhadakne Do,2015-06-05,gen3,dist32,3066100.0
+Ladrones,2015-10-09,gen4,dist7,3063505.0
+Tanu Weds Manu Returns,2015-05-22,gen4,dist32,3043479.0
+Rock the Kasbah,2015-10-23,gen4,dist29,3020665.0
+The End of the Tour,2015-07-31,gen3,dist34,3002883.0
+Youth,2015-12-04,gen3,dist15,2703296.0
+He Named Me Malala,2015-10-02,gen10,dist15,2668936.0
+Chi-raq,2015-12-04,gen3,,2653031.0
+Captive,2014-12-12,gen5,dist34,2570484.5
+Truth,2015-10-16,gen5,,2541854.0
+Mistress America,2015-08-14,gen4,dist15,2500431.0
+Pawn Sacrifice,2015-09-16,gen3,dist61,2436308.0
+2015 Oscar Shorts,2015-01-30,gen13,dist223,2412493.0
+Meru,2015-08-14,gen10,dist62,2334228.0
+My All-American,2015-11-13,gen3,,2246000.0
+Jem and the Holograms,2015-10-23,gen8,dist3,2184640.0
+Tamasha,2015-11-25,gen4,dist35,2065487.0
+Cake,2015-01-23,gen3,dist400,1951776.0
+Old Fashioned,2015-02-06,gen3,dist67,1914090.0
+Assassination,2015-08-07,gen5,dist10,1904682.0
+Game of Thrones: The IMAX Experience,2015-01-29,gen3,dist2,1896092.0
+Legend,2015-11-20,gen5,dist3,1872994.0
+Clouds of Sils Maria,2015-04-10,gen3,dist31,1841555.0
+Testament of Youth,2015-06-05,gen3,,1822250.0
+Piku,2015-05-08,gen3,dist44,1801806.0
+The Vatican Tapes,2015-07-24,gen6,dist7,1784763.0
+Meet the Patels,2015-09-11,gen10,dist101,1700680.0
+The Letters,2015-12-04,gen3,dist67,1647416.0
+The Diary of a Teenage Girl,2015-08-07,gen3,,1477002.0
+Infinitely Polar Bear,2015-06-19,gen4,,1430655.0
+99 Homes,2015-09-25,gen3,dist106,1411927.0
+Welcome Back,2015-09-04,gen4,dist32,1388365.0

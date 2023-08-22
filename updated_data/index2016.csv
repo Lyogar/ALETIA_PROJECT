@@ -1,0 +1,194 @@
+Movie,Release,id_genre,id_distributor,Gross
+Rogue One: A Star Wars Story,2016-12-16,gen1,dist1,532631546.3333333
+Finding Dory,2016-06-17,gen1,dist1,486295561.0
+Captain America: Civil War,2016-05-06,gen2,dist1,408084349.0
+The Secret Life of Pets,2016-07-08,gen1,dist3,368384330.0
+The Jungle Book,2016-04-15,gen1,dist1,364001123.0
+Deadpool,2016-02-12,gen2,dist5,363070709.0
+Zootopia,2016-03-04,gen1,dist1,341268248.0
+Batman v Superman: Dawn of Justice,2016-03-25,gen2,dist2,330360194.0
+Suicide Squad,2016-08-05,gen2,dist2,325100054.0
+Sing,2016-12-21,gen1,dist3,270362235.0
+Moana,1926-01-07,gen10,dist6,248757044.0
+Fantastic Beasts and Where to Find Them,2016-11-18,gen1,dist2,234037575.0
+Doctor Strange,2016-11-04,gen2,dist1,232641920.0
+Hidden Figures,2016-12-25,gen3,dist5,169607287.0
+Jason Bourne,2016-07-29,gen2,dist3,162353913.33333334
+Star Trek Beyond,2016-07-22,gen1,dist6,158848340.0
+X-Men: Apocalypse,2016-05-27,gen2,dist5,155442489.0
+Trolls,2016-11-04,gen1,dist5,153707064.0
+La La Land,2016-12-09,gen8,dist7,151101803.0
+Kung Fu Panda 3,2016-01-29,gen1,dist5,143528619.0
+Ghostbusters,2016-07-15,gen4,dist4,128350574.0
+Central Intelligence,2016-06-17,gen4,dist2,127440871.0
+The Legend of Tarzan,2016-07-01,gen1,dist2,126643061.0
+Sully,2016-09-09,gen3,dist2,125070033.0
+Bad Moms,2016-07-29,gen4,dist552,113257297.0
+The Angry Birds Movie,2016-05-20,gen1,dist4,107509366.0
+Independence Day: Resurgence,2016-06-24,gen2,dist5,103144286.0
+The Conjuring 2: The Enfield Poltergeist,2016-06-10,gen6,dist2,
+Arrival,2016-11-11,gen3,dist6,100546139.0
+Passengers,2016-12-21,gen5,dist4,100014699.0
+Sausage Party,2016-08-12,gen4,dist4,97678022.0
+The Magnificent Seven,2016-09-23,gen11,dist4,93432655.0
+Ride Along 2,2016-01-15,gen4,dist3,91042257.5
+Don’t Breathe,2016-08-26,gen6,dist4,89217875.0
+Miss Peregrine’s Home for Peculiar Children,2016-09-30,gen1,dist5,87242834.0
+The Accountant,2016-10-14,gen5,dist2,86260045.0
+The Purge: Election Year,2016-07-01,gen6,dist3,79156396.66666667
+Alice Through the Looking Glass,2016-05-27,gen1,dist1,77041881.0
+Pete’s Dragon,2016-08-12,gen1,dist1,76233151.0
+The Girl on the Train,2016-10-07,gen5,dist3,75395035.0
+Tyler Perry’s Boo! A Madea Halloween,2016-10-21,gen4,dist7,73206343.0
+Storks,2016-09-23,gen1,dist2,72679278.0
+10 Cloverfield Lane,2016-03-11,gen5,dist6,72082998.5
+Lights Out,2016-07-22,gen6,dist2,67268835.0
+Hacksaw Ridge,2016-11-04,gen3,dist7,67209615.0
+The Divergent Series: Allegiant,2016-03-18,gen2,dist7,66184051.0
+Now You See Me 2,2016-06-10,gen5,dist7,65075540.0
+Ice Age: Collision Course,2016-07-22,gen1,dist5,64063008.0
+The Boss,2016-01-22,gen6,dist552,49500639.25
+London Has Fallen,2016-03-04,gen5,dist13,62575709.333333336
+Miracles from Heaven,2016-03-16,gen3,dist4,61705123.0
+Deepwater Horizon,2016-09-30,gen5,dist7,61433527.0
+Why Him?,2016-12-23,gen4,dist5,60323786.0
+My Big Fat Greek Wedding 2,2016-03-25,gen4,dist3,59689605.0
+Jack Reacher: Never Go Back,2016-10-21,gen2,dist6,58697076.0
+Fences,2016-12-16,gen3,dist6,57682904.0
+Me Before You,2016-06-03,gen3,dist2,56245075.0
+The BFG,2016-07-01,gen1,dist1,55483770.0
+Neighbors 2: Sorority Rising,2016-05-20,gen4,dist3,55398247.5
+The Shallows,2016-06-24,gen5,dist4,55123236.333333336
+Office Christmas Party,2016-12-09,gen4,dist6,54767494.0
+Assassin’s Creed,2016-12-21,gen2,dist5,54647948.0
+Barbershop: The Next Cut,2016-04-15,gen4,dist2,54030051.0
+13 Hours: The Secret Soldiers of Benghazi,2016-01-15,gen5,dist6,
+Lion,2016-11-25,gen3,dist14,51739200.0
+Kubo and the Two Strings,2016-08-19,gen1,dist13,48023088.0
+The Huntsman: Winter’s War,2016-04-22,gen2,dist3,48196602.5
+Manchester by the Sea,2016-11-18,gen3,dist38,47695371.0
+Warcraft,2016-06-10,gen2,dist3,47365290.0
+How to be Single,2016-02-12,gen7,dist2,46843513.0
+Mike and Dave Need Wedding Dates,2016-07-08,gen4,dist5,46009673.0
+War Dogs,2016-08-19,gen9,dist2,43034523.0
+Almost Christmas,2016-11-11,gen3,dist3,42111982.5
+Money Monster,2016-11-11,gen6,dist34,41012075.0
+Allied,2016-11-23,gen3,dist6,40098064.0
+Nerve,2016-08-19,gen3,dist235,38583626.0
+Risen,2016-02-19,gen3,dist4,36878270.333333336
+The Nice Guys,2016-05-20,gen9,dist2,36261763.0
+The Boy,2016-01-22,gen6,dist552,49500639.25
+Dirty Grandpa,2016-01-22,gen4,dist7,35593113.0
+Ouija: Origin of Evil,2016-10-21,gen6,dist3,35144505.0
+The 5th Wave,2016-03-04,gen2,dist33,34914884.5
+Inferno,2016-10-28,gen5,dist4,34343574.0
+Mother’s Day,2016-04-29,gen7,dist29,32492859.0
+Patriots Day,2016-12-21,gen5,dist7,31886361.0
+Gods of Egypt,2016-02-26,gen1,dist7,31153464.0
+Collateral Beauty,2016-12-16,gen3,dist2,31016021.0
+"Hail, Caesar!",2016-02-05,gen4,dist3,30289155.0
+When the Bough Breaks,2016-09-09,gen5,dist4,29747603.0
+Zoolander 2,2016-02-12,gen4,dist6,28848693.0
+Moonlight,2016-10-21,gen3,dist34,27854931.5
+The Finest Hours,2016-01-29,gen5,dist1,27569558.0
+Florence Foster Jenkins,2016-08-12,gen3,dist6,27383770.0
+Hell or High Water,2016-08-12,gen11,dist7,27007844.0
+The Forest,2016-01-08,gen6,dist191,26594261.0
+Ben-Hur,2016-08-19,gen1,dist6,26410477.0
+The Witch,2016-09-30,gen6,dist104,25138705.0
+Bridget Jones’s Baby,2016-09-16,gen7,dist3,24196112.5
+Kevin Hart: What Now?,2016-10-14,,dist3,23591043.0
+Whiskey Tango Foxtrot,2016-03-04,gen4,dist6,23083334.0
+Snowden,2016-09-16,gen3,dist29,21587519.0
+Mechanic: Resurrection,2016-08-26,gen2,dist7,21218403.0
+Free State of Jones,2016-06-24,gen3,dist552,20792816.666666668
+Blair Witch,2016-09-16,gen6,dist7,20777061.0
+God’s Not Dead 2,2016-04-01,gen3,,20773069.0
+Keanu,2016-04-29,gen4,dist2,20579090.0
+Middle School: The Worst Years of My Life,2016-10-07,gen1,dist7,20007149.0
+Nine Lives,2016-08-05,gen1,dist105,19700032.0
+Race,2016-02-19,gen3,dist13,19160699.0
+The Choice,2016-02-05,gen3,dist7,18730891.0
+Eye in the Sky,2016-03-11,gen5,dist61,18704595.5
+Bad Santa 2,2016-11-23,gen4,dist106,17782177.0
+Masterminds,2016-09-30,gen4,dist25,17362458.0
+Norm of the North,2016-01-15,gen1,dist7,17062499.0
+The Birth of a Nation,2016-10-07,gen3,dist15,15861566.0
+Eddie the Eagle,2016-02-26,gen3,dist5,15789389.0
+A Beautiful Planet,2016-04-29,gen10,dist1,15650615.0
+The Infiltrator,2016-04-08,gen5,dist166,15436808.0
+Keeping Up with the Joneses,2016-10-21,gen4,dist5,14904426.0
+Criminal,2016-04-15,gen2,dist7,14488614.5
+"Hello, My Name is Doris",2016-03-11,gen3,dist38,14444999.0
+The Edge of Seventeen,2016-11-18,gen3,dist552,14431633.0
+Love & Friendship,2016-05-13,gen3,dist38,14016568.0
+Jackie,2016-12-02,gen3,dist15,13960394.0
+Triple 9,2016-02-26,gen5,dist29,12635166.333333334
+The Light Between Oceans,2016-09-02,gen3,dist1,12545979.0
+Dangal,2016-12-21,gen2,dist35,12391761.0
+Fifty Shades of Black,2016-01-29,gen4,dist29,11686940.0
+No Manches Frida,2016-09-02,gen4,dist7,11528613.0
+Café Society,2016-07-15,gen3,dist7,11103205.0
+Pride and Prejudice and Zombies,2016-02-05,gen4,dist4,10907291.0
+The Darkness,2016-05-13,gen6,dist173,10753574.0
+Nocturnal Animals,2016-11-18,gen5,dist13,10663357.0
+Live by Night,2016-12-25,gen3,dist2,10378555.0
+The Lady in the Van,2016-01-15,gen3,,10021175.0
+The Perfect Match,2016-03-11,gen7,dist7,9669521.0
+Popstar: Never Stop Never Stopping,2016-06-03,gen4,dist3,9496130.0
+Hardcore Henry,2016-04-08,gen2,dist552,9252038.0
+The Lobster,2016-11-11,gen6,dist34,9196278.0
+Meet the Blacks,2016-04-01,gen4,dist67,9097072.0
+Queen of Katwe,2016-09-23,gen3,dist1,8874389.0
+Ratchet and Clank,2016-04-29,gen1,dist13,8681575.0
+Loving,2016-11-04,gen3,dist13,7710234.0
+Silence,2016-12-23,gen3,dist6,7100177.0
+Shut In,2016-11-11,gen5,dist105,6900335.0
+The Brothers Grimsby,2016-03-11,gen4,dist4,6867623.0
+The Young Messiah,2016-03-11,gen3,dist13,6469813.0
+Southside with You,2016-08-26,gen3,dist38,6304223.0
+Captain Fantastic,2016-07-08,gen3,dist61,5879835.0
+20th Century Women,2016-12-25,gen3,dist34,5664763.0
+Sultan,2016-07-06,gen3,dist44,5999927.0
+Hunt for the Wilderpeople,2016-06-24,gen4,dist143,5205471.0
+Bleed for This,2016-11-18,gen3,dist29,5083906.0
+Incarnate,2016-12-02,gen6,dist173,4799774.0
+Absolutely Fabulous: The Movie,2016-07-22,gen4,dist15,4772155.0
+Hands of Stone,2016-08-26,gen3,dist14,4712792.0
+Don’t Think Twice,2016-07-22,gen4,dist260,4417983.0
+The Meddler,2016-04-22,gen4,,4267219.0
+Ae Dil Hai Mushkil,2016-10-28,gen3,dist63,4264983.0
+A Hologram for the King,2016-04-22,gen3,dist38,4212494.0
+Swiss Army Man,2016-06-24,gen3,dist34,4210454.0
+Denial,2016-09-30,gen3,dist61,4073448.0
+Morgan,2016-09-02,gen5,dist5,3913651.5
+Kabali,2016-07-21,gen2,dist340,3903095.0
+The Man Who Knew Infinity,2016-04-29,gen3,dist31,3877922.0
+Where to Invade Next,2015-12-23,gen10,dist166,3827261.0
+Max Steel,2016-10-14,gen2,dist29,3818664.0
+Batman: The Killing Joke,2016-07-25,gen2,dist85,3775000.0
+Midnight Special,2016-03-18,gen3,dist2,3712282.0
+Rules Don’t Apply,2016-11-23,gen7,dist5,3652206.0
+Miss Sloane,2016-11-25,gen3,dist105,3500605.0
+Indignation,2016-07-29,gen3,dist38,3401155.0
+Everybody Wants Some,2016-03-30,gen4,dist6,3400278.0
+Maggie’s Plan,2016-05-20,gen4,,3351735.0
+Sing Street,2016-04-15,gen8,dist14,3237118.0
+Green Room,2016-04-15,gen6,dist34,3220371.0
+The Eagle Huntress,2016-11-02,gen10,,3168664.0
+Our Kind of Traitor,2016-07-01,gen5,dist38,3153157.0
+Compadres,2016-04-22,gen4,dist7,3116521.0
+The Other Side of the Door,2016-03-04,gen6,dist5,3000342.0
+Anthropoid,2016-08-12,gen5,dist61,2961459.0
+The Beatles: Eight Days a Week,2016-09-16,gen10,dist203,2934445.0
+2016 Oscar Shorts,2016-01-29,gen13,dist223,2816816.0
+Yip Man 3,2016-01-22,gen2,dist10,2679437.0
+Miles Ahead,2016-04-01,gen3,,2610896.0
+Kapoor & Sons,2016-03-18,gen4,dist63,2607036.0
+The Disappointments Room,2016-09-09,gen6,dist25,2423467.0
+Hillsong: Let Hope Rise,2016-09-16,gen10,,2394725.0
+Elle,2016-11-11,gen3,,2339735.0
+A Aa,2016-06-01,gen7,dist212,2313043.0
+Paterson,2016-12-28,gen4,dist61,2141423.0
+I’m Not Ashamed,2016-10-21,gen3,,2082980.0
+A Bigger Splash,2016-05-04,gen3,dist15,2024099.0

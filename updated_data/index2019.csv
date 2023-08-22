@@ -1,0 +1,191 @@
+Movie,Release,id_genre,id_distributor,Gross
+Avengers: Endgame,2019-04-26,gen2,dist1,858373000.0
+The Lion King,2019-07-19,gen1,dist1,543638043.0
+Star Wars: The Rise of Skywalker,2019-12-20,gen1,dist1,515202542.0
+Frozen II,2019-11-22,gen1,dist1,477373578.0
+Toy Story 4,2019-06-21,gen1,dist1,434038008.0
+Captain Marvel,2019-03-08,gen2,dist1,426829839.0
+Spider-Man: Far From Home,2019-07-02,gen2,dist4,390532085.0
+Aladdin,2019-05-24,gen1,dist1,355559216.0
+Joker,2019-10-04,gen5,dist2,335451311.0
+Jumanji: The Next Level,2019-12-13,gen1,dist4,317992484.0
+It: Chapter Two,2019-09-06,gen6,dist2,211593228.0
+Us,2019-03-22,gen5,dist3,175084580.0
+Fast & Furious Presents: Hobbs & Shaw,2019-08-02,gen2,dist3,173956935.0
+John Wick: Chapter 3 — Parabellum,2019-05-17,gen2,dist7,171016207.0
+Knives Out,2019-11-27,gen3,dist7,165363647.0
+How to Train Your Dragon: The Hidden World,2019-02-22,gen1,dist3,160799505.0
+1917,2019-12-25,gen5,dist3,159227644.0
+The Secret Life of Pets 2,2019-06-07,gen1,dist3,158874395.0
+Pokémon: Detective Pikachu,2019-05-10,gen1,dist2,144105346.0
+Once Upon a Time…in Hollywood,2019-07-26,gen5,dist4,142502728.0
+Shazam!,2019-04-05,gen2,dist2,140371656.0
+Ford v. Ferrari,2019-11-15,gen3,dist5,117624274.75
+Dumbo,2019-03-29,gen1,dist1,114766307.0
+Maleficent: Mistress of Evil,2019-10-18,gen1,dist1,113929605.0
+Glass,2019-04-19,gen3,dist226,111048468.0
+Godzilla: King of the Monsters,2019-05-31,gen2,dist2,110500138.0
+The Upside,2019-01-11,gen4,dist552,108244007.0
+Little Women,2019-12-06,gen3,dist33,108098584.5
+The LEGO Movie 2: The Second Part,2019-02-08,gen1,dist2,105806508.0
+Hustlers,2019-09-13,gen3,dist552,104963598.0
+The Addams Family,2019-10-11,gen1,dist18,98954819.0
+Downton Abbey,2019-09-20,gen3,dist13,96853865.0
+Rocketman,2019-05-31,gen3,dist6,96368160.0
+Alita: Battle Angel,2019-02-14,gen2,dist5,85795543.33333333
+Good Boys,2019-08-16,gen4,dist3,83140306.0
+Men in Black: International,2019-06-14,gen1,dist4,80001807.0
+Annabelle Comes Home,2019-06-26,gen6,dist2,74152591.0
+Yesterday,2019-06-28,gen7,dist3,73286650.0
+Tyler Perry’s A Madea Family Funeral,2019-03-01,gen4,dist7,73257045.0
+Zombieland: Double Tap,2019-10-18,gen4,dist4,73121431.33333333
+Angel Has Fallen,2019-08-23,gen5,dist7,69030436.0
+Scary Stories to Tell in the Dark,2019-08-09,gen6,dist7,68947075.0
+Spies in Disguise,2019-12-25,gen1,dist5,66757013.0
+Dark Phoenix,2019-06-07,gen2,dist5,65845974.0
+Terminator: Dark Fate,2019-11-01,gen2,dist6,62253077.0
+A Beautiful Day in the Neighborhood,2019-11-22,gen3,dist4,61700245.5
+Abominable,2019-09-27,gen1,dist3,60738890.0
+Dora and the Lost City of Gold,2019-08-09,gen1,dist6,60477943.0
+Escape Room,2019-01-04,gen6,dist4,57003986.0
+Midway,2019-11-08,gen2,dist7,56846802.0
+The Curse of La Llorona,2019-04-19,gen6,dist2,54733739.0
+Pet Sematary,2019-04-05,gen6,dist6,54724696.0
+What Men Want,2019-02-08,gen7,dist6,54611903.0
+Ad Astra,2019-09-20,gen5,dist5,50188370.0
+Uncut Gems,2019-12-25,gen5,dist34,50023780.0
+Isn’t it Romantic,2019-02-13,gen7,dist2,48791187.0
+Gemini Man,2019-10-11,gen2,dist6,48546770.0
+MA,2019-05-31,gen6,dist3,45896028.0
+Five Feet Apart,2019-03-15,gen3,dist7,45729221.0
+Wonder Park,2019-03-15,gen1,dist6,45216793.0
+Rambo: Last Blood,2019-09-20,gen2,dist7,36170541.0
+Playing with Fire,2019-11-08,gen4,dist6,44451847.0
+Queen & Slim,2019-11-27,gen3,dist3,43808310.0
+Harriet,2019-11-01,gen3,dist13,43082155.0
+A Dog’s Way Home,2019-01-11,gen3,dist4,41952715.0
+The Angry Birds Movie 2,2019-08-13,gen1,dist4,41660422.666666664
+Little,2019-12-06,gen3,dist10,40860481.0
+Breakthrough,2019-04-17,gen3,dist5,40713082.0
+Crawl,2019-07-12,gen6,dist6,39014193.0
+Just Mercy,2019-12-25,gen3,dist2,36001502.0
+The Hustle,2019-05-10,gen4,dist18,35417038.0
+The Intruder,2019-05-03,gen5,dist4,35404049.0
+Last Christmas,2019-12-13,gen6,dist3,35150750.0
+Overcomer,2019-08-23,gen3,dist4,34723543.5
+Jojo Rabbit,2019-10-18,gen9,dist15,33370906.0
+Cold Pursuit,2019-02-08,gen5,dist7,32138862.0
+Bombshell,2019-12-13,gen3,dist7,31762808.0
+Doctor Sleep,2019-11-08,gen6,dist2,31581712.0
+Dragon Ball Super: Broly,2019-01-16,gen2,dist26,30376755.0
+Long Shot,2019-05-03,gen7,dist7,30316271.0
+Child’s Play,2019-06-21,gen6,dist18,29208403.0
+Ready or Not,2019-08-21,gen9,dist15,28714231.0
+21 Bridges,2019-11-22,gen5,dist552,28539757.0
+Happy Death Day 2U,2019-02-13,gen5,dist3,28148130.0
+Midsommar,2019-07-03,gen6,dist34,27426362.0
+Cats,2019-12-20,gen8,dist3,27166770.0
+The Art of Racing in the Rain,2019-08-09,gen3,dist5,26399230.0
+Countdown,2019-10-25,gen6,dist552,25621766.0
+Judy,2019-09-27,gen3,dist38,24316924.5
+Fighting With My Family,2019-02-14,gen4,dist9,22958734.5
+A Dog’s Journey,2019-05-17,gen3,dist3,22782371.0
+Booksmart,2019-05-24,gen4,dist18,22680962.0
+Stuber,2019-07-12,gen4,dist5,22370452.0
+Richard Jewell,2019-12-13,gen3,dist2,22345542.0
+47 Meters Down: Uncaged,2019-08-16,gen5,,22260900.0
+Black and Blue,2019-10-25,gen2,dist4,22041118.333333332
+Hellboy,2019-04-12,gen6,dist7,21903748.0
+Shaft,2019-06-14,gen4,dist2,21360215.0
+The Peanut Butter Falcon,2019-08-09,gen1,dist38,20457154.5
+UglyDolls,2019-05-03,gen1,dist552,20150241.0
+Unplanned,2019-03-29,gen3,,19005109.0
+Charlie’s Angels,2019-11-15,gen2,dist4,17802191.5
+The Farewell,2019-07-12,gen3,dist34,17698129.5
+BrightBurn,2019-05-24,gen6,dist4,17279933.0
+The Good Liar,2019-11-15,gen5,dist2,17156058.0
+The Kid Who Would Be King,2019-01-25,gen1,dist5,16790790.0
+Missing Link,2019-04-12,gen1,dist18,16649539.0
+Late Night,2019-06-07,gen4,dist73,15499749.5
+Miss Bala,2019-02-01,gen2,dist4,15002425.5
+The Prodigy,2019-02-08,gen6,dist555,14856291.0
+Poms,2019-05-10,gen4,dist552,13631124.0
+The Kitchen,2019-08-09,gen3,dist2,12114644.5
+After,2019-04-12,gen3,dist110,12138565.0
+Blinded by the Light,2019-08-16,gen3,dist2,11901145.0
+Dark Waters,2019-11-22,gen3,dist13,11136084.0
+The Lighthouse,2019-10-18,gen6,dist34,10867104.0
+Greta,2019-03-01,gen5,dist13,10538264.5
+Black Christmas,2019-12-13,gen6,dist3,35150750.0
+The Best of Enemies,2019-04-05,gen3,dist552,10205616.0
+Hotel Mumbai,2019-03-22,gen5,dist61,9635555.5
+Motherless Brooklyn,2019-11-01,gen3,dist2,9277736.0
+No Manches Frida 2,2019-03-15,gen4,dist7,9270920.0
+Where’d You Go Bernadette,2019-08-16,gen4,dist18,9198356.0
+Apollo 11,2019-03-08,gen10,dist51,9040224.0
+Serenity,2019-10-18,gen10,dist88,8547045.0
+Anna,2019-06-21,gen2,dist7,7743794.0
+Penguins,2019-04-17,gen10,dist1,7699452.0
+Brittany Runs a Marathon,2019-08-23,gen3,dist73,7136342.0
+The Dead Don’t Die,2019-06-14,gen6,dist13,6782066.0
+Jexi,2019-10-11,gen7,dist7,6546159.0
+Run the Race,2019-02-22,gen3,dist38,6424420.0
+The Current War: Director’s Cut,2019-10-25,gen3,dist149,5978673.0
+Captive State,2019-03-15,gen5,dist13,5958315.0
+Arctic Dogs,2019-11-01,gen1,,5801249.0
+Gloria Bell,2019-03-08,gen3,dist34,5611123.0
+The Mustang,2019-07-26,gen9,dist104,5336840.0
+The Goldfinch,2019-09-13,gen3,dist2,5332621.0
+Don’t Let Go,2019-08-30,gen5,dist373,5215062.0
+The Sun is Also a Star,2019-05-17,gen3,dist2,4950029.0
+Bring the Soul: The Movie,2019-08-07,gen10,dist107,4809800.0
+Pavarotti,2019-06-07,gen10,dist43,4686402.0
+Jay and Silent Bob Reboot,2019-10-15,gen4,dist85,4589490.0
+Tolkien,2019-05-10,gen3,dist15,4535154.0
+The Last Black Man in San Francisco,2019-06-07,gen3,dist34,4515719.0
+Amazing Grace,2019-04-05,gen10,dist51,4450454.0
+Brian Banks,2019-08-09,gen3,dist61,4376820.0
+The Biggest Little Farm,2019-05-10,gen10,dist51,4367816.0
+Linda Ronstadt: The Sound of My Voice,2019-09-06,gen10,dist140,4252657.0
+Gully Boy,2019-02-14,gen1,dist53,4891485.5
+Uri: The Surgical Strike,2019-01-11,gen2,dist329,4185999.6666666665
+Replicas,2019-01-11,gen5,,4046429.0
+Mission Mangal,2019-08-15,gen3,dist63,3660413.0
+War,2019-10-02,gen2,dist44,4147177.5
+2019 Oscar Shorts,2019-02-08,gen13,dist223,3531093.0
+The Beach Bum,2019-03-29,gen4,dist51,3502600.0
+Echo in the Canyon,2019-05-24,gen10,dist140,3355266.0
+Maiden,2019-06-28,gen10,,3162490.0
+Honey Boy,2019-11-08,gen3,dist73,3012615.0
+Friends 25th: The One With the Anniversary,2019-09-23,gen4,dist85,2884827.0
+Kalank,2019-04-17,gen3,dist63,2729336.0
+Bharat,2019-06-05,gen2,dist53,2876003.0
+Tod@s Caen,2019-08-30,gen7,dist7,2674365.0
+Saaho,2019-08-29,gen2,dist44,2626284.0
+Promare,2019-09-17,gen1,dist36,2528913.0
+The Art of Self-Defense,2019-07-12,gen4,dist61,2410914.0
+Arctic,2019-02-01,gen3,dist61,2409826.0
+Super 30,2019-07-12,gen3,,2269878.0
+Total Dhamaal,2019-02-22,gen4,dist63,2167632.0
+Housefull 4,2019-10-25,gen7,dist63,2109160.0
+Luce,2019-08-02,gen5,dist51,2010613.0
+Chhichhore,2019-09-06,gen4,dist63,2004400.0
+Official Secrets,2019-08-30,gen5,dist31,1996766.0
+Badla,2019-03-08,gen5,dist94,1861000.0
+The White Crow,2019-04-26,gen3,,1827604.0
+The Other Side of Heaven 2: Fire of Faith,2019-06-28,gen3,dist359,1807116.0
+A Hidden Life,2019-12-13,gen3,dist15,1730597.0
+Waves,2019-11-15,gen8,dist34,1658790.0
+Wild Rose,2019-06-21,gen3,dist51,1635118.0
+The Aftermath,2019-03-15,gen3,dist15,1618497.0
+Western Stars,2019-10-25,gen10,dist2,1581681.0
+Red Joan,2019-04-12,gen3,dist31,1580223.0
+Fantastic Fungi,2019-09-20,gen10,dist425,1573734.0
+After the Wedding,2019-08-09,gen3,,1573276.0
+The Kid,2019-04-05,gen6,dist184,1508593.0
+El Chicano,2019-05-03,gen3,,1400603.0
+No Safe Spaces,2019-12-06,gen10,dist187,1291514.0
+High Life,2019-04-05,gen6,dist34,1225852.0
+All is True,2018-12-21,gen3,,1199066.0
+Ek Ladki Ko Dekhah Toh Aisa Laga,2019-02-01,gen7,dist63,1182636.0
+PLAYMOBIL,2019-12-06,gen1,dist552,1115008.0
